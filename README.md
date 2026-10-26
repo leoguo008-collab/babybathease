@@ -6,7 +6,7 @@ Independent Next.js website for https://babybathease.com.
 - Node.js 24, npm, Next.js 16, React 19, SQLite.
 - Build: `npm ci` then `npm run build`. Start: `npm start`.
 - Public catalogue: 58 published products and four categories captured on 2026-10-26. Images, videos, audio, posters, and PDF catalogue are served from this repository's own `public` directory.
-- All 14 languages and the original layouts and product interactions are retained.
+- All 13 languages and the original layouts and product interactions are retained.
 
 ## Configuration
 
