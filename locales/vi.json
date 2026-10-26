@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "THÀNH LẬP",
+      "value": "1982",
+      "note": "Tại Hồng Kông"
+    },
+    {
+      "label": "HAI THẾ HỆ",
+      "value": "Do gia đình điều hành",
+      "note": "Từ Kevin đến Eric Kwok"
+    },
+    {
+      "label": "PHẠM VI TOÀN CẦU",
+      "value": "Hơn 50 quốc gia",
+      "note": "Được tin cậy trên toàn thế giới"
+    },
+    {
+      "label": "CHẤT LƯỢNG SẢN PHẨM",
+      "value": "100% đạt chuẩn",
+      "note": "Luôn đặt an toàn lên hàng đầu"
+    }
+  ],
+  "featureLabels": ["Thiết kế gấp gọn","Cố định bằng giác hút","Tham khảo nhiệt độ","Điều chỉnh chiều cao","Hỗ trợ lưng","Đệm mềm","Thoát nước","Cốc dội nước","Thanh đồ chơi","Tay cầm","Giá đỡ","Võng hoặc lưới tắm","Bánh xe","Cất giữ gọn","Vị trí điều chỉnh","Phụ kiện vòi sen","Thiết kế nổi","Chơi với nước","Câu cá nam châm","Cốc xếp chồng","Bảo vệ vòi nước","Bàn thay tã","Hiệu ứng ánh sáng","Hình động vật"],
+  "colors": {"white":"Trắng","grey":"Xám","blue":"Xanh dương","pink":"Hồng","green":"Xanh lá","purple":"Tím","khaki":"Kaki","peach":"Màu đào","black":"Đen","yellow":"Vàng","oat":"Màu yến mạch","peach + white":"Màu đào + Trắng","gray":"Xám"},
+  "ui": {
+    "officePhone": "Điện thoại văn phòng",
+    "selectInquiry": "Chọn loại yêu cầu",
+    "selectQuantity": "Chọn khoảng số lượng",
+    "quantityRanges": ["Dưới 500 sản phẩm","500–2.000 sản phẩm","2.000–10.000 sản phẩm","Trên 10.000 sản phẩm"],
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "language": "Chọn ngôn ngữ",
+    "menu": "Danh mục",
+    "quote": "Yêu cầu báo giá",
+    "download": "Tải danh mục",
+    "talk": "Liên hệ đội ngũ",
+    "all": "Tất cả sản phẩm",
+    "details": "Xem chi tiết",
+    "categories": "Danh mục sản phẩm",
+    "tagline": "Ý tưởng của bạn, chuyên môn của chúng tôi",
+    "manufacturer": "Nhà sản xuất đồ tắm em bé OEM / ODM",
+    "heroTitle": "Giờ tắm an toàn.",
+    "heroAccent": "Sản xuất theo quy mô.",
+    "heroIntro": "Chúng tôi thiết kế và sản xuất đồ tắm em bé cho thương hiệu và nhà bán lẻ quốc tế, từ ý tưởng đến sản xuất hàng loạt.",
+    "productsTitle": "Khám phá bộ sưu tập đồ tắm em bé",
+    "productsIntro": "Giải pháp thiết thực cho thương hiệu quốc tế, nhà phân phối và nhãn hàng riêng.",
+    "library": "DANH MỤC SẢN PHẨM",
+    "libraryTitle": "Cho giờ tắm vui vẻ.",
+    "ctaTitle": "Bạn cần dòng sản phẩm tắm em bé riêng?",
+    "ctaIntro": "Hãy chia sẻ thị trường mục tiêu, yêu cầu sản phẩm và số lượng đặt hàng. Chúng tôi sẽ chuẩn bị giải pháp phù hợp.",
+    "aboutTitle": "Chăm sóc từ năm 1982.",
+    "aboutIntro": "Được Kevin Kwok thành lập tại Hồng Kông năm 1982, doanh nghiệp gia đình của chúng tôi có hơn 40 năm kinh nghiệm thiết kế sản phẩm nhựa và sản xuất đồ tắm em bé. Eric Kwok tiếp nối công việc với thiết kế hiện đại và kiểm soát chất lượng cho đối tác tại hơn 50 quốc gia.",
+    "contactTitle": "Liên hệ với chúng tôi.",
+    "contactIntro": "Bán buôn, phân phối hoặc OEM — chúng tôi phản hồi trong hai ngày làm việc.",
+    "name": "Họ tên",
+    "email": "Email",
+    "company": "Công ty",
+    "phone": "Điện thoại / WhatsApp",
+    "market": "Thị trường mục tiêu / quốc gia",
+    "message": "Nội dung",
+    "inquiryType": "Loại yêu cầu",
+    "quantity": "Số lượng dự kiến",
+    "wholesale": "Bán buôn",
+    "sourcing": "Tìm nguồn hàng",
+    "select": "Chọn",
+    "send": "Gửi yêu cầu",
+    "sending": "Đang gửi…",
+    "success": "Cảm ơn. Chúng tôi đã nhận được yêu cầu.",
+    "error": "Không gửi được. Vui lòng kiểm tra thông tin và thử lại.",
+    "required": "Trường bắt buộc",
+    "address": "Địa chỉ văn phòng",
+    "response": "Phản hồi",
+    "responseTime": "Trong hai ngày làm việc",
+    "rights": "Bảo lưu mọi quyền.",
+    "overview": "Giới thiệu sản phẩm",
+    "specifications": "Thông số",
+    "originalSpecs": "Thông số kỹ thuật gốc (tiếng Anh)",
+    "gallery": "Hình ảnh",
+    "videos": "Video sản phẩm",
+    "model": "Mẫu",
+    "safety": "Luôn giám sát trẻ liên tục trong suốt thời gian tắm.",
+    "back": "Quay lại sản phẩm",
+    "visit": "Ghé thăm văn phòng tại Thâm Quyến.",
+    "map": "Mở Google Maps",
+    "features": "Đặc điểm",
+    "color": "Màu sắc",
+    "size": "Kích thước",
+    "close": "Đóng",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "years": "Năm kinh nghiệm",
+    "brands": "Thương hiệu toàn cầu",
+    "capacity": "Công suất hàng tháng",
+    "delivery": "Giao hàng đúng hạn",
+    "oemTitle": "Đối tác sản xuất OEM / ODM",
+    "oemIntro": "Từ thiết kế đến sản xuất, chúng tôi hỗ trợ tùy chỉnh, đóng gói và kiểm soát chất lượng cho dòng sản phẩm của bạn.",
+    "officePhotos": "Ảnh văn phòng",
+    "empty": "Không có sản phẩm trong danh mục này.",
+    "productIntro": "Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+    "downloadEnglish": "PDF · Tiếng Anh"
+  },
+  "categories": {
+    "1": "Chậu tắm bé",
+    "2": "Giá đỡ và ghế tắm",
+    "3": "Đồ chơi tắm",
+    "4": "Phụ kiện tắm",
+    "5": "Khăn tắm em bé"
+  },
+  "products": {
+    "BBA001": {
+      "name": "Bộ cốc dội nước",
+      "description": "Bộ cốc dội nước. Đặc điểm: Cốc dội nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cốc dội nước",
+      "seoTitle": "Bộ cốc dội nước (BBA001) | Baby Bath Ease",
+      "seoDescription": "Bộ cốc dội nước (BBA001) — Cốc dội nước. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ cốc dội nước, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Cốc dội nước Moby, xám",
+      "description": "Cốc dội nước Moby, xám. Đặc điểm: Cốc dội nước · Tay cầm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cốc dội nước · Tay cầm",
+      "seoTitle": "Cốc dội nước Moby, xám (BBA002) | Baby Bath Ease",
+      "seoDescription": "Cốc dội nước Moby, xám (BBA002) — Cốc dội nước · Tay cầm. Bán buôn / OEM / ODM.",
+      "keywords": "Cốc dội nước Moby, xám, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "Bọc bảo vệ vòi bồn tắm cá heo",
+      "description": "Bọc bảo vệ vòi bồn tắm cá heo. Đặc điểm: Bảo vệ vòi nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Bảo vệ vòi nước",
+      "seoTitle": "Bọc bảo vệ vòi bồn tắm cá heo (BBA003) | Baby Bath Ease",
+      "seoDescription": "Bọc bảo vệ vòi bồn tắm cá heo (BBA003) — Bảo vệ vòi nước. Bán buôn / OEM / ODM.",
+      "keywords": "Bọc bảo vệ vòi bồn tắm cá heo, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "Bọc vòi nước cá voi xám",
+      "description": "Bọc vòi nước cá voi xám. Đặc điểm: Bảo vệ vòi nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Bảo vệ vòi nước",
+      "seoTitle": "Bọc vòi nước cá voi xám (BBA004) | Baby Bath Ease",
+      "seoDescription": "Bọc vòi nước cá voi xám (BBA004) — Bảo vệ vòi nước. Bán buôn / OEM / ODM.",
+      "keywords": "Bọc vòi nước cá voi xám, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "Nhiệt kế tắm hình vịt",
+      "description": "Nhiệt kế tắm hình vịt. Đặc điểm: Tham khảo nhiệt độ · Thiết kế nổi. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Tham khảo nhiệt độ · Thiết kế nổi",
+      "seoTitle": "Nhiệt kế tắm hình vịt (BBA005) | Baby Bath Ease",
+      "seoDescription": "Nhiệt kế tắm hình vịt (BBA005) — Tham khảo nhiệt độ · Thiết kế nổi. Bán buôn / OEM / ODM.",
+      "keywords": "Nhiệt kế tắm hình vịt, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "Nhiệt kế tắm rùa nổi",
+      "description": "Nhiệt kế tắm rùa nổi. Đặc điểm: Tham khảo nhiệt độ · Thiết kế nổi. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Tham khảo nhiệt độ · Thiết kế nổi",
+      "seoTitle": "Nhiệt kế tắm rùa nổi (BBA006) | Baby Bath Ease",
+      "seoDescription": "Nhiệt kế tắm rùa nổi (BBA006) — Tham khảo nhiệt độ · Thiết kế nổi. Bán buôn / OEM / ODM.",
+      "keywords": "Nhiệt kế tắm rùa nổi, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "Bàn thay tã điều chỉnh, xám nhạt",
+      "description": "Bàn thay tã điều chỉnh, xám nhạt. Đặc điểm: Thiết kế gấp gọn · Điều chỉnh chiều cao · Bánh xe · Cất giữ gọn · Bàn thay tã. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Điều chỉnh chiều cao · Bánh xe · Cất giữ gọn",
+      "seoTitle": "Bàn thay tã điều chỉnh, xám nhạt (BBA007) | Baby Bath Ease",
+      "seoDescription": "Bàn thay tã điều chỉnh, xám nhạt (BBA007) — Thiết kế gấp gọn · Điều chỉnh chiều cao · Bánh xe · Cất giữ gọn. Bán buôn / OEM / ODM.",
+      "keywords": "Bàn thay tã điều chỉnh, xám nhạt, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "Bàn thay tã 2 trong 1 kèm chậu tắm, xám",
+      "description": "Bàn thay tã 2 trong 1 kèm chậu tắm, xám. Đặc điểm: Thiết kế gấp gọn · Bánh xe · Cất giữ gọn · Bàn thay tã. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Bánh xe · Cất giữ gọn · Bàn thay tã",
+      "seoTitle": "Bàn thay tã 2 trong 1 kèm chậu tắm, xám (BBA008) | Baby Bath Ease",
+      "seoDescription": "Bàn thay tã 2 trong 1 kèm chậu tắm, xám (BBA008) — Thiết kế gấp gọn · Bánh xe · Cất giữ gọn · Bàn thay tã. Bán buôn / OEM / ODM.",
+      "keywords": "Bàn thay tã 2 trong 1 kèm chậu tắm, xám, Phụ kiện tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "Giá đỡ tắm trẻ sơ sinh, trắng",
+      "description": "Giá đỡ tắm trẻ sơ sinh, trắng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Giá đỡ và ghế tắm",
+      "seoTitle": "Giá đỡ tắm trẻ sơ sinh, trắng (BBS001) | Baby Bath Ease",
+      "seoDescription": "Giá đỡ tắm trẻ sơ sinh, trắng (BBS001) — Giá đỡ và ghế tắm. Bán buôn / OEM / ODM.",
+      "keywords": "Giá đỡ tắm trẻ sơ sinh, trắng, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "Ghế tắm chống trượt có giác hút",
+      "description": "Ghế tắm chống trượt có giác hút. Đặc điểm: Cố định bằng giác hút · Đệm mềm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Đệm mềm",
+      "seoTitle": "Ghế tắm chống trượt có giác hút (BBS002) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm chống trượt có giác hút (BBS002) — Cố định bằng giác hút · Đệm mềm. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm chống trượt có giác hút, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "Ghế tắm bé 360° có giác hút",
+      "description": "Ghế tắm bé 360° có giác hút. Đặc điểm: Cố định bằng giác hút · Đệm mềm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Đệm mềm",
+      "seoTitle": "Ghế tắm bé 360° có giác hút (BBS003) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm bé 360° có giác hút (BBS003) — Cố định bằng giác hút · Đệm mềm. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm bé 360° có giác hút, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "Ghế tắm điều chỉnh với ba giác hút",
+      "description": "Ghế tắm điều chỉnh với ba giác hút. Đặc điểm: Cố định bằng giác hút · Hỗ trợ lưng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Hỗ trợ lưng",
+      "seoTitle": "Ghế tắm điều chỉnh với ba giác hút (BBS004) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm điều chỉnh với ba giác hút (BBS004) — Cố định bằng giác hút · Hỗ trợ lưng. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm điều chỉnh với ba giác hút, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "Ghế tắm có giác hút, xám",
+      "description": "Ghế tắm có giác hút, xám. Đặc điểm: Cố định bằng giác hút · Hỗ trợ lưng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Hỗ trợ lưng",
+      "seoTitle": "Ghế tắm có giác hút, xám (BBS005) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm có giác hút, xám (BBS005) — Cố định bằng giác hút · Hỗ trợ lưng. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm có giác hút, xám, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "Ghế tắm có màn hình nhiệt độ",
+      "description": "Ghế tắm có màn hình nhiệt độ. Đặc điểm: Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng · Đệm mềm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng · Đệm mềm",
+      "seoTitle": "Ghế tắm có màn hình nhiệt độ (BBS006) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm có màn hình nhiệt độ (BBS006) — Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng · Đệm mềm. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm có màn hình nhiệt độ, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "Ghế tắm báo nhiệt độ từ 6 tháng, xám",
+      "description": "Ghế tắm báo nhiệt độ từ 6 tháng, xám. Đặc điểm: Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng",
+      "seoTitle": "Ghế tắm báo nhiệt độ từ 6 tháng, xám (BBS007) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm báo nhiệt độ từ 6 tháng, xám (BBS007) — Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm báo nhiệt độ từ 6 tháng, xám, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "Ghế tắm điều chỉnh có màn hình nhiệt độ, hồng",
+      "description": "Ghế tắm điều chỉnh có màn hình nhiệt độ, hồng. Đặc điểm: Cố định bằng giác hút · Tham khảo nhiệt độ · Đệm mềm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Tham khảo nhiệt độ · Đệm mềm",
+      "seoTitle": "Ghế tắm điều chỉnh có màn hình nhiệt độ, hồng (BBS008) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm điều chỉnh có màn hình nhiệt độ, hồng (BBS008) — Cố định bằng giác hút · Tham khảo nhiệt độ · Đệm mềm. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm điều chỉnh có màn hình nhiệt độ, hồng, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "Ghế tắm có miếng dán nhiệt kế, xám",
+      "description": "Ghế tắm có miếng dán nhiệt kế, xám. Đặc điểm: Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng · Thoát nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng · Thoát nước",
+      "seoTitle": "Ghế tắm có miếng dán nhiệt kế, xám (BBS009) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm có miếng dán nhiệt kế, xám (BBS009) — Cố định bằng giác hút · Tham khảo nhiệt độ · Hỗ trợ lưng · Thoát nước. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm có miếng dán nhiệt kế, xám, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "Ghế tắm khủng long có thanh đồ chơi",
+      "description": "Ghế tắm khủng long có thanh đồ chơi. Đặc điểm: Cố định bằng giác hút · Đệm mềm · Thanh đồ chơi. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Đệm mềm · Thanh đồ chơi",
+      "seoTitle": "Ghế tắm khủng long có thanh đồ chơi (BBS010) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm khủng long có thanh đồ chơi (BBS010) — Cố định bằng giác hút · Đệm mềm · Thanh đồ chơi. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm khủng long có thanh đồ chơi, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "Ghế tắm tựa lưng bốn vị trí, màu đào và trắng",
+      "description": "Ghế tắm tựa lưng bốn vị trí, màu đào và trắng. Đặc điểm: Cố định bằng giác hút · Tham khảo nhiệt độ · Điều chỉnh chiều cao · Hỗ trợ lưng · Thoát nước · Cốc dội nước · Vị trí điều chỉnh. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút · Tham khảo nhiệt độ · Điều chỉnh chiều cao · Hỗ trợ lưng",
+      "seoTitle": "Ghế tắm tựa lưng bốn vị trí, màu đào và trắng (BBS011) | Baby Bath Ease",
+      "seoDescription": "Ghế tắm tựa lưng bốn vị trí, màu đào và trắng (BBS011) — Cố định bằng giác hút · Tham khảo nhiệt độ · Điều chỉnh chiều cao · Hỗ trợ lưng. Bán buôn / OEM / ODM.",
+      "keywords": "Ghế tắm tựa lưng bốn vị trí, màu đào và trắng, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "Giá hỗ trợ tắm vòi sen hình vịt điều chỉnh",
+      "description": "Giá hỗ trợ tắm vòi sen hình vịt điều chỉnh. Đặc điểm: Điều chỉnh chiều cao · Thoát nước · Vị trí điều chỉnh · Phụ kiện vòi sen. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Điều chỉnh chiều cao · Thoát nước · Vị trí điều chỉnh · Phụ kiện vòi sen",
+      "seoTitle": "Giá hỗ trợ tắm vòi sen hình vịt điều chỉnh (BBS012) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ tắm vòi sen hình vịt điều chỉnh (BBS012) — Điều chỉnh chiều cao · Thoát nước · Vị trí điều chỉnh · Phụ kiện vòi sen. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ tắm vòi sen hình vịt điều chỉnh, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "Giá hỗ trợ tắm vòi sen điều chỉnh, xám",
+      "description": "Giá hỗ trợ tắm vòi sen điều chỉnh, xám. Đặc điểm: Điều chỉnh chiều cao. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Điều chỉnh chiều cao",
+      "seoTitle": "Giá hỗ trợ tắm vòi sen điều chỉnh, xám (BBS013) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ tắm vòi sen điều chỉnh, xám (BBS013) — Điều chỉnh chiều cao. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ tắm vòi sen điều chỉnh, xám, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "Giá hỗ trợ đứng tắm điều chỉnh cải tiến",
+      "description": "Giá hỗ trợ đứng tắm điều chỉnh cải tiến. Đặc điểm: Hỗ trợ lưng · Thoát nước · Tay cầm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Hỗ trợ lưng · Thoát nước · Tay cầm",
+      "seoTitle": "Giá hỗ trợ đứng tắm điều chỉnh cải tiến (BBS014) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ đứng tắm điều chỉnh cải tiến (BBS014) — Hỗ trợ lưng · Thoát nước · Tay cầm. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ đứng tắm điều chỉnh cải tiến, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "Giá hỗ trợ tắm điều chỉnh, xanh lá",
+      "description": "Giá hỗ trợ tắm điều chỉnh, xanh lá. Đặc điểm: Điều chỉnh chiều cao · Hỗ trợ lưng · Thoát nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Điều chỉnh chiều cao · Hỗ trợ lưng · Thoát nước",
+      "seoTitle": "Giá hỗ trợ tắm điều chỉnh, xanh lá (BBS015) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ tắm điều chỉnh, xanh lá (BBS015) — Điều chỉnh chiều cao · Hỗ trợ lưng · Thoát nước. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ tắm điều chỉnh, xanh lá, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "Giá hỗ trợ tắm vòi sen trẻ em điều chỉnh, kaki",
+      "description": "Giá hỗ trợ tắm vòi sen trẻ em điều chỉnh, kaki. Đặc điểm: Điều chỉnh chiều cao. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Điều chỉnh chiều cao",
+      "seoTitle": "Giá hỗ trợ tắm vòi sen trẻ em điều chỉnh, kaki (BBS016) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ tắm vòi sen trẻ em điều chỉnh, kaki (BBS016) — Điều chỉnh chiều cao. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ tắm vòi sen trẻ em điều chỉnh, kaki, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "Giá hỗ trợ tắm ngồi và đứng",
+      "description": "Giá hỗ trợ tắm ngồi và đứng. Đặc điểm: Thiết kế gấp gọn · Điều chỉnh chiều cao · Thoát nước · Tay cầm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Điều chỉnh chiều cao · Thoát nước · Tay cầm",
+      "seoTitle": "Giá hỗ trợ tắm ngồi và đứng (BBS017) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ tắm ngồi và đứng (BBS017) — Thiết kế gấp gọn · Điều chỉnh chiều cao · Thoát nước · Tay cầm. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ tắm ngồi và đứng, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "Giá tắm vòi sen hình vịt gấp gọn, xám",
+      "description": "Giá tắm vòi sen hình vịt gấp gọn, xám. Đặc điểm: Thiết kế gấp gọn · Cố định bằng giác hút · Điều chỉnh chiều cao. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Cố định bằng giác hút · Điều chỉnh chiều cao",
+      "seoTitle": "Giá tắm vòi sen hình vịt gấp gọn, xám (BBS018) | Baby Bath Ease",
+      "seoDescription": "Giá tắm vòi sen hình vịt gấp gọn, xám (BBS018) — Thiết kế gấp gọn · Cố định bằng giác hút · Điều chỉnh chiều cao. Bán buôn / OEM / ODM.",
+      "keywords": "Giá tắm vòi sen hình vịt gấp gọn, xám, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "Giá hỗ trợ đứng tắm hình vịt điều chỉnh, hồng",
+      "description": "Giá hỗ trợ đứng tắm hình vịt điều chỉnh, hồng. Đặc điểm: Điều chỉnh chiều cao · Thoát nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Điều chỉnh chiều cao · Thoát nước",
+      "seoTitle": "Giá hỗ trợ đứng tắm hình vịt điều chỉnh, hồng (BBS019) | Baby Bath Ease",
+      "seoDescription": "Giá hỗ trợ đứng tắm hình vịt điều chỉnh, hồng (BBS019) — Điều chỉnh chiều cao · Thoát nước. Bán buôn / OEM / ODM.",
+      "keywords": "Giá hỗ trợ đứng tắm hình vịt điều chỉnh, hồng, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "Tháp hỗ trợ tắm bé, tím",
+      "description": "Tháp hỗ trợ tắm bé, tím. Đặc điểm: Giá đỡ. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Giá đỡ",
+      "seoTitle": "Tháp hỗ trợ tắm bé, tím (BBS020) | Baby Bath Ease",
+      "seoDescription": "Tháp hỗ trợ tắm bé, tím (BBS020) — Giá đỡ. Bán buôn / OEM / ODM.",
+      "keywords": "Tháp hỗ trợ tắm bé, tím, Giá đỡ và ghế tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "Chậu tắm bé gấp gọn, xám",
+      "description": "Chậu tắm bé gấp gọn, xám. Đặc điểm: Thiết kế gấp gọn · Võng hoặc lưới tắm · Cất giữ gọn. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Võng hoặc lưới tắm · Cất giữ gọn",
+      "seoTitle": "Chậu tắm bé gấp gọn, xám (BBT001) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm bé gấp gọn, xám (BBT001) — Thiết kế gấp gọn · Võng hoặc lưới tắm · Cất giữ gọn. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm bé gấp gọn, xám, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "Chậu tắm bé gấp gọn, hồng",
+      "description": "Chậu tắm bé gấp gọn, hồng. Đặc điểm: Thiết kế gấp gọn · Tham khảo nhiệt độ · Đệm mềm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Tham khảo nhiệt độ · Đệm mềm",
+      "seoTitle": "Chậu tắm bé gấp gọn, hồng (BBT002) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm bé gấp gọn, hồng (BBT002) — Thiết kế gấp gọn · Tham khảo nhiệt độ · Đệm mềm. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm bé gấp gọn, hồng, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "Chậu tắm gấp gọn có đệm, xám",
+      "description": "Chậu tắm gấp gọn có đệm, xám. Đặc điểm: Thiết kế gấp gọn · Tham khảo nhiệt độ · Điều chỉnh chiều cao · Đệm mềm · Thoát nước · Cất giữ gọn. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Tham khảo nhiệt độ · Điều chỉnh chiều cao · Đệm mềm",
+      "seoTitle": "Chậu tắm gấp gọn có đệm, xám (BBT003) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm gấp gọn có đệm, xám (BBT003) — Thiết kế gấp gọn · Tham khảo nhiệt độ · Điều chỉnh chiều cao · Đệm mềm. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm gấp gọn có đệm, xám, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "Chậu tắm gấp gọn, màu yến mạch",
+      "description": "Chậu tắm gấp gọn, màu yến mạch. Đặc điểm: Thiết kế gấp gọn · Tham khảo nhiệt độ · Võng hoặc lưới tắm · Cất giữ gọn. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Tham khảo nhiệt độ · Võng hoặc lưới tắm · Cất giữ gọn",
+      "seoTitle": "Chậu tắm gấp gọn, màu yến mạch (BBT005) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm gấp gọn, màu yến mạch (BBT005) — Thiết kế gấp gọn · Tham khảo nhiệt độ · Võng hoặc lưới tắm · Cất giữ gọn. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm gấp gọn, màu yến mạch, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "Chậu tắm gấp gọn 4 trong 1, xám",
+      "description": "Chậu tắm gấp gọn 4 trong 1, xám. Đặc điểm: Thiết kế gấp gọn · Tham khảo nhiệt độ · Thoát nước · Cất giữ gọn · Thiết kế nổi. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Tham khảo nhiệt độ · Thoát nước · Cất giữ gọn",
+      "seoTitle": "Chậu tắm gấp gọn 4 trong 1, xám (BBT006) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm gấp gọn 4 trong 1, xám (BBT006) — Thiết kế gấp gọn · Tham khảo nhiệt độ · Thoát nước · Cất giữ gọn. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm gấp gọn 4 trong 1, xám, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "Chậu tắm bé gấp gọn",
+      "description": "Chậu tắm bé gấp gọn. Đặc điểm: Thiết kế gấp gọn · Thoát nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Thoát nước",
+      "seoTitle": "Chậu tắm bé gấp gọn (BBT007) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm bé gấp gọn (BBT007) — Thiết kế gấp gọn · Thoát nước. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm bé gấp gọn, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "Chậu tắm kèm giá gấp, hồng",
+      "description": "Chậu tắm kèm giá gấp, hồng. Đặc điểm: Thiết kế gấp gọn · Hỗ trợ lưng · Thoát nước · Giá đỡ · Cất giữ gọn. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Hỗ trợ lưng · Thoát nước · Giá đỡ",
+      "seoTitle": "Chậu tắm kèm giá gấp, hồng (BBT008) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm kèm giá gấp, hồng (BBT008) — Thiết kế gấp gọn · Hỗ trợ lưng · Thoát nước · Giá đỡ. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm kèm giá gấp, hồng, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "Chậu tắm ba giai đoạn, xám",
+      "description": "Chậu tắm ba giai đoạn, xám. Đặc điểm: Thoát nước · Vị trí điều chỉnh. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thoát nước · Vị trí điều chỉnh",
+      "seoTitle": "Chậu tắm ba giai đoạn, xám (BBT009) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm ba giai đoạn, xám (BBT009) — Thoát nước · Vị trí điều chỉnh. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm ba giai đoạn, xám, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "Chậu tắm ngả lưng 4 trong 1",
+      "description": "Chậu tắm ngả lưng 4 trong 1. Đặc điểm: Vị trí điều chỉnh. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Vị trí điều chỉnh",
+      "seoTitle": "Chậu tắm ngả lưng 4 trong 1 (BBT010) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm ngả lưng 4 trong 1 (BBT010) — Vị trí điều chỉnh. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm ngả lưng 4 trong 1, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "Chậu tắm theo giai đoạn 3 trong 1",
+      "description": "Chậu tắm theo giai đoạn 3 trong 1. Đặc điểm: Thoát nước · Võng hoặc lưới tắm · Cất giữ gọn · Vị trí điều chỉnh. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thoát nước · Võng hoặc lưới tắm · Cất giữ gọn · Vị trí điều chỉnh",
+      "seoTitle": "Chậu tắm theo giai đoạn 3 trong 1 (BBT011) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm theo giai đoạn 3 trong 1 (BBT011) — Thoát nước · Võng hoặc lưới tắm · Cất giữ gọn · Vị trí điều chỉnh. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm theo giai đoạn 3 trong 1, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "Bộ chậu tắm spa vòi sen mưa",
+      "description": "Bộ chậu tắm spa vòi sen mưa. Đặc điểm: Võng hoặc lưới tắm · Phụ kiện vòi sen. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Võng hoặc lưới tắm · Phụ kiện vòi sen",
+      "seoTitle": "Bộ chậu tắm spa vòi sen mưa (BBT012) | Baby Bath Ease",
+      "seoDescription": "Bộ chậu tắm spa vòi sen mưa (BBT012) — Võng hoặc lưới tắm · Phụ kiện vòi sen. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ chậu tắm spa vòi sen mưa, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "Chậu tắm gấp gọn kèm cốc dội nước",
+      "description": "Chậu tắm gấp gọn kèm cốc dội nước. Đặc điểm: Thiết kế gấp gọn · Cốc dội nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Cốc dội nước",
+      "seoTitle": "Chậu tắm gấp gọn kèm cốc dội nước (BBT013) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm gấp gọn kèm cốc dội nước (BBT013) — Thiết kế gấp gọn · Cốc dội nước. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm gấp gọn kèm cốc dội nước, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "Chậu tắm gấp gọn kèm giá và đệm",
+      "description": "Chậu tắm gấp gọn kèm giá và đệm. Đặc điểm: Thiết kế gấp gọn · Đệm mềm · Giá đỡ. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế gấp gọn · Đệm mềm · Giá đỡ",
+      "seoTitle": "Chậu tắm gấp gọn kèm giá và đệm (BBT014) | Baby Bath Ease",
+      "seoDescription": "Chậu tắm gấp gọn kèm giá và đệm (BBT014) — Thiết kế gấp gọn · Đệm mềm · Giá đỡ. Bán buôn / OEM / ODM.",
+      "keywords": "Chậu tắm gấp gọn kèm giá và đệm, Chậu tắm bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "Cá voi phun nước",
+      "description": "Cá voi phun nước. Đặc điểm: Chơi với nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Chơi với nước",
+      "seoTitle": "Cá voi phun nước (BTOY001) | Baby Bath Ease",
+      "seoDescription": "Cá voi phun nước (BTOY001) — Chơi với nước. Bán buôn / OEM / ODM.",
+      "keywords": "Cá voi phun nước, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "Đồ chơi vòi phun cá voi phát sáng",
+      "description": "Đồ chơi vòi phun cá voi phát sáng. Đặc điểm: Chơi với nước · Hiệu ứng ánh sáng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Chơi với nước · Hiệu ứng ánh sáng",
+      "seoTitle": "Đồ chơi vòi phun cá voi phát sáng (BTOY002) | Baby Bath Ease",
+      "seoDescription": "Đồ chơi vòi phun cá voi phát sáng (BTOY002) — Chơi với nước · Hiệu ứng ánh sáng. Bán buôn / OEM / ODM.",
+      "keywords": "Đồ chơi vòi phun cá voi phát sáng, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "Đồ chơi đường ống nước",
+      "description": "Đồ chơi đường ống nước. Đặc điểm: Chơi với nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Chơi với nước",
+      "seoTitle": "Đồ chơi đường ống nước (BTOY003) | Baby Bath Ease",
+      "seoDescription": "Đồ chơi đường ống nước (BTOY003) — Chơi với nước. Bán buôn / OEM / ODM.",
+      "keywords": "Đồ chơi đường ống nước, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "Cầu trượt tắm chim cánh cụt",
+      "description": "Cầu trượt tắm chim cánh cụt. Đặc điểm: Hình động vật. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Hình động vật",
+      "seoTitle": "Cầu trượt tắm chim cánh cụt (BTOY004) | Baby Bath Ease",
+      "seoDescription": "Cầu trượt tắm chim cánh cụt (BTOY004) — Hình động vật. Bán buôn / OEM / ODM.",
+      "keywords": "Cầu trượt tắm chim cánh cụt, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "Đường đua nước trong bồn tắm",
+      "description": "Đường đua nước trong bồn tắm. Đặc điểm: Chơi với nước. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Chơi với nước",
+      "seoTitle": "Đường đua nước trong bồn tắm (BTOY005) | Baby Bath Ease",
+      "seoDescription": "Đường đua nước trong bồn tắm (BTOY005) — Chơi với nước. Bán buôn / OEM / ODM.",
+      "keywords": "Đường đua nước trong bồn tắm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "Bộ đồ chơi tắm có xẻng",
+      "description": "Bộ đồ chơi tắm có xẻng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Đồ chơi tắm",
+      "seoTitle": "Bộ đồ chơi tắm có xẻng (BTOY006) | Baby Bath Ease",
+      "seoDescription": "Bộ đồ chơi tắm có xẻng (BTOY006) — Đồ chơi tắm. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ đồ chơi tắm có xẻng, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "Bộ đồ chơi tắm có xẻng nhiều màu",
+      "description": "Bộ đồ chơi tắm có xẻng nhiều màu. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Đồ chơi tắm",
+      "seoTitle": "Bộ đồ chơi tắm có xẻng nhiều màu (BTOY007) | Baby Bath Ease",
+      "seoDescription": "Bộ đồ chơi tắm có xẻng nhiều màu (BTOY007) — Đồ chơi tắm. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ đồ chơi tắm có xẻng nhiều màu, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "Bộ xô tắm nhân vật",
+      "description": "Bộ xô tắm nhân vật. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Đồ chơi tắm",
+      "seoTitle": "Bộ xô tắm nhân vật (BTOY008) | Baby Bath Ease",
+      "seoDescription": "Bộ xô tắm nhân vật (BTOY008) — Đồ chơi tắm. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ xô tắm nhân vật, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "Rùa nổi đồ chơi tắm",
+      "description": "Rùa nổi đồ chơi tắm. Đặc điểm: Thiết kế nổi. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế nổi",
+      "seoTitle": "Rùa nổi đồ chơi tắm (BTOY009) | Baby Bath Ease",
+      "seoDescription": "Rùa nổi đồ chơi tắm (BTOY009) — Thiết kế nổi. Bán buôn / OEM / ODM.",
+      "keywords": "Rùa nổi đồ chơi tắm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "Bộ động vật biển đồ chơi tắm",
+      "description": "Bộ động vật biển đồ chơi tắm. Đặc điểm: Thiết kế nổi · Hình động vật. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế nổi · Hình động vật",
+      "seoTitle": "Bộ động vật biển đồ chơi tắm (BTOY010) | Baby Bath Ease",
+      "seoDescription": "Bộ động vật biển đồ chơi tắm (BTOY010) — Thiết kế nổi · Hình động vật. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ động vật biển đồ chơi tắm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "Bộ động vật biển nhiều màu",
+      "description": "Bộ động vật biển nhiều màu. Đặc điểm: Thiết kế nổi · Hình động vật. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế nổi · Hình động vật",
+      "seoTitle": "Bộ động vật biển nhiều màu (BTOY011) | Baby Bath Ease",
+      "seoDescription": "Bộ động vật biển nhiều màu (BTOY011) — Thiết kế nổi · Hình động vật. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ động vật biển nhiều màu, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "Bộ bóng nổi đồ chơi tắm",
+      "description": "Bộ bóng nổi đồ chơi tắm. Đặc điểm: Thiết kế nổi · Hình động vật. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế nổi · Hình động vật",
+      "seoTitle": "Bộ bóng nổi đồ chơi tắm (BTOY012) | Baby Bath Ease",
+      "seoDescription": "Bộ bóng nổi đồ chơi tắm (BTOY012) — Thiết kế nổi · Hình động vật. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ bóng nổi đồ chơi tắm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "Bộ cốc xếp chồng khi tắm",
+      "description": "Bộ cốc xếp chồng khi tắm. Đặc điểm: Cốc xếp chồng. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cốc xếp chồng",
+      "seoTitle": "Bộ cốc xếp chồng khi tắm (BTOY013) | Baby Bath Ease",
+      "seoDescription": "Bộ cốc xếp chồng khi tắm (BTOY013) — Cốc xếp chồng. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ cốc xếp chồng khi tắm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "Bộ đồ chơi tắm bằng xốp",
+      "description": "Bộ đồ chơi tắm bằng xốp. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Đồ chơi tắm",
+      "seoTitle": "Bộ đồ chơi tắm bằng xốp (BTOY014) | Baby Bath Ease",
+      "seoDescription": "Bộ đồ chơi tắm bằng xốp (BTOY014) — Đồ chơi tắm. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ đồ chơi tắm bằng xốp, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "Bộ đồ chơi tắm giác hút",
+      "description": "Bộ đồ chơi tắm giác hút. Đặc điểm: Cố định bằng giác hút. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Cố định bằng giác hút",
+      "seoTitle": "Bộ đồ chơi tắm giác hút (BTOY015) | Baby Bath Ease",
+      "seoDescription": "Bộ đồ chơi tắm giác hút (BTOY015) — Cố định bằng giác hút. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ đồ chơi tắm giác hút, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "Đồ chơi câu cá nam châm",
+      "description": "Đồ chơi câu cá nam châm. Đặc điểm: Thiết kế nổi · Câu cá nam châm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Thiết kế nổi · Câu cá nam châm",
+      "seoTitle": "Đồ chơi câu cá nam châm (BTOY016) | Baby Bath Ease",
+      "seoDescription": "Đồ chơi câu cá nam châm (BTOY016) — Thiết kế nổi · Câu cá nam châm. Bán buôn / OEM / ODM.",
+      "keywords": "Đồ chơi câu cá nam châm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "Bộ xe cứu hộ đồ chơi tắm",
+      "description": "Bộ xe cứu hộ đồ chơi tắm. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Đồ chơi tắm",
+      "seoTitle": "Bộ xe cứu hộ đồ chơi tắm (BTOY017) | Baby Bath Ease",
+      "seoDescription": "Bộ xe cứu hộ đồ chơi tắm (BTOY017) — Đồ chơi tắm. Bán buôn / OEM / ODM.",
+      "keywords": "Bộ xe cứu hộ đồ chơi tắm, Đồ chơi tắm, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "Khăn tắm em bé",
+      "description": "Khăn tắm em bé. Liên hệ đội ngũ về mẫu này, các tùy chọn, đóng gói và số lượng bán buôn.",
+      "shortDescription": "Khăn tắm em bé",
+      "seoTitle": "Khăn tắm em bé (BTWL001) | Baby Bath Ease",
+      "seoDescription": "Khăn tắm em bé (BTWL001) — Khăn tắm em bé. Bán buôn / OEM / ODM.",
+      "keywords": "Khăn tắm em bé, Khăn tắm em bé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Nhà sản xuất đồ tắm em bé OEM / ODM | Baby Bath Ease",
+      "description": "Chúng tôi thiết kế và sản xuất đồ tắm em bé cho thương hiệu và nhà bán lẻ quốc tế, từ ý tưởng đến sản xuất hàng loạt."
+    },
+    "products": {
+      "title": "Khám phá bộ sưu tập đồ tắm em bé | Baby Bath Ease",
+      "description": "Giải pháp thiết thực cho thương hiệu quốc tế, nhà phân phối và nhãn hàng riêng."
+    },
+    "about": {
+      "title": "Giới thiệu | Baby Bath Ease",
+      "description": "Được Kevin Kwok thành lập tại Hồng Kông năm 1982, doanh nghiệp gia đình của chúng tôi có hơn 40 năm kinh nghiệm thiết kế sản phẩm nhựa và sản xuất đồ tắm em bé. Eric Kwok tiếp nối công việc với thiết kế hiện đạ"
+    },
+    "contact": {
+      "title": "Liên hệ | Baby Bath Ease",
+      "description": "Bán buôn, phân phối hoặc OEM — chúng tôi phản hồi trong hai ngày làm việc."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.sidebar{width:315px;min-height:100vh;background:linear-gradient(160deg,#08366f,#06285a);color:#fff;display:flex;flex-direction:column;padding:36px 21px 30px;position:relative;overflow:hidden;flex:none}
+.sidebar:after{content:"";position:absolute;width:360px;height:180px;bottom:85px;left:-36px;background:#168bd122;border-radius:50%;transform:rotate(-13deg);pointer-events:none}
+.brand{display:flex;align-items:flex-start;gap:16px;color:#fff;text-decoration:none;font-size:31px;line-height:1.15;font-weight:900;margin:4px 17px 55px;position:relative;z-index:1}
+.brandMark{width:43px;height:53px;background:#63cfff;border-radius:50% 50% 44% 44%;position:relative;flex:none;margin-top:2px}
+.brandMark:after{content:"";position:absolute;width:15px;height:10px;border-radius:50%;background:#fff;top:10px;left:15px}
+.sidebar nav{display:flex;flex-direction:column;gap:9px;position:relative;z-index:1}
+.sidebar nav a{min-height:60px;border-radius:12px;color:#f7fbff;display:flex;align-items:center;gap:25px;padding:0 20px;font-size:18px;text-decoration:none}
+.sidebar nav a:hover,.sidebar nav .active{background:#2186d2}
+.bottom{position:relative;z-index:1;margin-top:auto;padding:24px 20px 0;color:#a9d0ee;font-size:16px;line-height:1.55;display:flex;flex-direction:column;gap:18px}
+.bottom button{width:max-content;border:0;background:transparent;color:#d8efff;font:inherit;font-size:14px;display:flex;align-items:center;gap:8px;cursor:pointer;padding:8px 0;min-height:44px}
+.headerStart{display:flex;align-items:center;gap:12px;min-width:0}
+.menuToggle{display:none;align-items:center;justify-content:center;gap:7px;min-height:44px;flex:none;padding:0 11px;border:1px solid #cde6f3;border-radius:9px;background:#f2faff;color:#087fbd;font:800 14px Arial;cursor:pointer}
+.menuToggle:focus-visible,.sidebar a:focus-visible,.sidebar button:focus-visible{outline:3px solid #63cfff;outline-offset:3px}
+.drawer:not([open]){display:none}
+.drawer[open]{display:flex}
+.drawer{position:fixed;inset:0 auto 0 0;margin:0;border:0;width:300px;max-width:calc(100vw - 40px);height:100vh;height:100dvh;max-height:none;min-height:0;padding:18px 14px 24px;overflow-y:auto;overscroll-behavior:contain;box-shadow:12px 0 40px #06285a44;text-align:left}
+.drawer::backdrop{background:#061d438f}
+.drawerContent{display:flex;flex-direction:column;min-height:100%;flex-shrink:0}
+.drawerHeading{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:0 6px 18px;font-size:14px;font-weight:800;color:#bce6ff}
+.drawerHeading button{display:grid;place-items:center;min-width:44px;min-height:44px;border:1px solid #ffffff40;border-radius:9px;background:#ffffff12;color:#fff;cursor:pointer}
+.drawer .brand{font-size:26px;margin:0 12px 24px;gap:13px}
+.drawer nav{gap:5px}
+.drawer nav a{min-height:46px;font-size:16px;gap:16px;padding:0 15px}
+.drawer .bottom{gap:12px;padding:24px 15px 0}
+.drawer .bottom>span{font-size:13px}
+@media(max-width:1000px){.desktopSidebar{width:88px;padding:22px 10px}.desktopSidebar .brand{margin:0 auto 42px;font-size:0}.desktopSidebar nav a{justify-content:center;padding:0}.desktopSidebar nav a span{display:none}.desktopSidebar .bottom{padding:24px 0 0;align-items:center}.desktopSidebar .bottom>span{display:none}.desktopSidebar .bottom button{font-size:0;gap:0}}
+@media(max-width:680px){.desktopSidebar{display:none}.menuToggle{display:inline-flex}}
+.sidebar .brand{color:#fff}
+@media(max-width:360px){.menuToggle{min-width:44px;padding:0 10px}.menuToggle span{display:none}}

@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "GEGRÜNDET",
+      "value": "1982",
+      "note": "In Hongkong"
+    },
+    {
+      "label": "ZWEI GENERATIONEN",
+      "value": "Familiengeführt",
+      "note": "Von Kevin zu Eric Kwok"
+    },
+    {
+      "label": "WELTWEITE PRÄSENZ",
+      "value": "Über 50 Länder",
+      "note": "Weltweites Vertrauen"
+    },
+    {
+      "label": "PRODUKTQUALITÄT",
+      "value": "100 % geprüft",
+      "note": "Sicherheit steht immer an erster Stelle"
+    }
+  ],
+  "featureLabels": ["Faltbares Design","Befestigung mit Saugnäpfen","Temperaturhinweis","Verstellbare Höhe","Rückenstütze","Weiches Polster","Wasserablauf","Spülbecher","Spielbügel","Griff","Ständer","Badeliege oder Netz","Rollen","Platzsparende Aufbewahrung","Verstellbare Positionen","Duschzubehör","Schwimmendes Design","Wasserspiel","Magnetisches Angelspiel","Stapelbecher","Schutz für Wasserhahn","Wickeltisch","Lichteffekte","Tierfiguren"],
+  "colors": {"white":"Weiß","grey":"Grau","blue":"Blau","pink":"Rosa","green":"Grün","purple":"Violett","khaki":"Khaki","peach":"Pfirsich","black":"Schwarz","yellow":"Gelb","oat":"Haferfarben","peach + white":"Pfirsich + Weiß","gray":"Grau"},
+  "ui": {
+    "officePhone": "Bürotelefon",
+    "selectInquiry": "Anfrageart auswählen",
+    "selectQuantity": "Mengenbereich auswählen",
+    "quantityRanges": ["Unter 500 Stück","500–2.000 Stück","2.000–10.000 Stück","Über 10.000 Stück"],
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "language": "Sprache wählen",
+    "menu": "Menü",
+    "quote": "Angebot anfordern",
+    "download": "Katalog herunterladen",
+    "talk": "Unser Team kontaktieren",
+    "all": "Alle Produkte",
+    "details": "Details ansehen",
+    "categories": "Unsere Produktkategorien",
+    "tagline": "Ihre Ideen, unser Know-how",
+    "manufacturer": "OEM-/ODM-Hersteller für Babybadeprodukte",
+    "heroTitle": "Sicheres Baden.",
+    "heroAccent": "Skalierbare Fertigung.",
+    "heroIntro": "Wir entwickeln und fertigen Babybadeprodukte für internationale Marken und Händler. Von der Idee bis zur Serienfertigung begleiten wir Ihr Projekt.",
+    "productsTitle": "Entdecken Sie unsere Babybadeprodukte",
+    "productsIntro": "Durchdachte Badelösungen für internationale Marken, Händler und Eigenmarken.",
+    "library": "PRODUKTKATALOG",
+    "libraryTitle": "Für eine schöne Badezeit.",
+    "ctaTitle": "Eine individuelle Babybad-Kollektion gesucht?",
+    "ctaIntro": "Teilen Sie uns Ihren Zielmarkt, Ihre Produktanforderungen und die Bestellmenge mit. Wir erarbeiten eine passende Lösung.",
+    "aboutTitle": "Fürsorge seit 1982.",
+    "aboutIntro": "Unser Familienunternehmen wurde 1982 von Kevin Kwok in Hongkong gegründet. Wir verfügen über mehr als 40 Jahre Erfahrung in der Entwicklung von Kunststoffprodukten und der Herstellung von Babybadeartikeln. Eric Kwok führt diese Arbeit mit modernem Design und sorgfältiger Qualitätskontrolle für Partner in mehr als 50 Ländern fort.",
+    "contactTitle": "Kontakt aufnehmen.",
+    "contactIntro": "Großhandel, Vertrieb oder OEM – wir antworten innerhalb von zwei Werktagen.",
+    "name": "Name",
+    "email": "E-Mail",
+    "company": "Unternehmen",
+    "phone": "Telefon / WhatsApp",
+    "market": "Zielmarkt / Land",
+    "message": "Nachricht",
+    "inquiryType": "Art der Anfrage",
+    "quantity": "Voraussichtliche Bestellmenge",
+    "wholesale": "Großhandel",
+    "sourcing": "Produktbeschaffung",
+    "select": "Auswählen",
+    "send": "Anfrage senden",
+    "sending": "Wird gesendet…",
+    "success": "Vielen Dank. Ihre Anfrage ist eingegangen.",
+    "error": "Senden fehlgeschlagen. Bitte prüfen Sie die Felder und versuchen Sie es erneut.",
+    "required": "Pflichtfelder",
+    "address": "Büroadresse",
+    "response": "Antwort",
+    "responseTime": "Innerhalb von zwei Werktagen",
+    "rights": "Alle Rechte vorbehalten.",
+    "overview": "Produktübersicht",
+    "specifications": "Technische Daten",
+    "originalSpecs": "Technische Originalangaben (Englisch)",
+    "gallery": "Bilder",
+    "videos": "Produktvideos",
+    "model": "Modell",
+    "safety": "Babys beim Baden stets ununterbrochen beaufsichtigen.",
+    "back": "Zurück zu den Produkten",
+    "visit": "Besuchen Sie unser Büro in Shenzhen.",
+    "map": "In Google Maps öffnen",
+    "features": "Merkmale",
+    "color": "Farbe",
+    "size": "Größe",
+    "close": "Schließen",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "years": "Jahre Erfahrung",
+    "brands": "Internationale Marken",
+    "capacity": "Monatliche Kapazität",
+    "delivery": "Pünktliche Lieferung",
+    "oemTitle": "Ihr OEM-/ODM-Fertigungspartner",
+    "oemIntro": "Von der Produktentwicklung bis zur Serienfertigung unterstützen wir individuelle Anpassungen, Verpackung und Qualitätskontrolle.",
+    "officePhotos": "Bürofotos",
+    "empty": "Keine Produkte in dieser Kategorie.",
+    "productIntro": "Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+    "downloadEnglish": "PDF · Englisch"
+  },
+  "categories": {
+    "1": "Babybadewannen",
+    "2": "Badehilfen und Badesitze",
+    "3": "Badespielzeug",
+    "4": "Badezubehör",
+    "5": "Baby-Badetücher"
+  },
+  "products": {
+    "BBA001": {
+      "name": "Spülbecher-Set",
+      "description": "Spülbecher-Set. Merkmale: Spülbecher. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Spülbecher",
+      "seoTitle": "Spülbecher-Set (BBA001) | Baby Bath Ease",
+      "seoDescription": "Spülbecher-Set (BBA001) — Spülbecher. Großhandel / OEM / ODM.",
+      "keywords": "Spülbecher-Set, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Moby-Spülbecher, Grau",
+      "description": "Moby-Spülbecher, Grau. Merkmale: Spülbecher · Griff. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Spülbecher · Griff",
+      "seoTitle": "Moby-Spülbecher, Grau (BBA002) | Baby Bath Ease",
+      "seoDescription": "Moby-Spülbecher, Grau (BBA002) — Spülbecher · Griff. Großhandel / OEM / ODM.",
+      "keywords": "Moby-Spülbecher, Grau, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "Delfin-Schutz für Wannenauslauf",
+      "description": "Delfin-Schutz für Wannenauslauf. Merkmale: Schutz für Wasserhahn. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schutz für Wasserhahn",
+      "seoTitle": "Delfin-Schutz für Wannenauslauf (BBA003) | Baby Bath Ease",
+      "seoDescription": "Delfin-Schutz für Wannenauslauf (BBA003) — Schutz für Wasserhahn. Großhandel / OEM / ODM.",
+      "keywords": "Delfin-Schutz für Wannenauslauf, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "Grauer Wal-Schutz für Wasserhahn",
+      "description": "Grauer Wal-Schutz für Wasserhahn. Merkmale: Schutz für Wasserhahn. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schutz für Wasserhahn",
+      "seoTitle": "Grauer Wal-Schutz für Wasserhahn (BBA004) | Baby Bath Ease",
+      "seoDescription": "Grauer Wal-Schutz für Wasserhahn (BBA004) — Schutz für Wasserhahn. Großhandel / OEM / ODM.",
+      "keywords": "Grauer Wal-Schutz für Wasserhahn, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "Enten-Badethermometer",
+      "description": "Enten-Badethermometer. Merkmale: Temperaturhinweis · Schwimmendes Design. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Temperaturhinweis · Schwimmendes Design",
+      "seoTitle": "Enten-Badethermometer (BBA005) | Baby Bath Ease",
+      "seoDescription": "Enten-Badethermometer (BBA005) — Temperaturhinweis · Schwimmendes Design. Großhandel / OEM / ODM.",
+      "keywords": "Enten-Badethermometer, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "Schwimmendes Schildkröten-Badethermometer",
+      "description": "Schwimmendes Schildkröten-Badethermometer. Merkmale: Temperaturhinweis · Schwimmendes Design. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Temperaturhinweis · Schwimmendes Design",
+      "seoTitle": "Schwimmendes Schildkröten-Badethermometer (BBA006) | Baby Bath Ease",
+      "seoDescription": "Schwimmendes Schildkröten-Badethermometer (BBA006) — Temperaturhinweis · Schwimmendes Design. Großhandel / OEM / ODM.",
+      "keywords": "Schwimmendes Schildkröten-Badethermometer, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "Verstellbarer Wickeltisch, Hellgrau",
+      "description": "Verstellbarer Wickeltisch, Hellgrau. Merkmale: Faltbares Design · Verstellbare Höhe · Rollen · Platzsparende Aufbewahrung · Wickeltisch. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Verstellbare Höhe · Rollen · Platzsparende Aufbewahrung",
+      "seoTitle": "Verstellbarer Wickeltisch, Hellgrau (BBA007) | Baby Bath Ease",
+      "seoDescription": "Verstellbarer Wickeltisch, Hellgrau (BBA007) — Faltbares Design · Verstellbare Höhe · Rollen · Platzsparende Aufbewahrung. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbarer Wickeltisch, Hellgrau, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "2-in-1-Wickeltisch mit Badewanne, Grau",
+      "description": "2-in-1-Wickeltisch mit Badewanne, Grau. Merkmale: Faltbares Design · Rollen · Platzsparende Aufbewahrung · Wickeltisch. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Rollen · Platzsparende Aufbewahrung · Wickeltisch",
+      "seoTitle": "2-in-1-Wickeltisch mit Badewanne, Grau (BBA008) | Baby Bath Ease",
+      "seoDescription": "2-in-1-Wickeltisch mit Badewanne, Grau (BBA008) — Faltbares Design · Rollen · Platzsparende Aufbewahrung · Wickeltisch. Großhandel / OEM / ODM.",
+      "keywords": "2-in-1-Wickeltisch mit Badewanne, Grau, Badezubehör, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "Neugeborenen-Badehilfe, Weiß",
+      "description": "Neugeborenen-Badehilfe, Weiß. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badehilfen und Badesitze",
+      "seoTitle": "Neugeborenen-Badehilfe, Weiß (BBS001) | Baby Bath Ease",
+      "seoDescription": "Neugeborenen-Badehilfe, Weiß (BBS001) — Badehilfen und Badesitze. Großhandel / OEM / ODM.",
+      "keywords": "Neugeborenen-Badehilfe, Weiß, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "Rutschfester Babybadesitz mit Saugnäpfen",
+      "description": "Rutschfester Babybadesitz mit Saugnäpfen. Merkmale: Befestigung mit Saugnäpfen · Weiches Polster. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Weiches Polster",
+      "seoTitle": "Rutschfester Babybadesitz mit Saugnäpfen (BBS002) | Baby Bath Ease",
+      "seoDescription": "Rutschfester Babybadesitz mit Saugnäpfen (BBS002) — Befestigung mit Saugnäpfen · Weiches Polster. Großhandel / OEM / ODM.",
+      "keywords": "Rutschfester Babybadesitz mit Saugnäpfen, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "360°-Babybadesitz mit Saugnäpfen",
+      "description": "360°-Babybadesitz mit Saugnäpfen. Merkmale: Befestigung mit Saugnäpfen · Weiches Polster. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Weiches Polster",
+      "seoTitle": "360°-Babybadesitz mit Saugnäpfen (BBS003) | Baby Bath Ease",
+      "seoDescription": "360°-Babybadesitz mit Saugnäpfen (BBS003) — Befestigung mit Saugnäpfen · Weiches Polster. Großhandel / OEM / ODM.",
+      "keywords": "360°-Babybadesitz mit Saugnäpfen, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "Verstellbarer Babybadesitz mit drei Saugnäpfen",
+      "description": "Verstellbarer Babybadesitz mit drei Saugnäpfen. Merkmale: Befestigung mit Saugnäpfen · Rückenstütze. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Rückenstütze",
+      "seoTitle": "Verstellbarer Babybadesitz mit drei Saugnäpfen (BBS004) | Baby Bath Ease",
+      "seoDescription": "Verstellbarer Babybadesitz mit drei Saugnäpfen (BBS004) — Befestigung mit Saugnäpfen · Rückenstütze. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbarer Babybadesitz mit drei Saugnäpfen, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "Babybadesitz mit Saugnäpfen, Grau",
+      "description": "Babybadesitz mit Saugnäpfen, Grau. Merkmale: Befestigung mit Saugnäpfen · Rückenstütze. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Rückenstütze",
+      "seoTitle": "Babybadesitz mit Saugnäpfen, Grau (BBS005) | Baby Bath Ease",
+      "seoDescription": "Babybadesitz mit Saugnäpfen, Grau (BBS005) — Befestigung mit Saugnäpfen · Rückenstütze. Großhandel / OEM / ODM.",
+      "keywords": "Babybadesitz mit Saugnäpfen, Grau, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "Babybadesitz mit Temperaturanzeige",
+      "description": "Babybadesitz mit Temperaturanzeige. Merkmale: Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze · Weiches Polster. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze · Weiches Polster",
+      "seoTitle": "Babybadesitz mit Temperaturanzeige (BBS006) | Baby Bath Ease",
+      "seoDescription": "Babybadesitz mit Temperaturanzeige (BBS006) — Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze · Weiches Polster. Großhandel / OEM / ODM.",
+      "keywords": "Babybadesitz mit Temperaturanzeige, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "Babybadesitz mit Temperaturhinweis ab 6 Monaten, Grau",
+      "description": "Babybadesitz mit Temperaturhinweis ab 6 Monaten, Grau. Merkmale: Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze",
+      "seoTitle": "Babybadesitz mit Temperaturhinweis ab 6 Monaten, Grau (BBS007) | Baby Bath Ease",
+      "seoDescription": "Babybadesitz mit Temperaturhinweis ab 6 Monaten, Grau (BBS007) — Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze. Großhandel / OEM / ODM.",
+      "keywords": "Babybadesitz mit Temperaturhinweis ab 6 Monaten, Grau, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "Verstellbarer Babybadesitz mit Temperaturanzeige, Rosa",
+      "description": "Verstellbarer Babybadesitz mit Temperaturanzeige, Rosa. Merkmale: Befestigung mit Saugnäpfen · Temperaturhinweis · Weiches Polster. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Temperaturhinweis · Weiches Polster",
+      "seoTitle": "Verstellbarer Babybadesitz mit Temperaturanzeige, Rosa (BBS008) | Baby Bath Ease",
+      "seoDescription": "Verstellbarer Babybadesitz mit Temperaturanzeige, Rosa (BBS008) — Befestigung mit Saugnäpfen · Temperaturhinweis · Weiches Polster. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbarer Babybadesitz mit Temperaturanzeige, Rosa, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "Babybadesitz mit Thermometer-Aufkleber, Grau",
+      "description": "Babybadesitz mit Thermometer-Aufkleber, Grau. Merkmale: Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze · Wasserablauf. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze · Wasserablauf",
+      "seoTitle": "Babybadesitz mit Thermometer-Aufkleber, Grau (BBS009) | Baby Bath Ease",
+      "seoDescription": "Babybadesitz mit Thermometer-Aufkleber, Grau (BBS009) — Befestigung mit Saugnäpfen · Temperaturhinweis · Rückenstütze · Wasserablauf. Großhandel / OEM / ODM.",
+      "keywords": "Babybadesitz mit Thermometer-Aufkleber, Grau, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "Dinosaurier-Babybadesitz mit Spielbügel",
+      "description": "Dinosaurier-Babybadesitz mit Spielbügel. Merkmale: Befestigung mit Saugnäpfen · Weiches Polster · Spielbügel. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Weiches Polster · Spielbügel",
+      "seoTitle": "Dinosaurier-Babybadesitz mit Spielbügel (BBS010) | Baby Bath Ease",
+      "seoDescription": "Dinosaurier-Babybadesitz mit Spielbügel (BBS010) — Befestigung mit Saugnäpfen · Weiches Polster · Spielbügel. Großhandel / OEM / ODM.",
+      "keywords": "Dinosaurier-Babybadesitz mit Spielbügel, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "Babybadesitz mit vier Rückenlehnenpositionen, Pfirsich und Weiß",
+      "description": "Babybadesitz mit vier Rückenlehnenpositionen, Pfirsich und Weiß. Merkmale: Befestigung mit Saugnäpfen · Temperaturhinweis · Verstellbare Höhe · Rückenstütze · Wasserablauf · Spülbecher · Verstellbare Positionen. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen · Temperaturhinweis · Verstellbare Höhe · Rückenstütze",
+      "seoTitle": "Babybadesitz mit vier Rückenlehnenpositionen, Pfirsich und Weiß (BBS011) | Baby Bath Ease",
+      "seoDescription": "Babybadesitz mit vier Rückenlehnenpositionen, Pfirsich und Weiß (BBS011) — Befestigung mit Saugnäpfen · Temperaturhinweis · Verstellbare Höhe · Rückenstütze. Großhandel / OEM / ODM.",
+      "keywords": "Babybadesitz mit vier Rückenlehnenpositionen, Pfirsich und Weiß, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "Verstellbare Enten-Duschhilfe",
+      "description": "Verstellbare Enten-Duschhilfe. Merkmale: Verstellbare Höhe · Wasserablauf · Verstellbare Positionen · Duschzubehör. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Verstellbare Höhe · Wasserablauf · Verstellbare Positionen · Duschzubehör",
+      "seoTitle": "Verstellbare Enten-Duschhilfe (BBS012) | Baby Bath Ease",
+      "seoDescription": "Verstellbare Enten-Duschhilfe (BBS012) — Verstellbare Höhe · Wasserablauf · Verstellbare Positionen · Duschzubehör. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbare Enten-Duschhilfe, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "Verstellbare Baby-Duschhilfe, Grau",
+      "description": "Verstellbare Baby-Duschhilfe, Grau. Merkmale: Verstellbare Höhe. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Verstellbare Höhe",
+      "seoTitle": "Verstellbare Baby-Duschhilfe, Grau (BBS013) | Baby Bath Ease",
+      "seoDescription": "Verstellbare Baby-Duschhilfe, Grau (BBS013) — Verstellbare Höhe. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbare Baby-Duschhilfe, Grau, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "Verbesserte verstellbare Baby-Badehilfe",
+      "description": "Verbesserte verstellbare Baby-Badehilfe. Merkmale: Rückenstütze · Wasserablauf · Griff. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Rückenstütze · Wasserablauf · Griff",
+      "seoTitle": "Verbesserte verstellbare Baby-Badehilfe (BBS014) | Baby Bath Ease",
+      "seoDescription": "Verbesserte verstellbare Baby-Badehilfe (BBS014) — Rückenstütze · Wasserablauf · Griff. Großhandel / OEM / ODM.",
+      "keywords": "Verbesserte verstellbare Baby-Badehilfe, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "Verstellbare Baby-Badehilfe, Grün",
+      "description": "Verstellbare Baby-Badehilfe, Grün. Merkmale: Verstellbare Höhe · Rückenstütze · Wasserablauf. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Verstellbare Höhe · Rückenstütze · Wasserablauf",
+      "seoTitle": "Verstellbare Baby-Badehilfe, Grün (BBS015) | Baby Bath Ease",
+      "seoDescription": "Verstellbare Baby-Badehilfe, Grün (BBS015) — Verstellbare Höhe · Rückenstütze · Wasserablauf. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbare Baby-Badehilfe, Grün, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "Verstellbare Kinder-Duschhilfe, Khaki",
+      "description": "Verstellbare Kinder-Duschhilfe, Khaki. Merkmale: Verstellbare Höhe. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Verstellbare Höhe",
+      "seoTitle": "Verstellbare Kinder-Duschhilfe, Khaki (BBS016) | Baby Bath Ease",
+      "seoDescription": "Verstellbare Kinder-Duschhilfe, Khaki (BBS016) — Verstellbare Höhe. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbare Kinder-Duschhilfe, Khaki, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "Baby-Duschhilfe zum Sitzen und Stehen",
+      "description": "Baby-Duschhilfe zum Sitzen und Stehen. Merkmale: Faltbares Design · Verstellbare Höhe · Wasserablauf · Griff. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Verstellbare Höhe · Wasserablauf · Griff",
+      "seoTitle": "Baby-Duschhilfe zum Sitzen und Stehen (BBS017) | Baby Bath Ease",
+      "seoDescription": "Baby-Duschhilfe zum Sitzen und Stehen (BBS017) — Faltbares Design · Verstellbare Höhe · Wasserablauf · Griff. Großhandel / OEM / ODM.",
+      "keywords": "Baby-Duschhilfe zum Sitzen und Stehen, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "Faltbare Enten-Duschhilfe, Grau",
+      "description": "Faltbare Enten-Duschhilfe, Grau. Merkmale: Faltbares Design · Befestigung mit Saugnäpfen · Verstellbare Höhe. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Befestigung mit Saugnäpfen · Verstellbare Höhe",
+      "seoTitle": "Faltbare Enten-Duschhilfe, Grau (BBS018) | Baby Bath Ease",
+      "seoDescription": "Faltbare Enten-Duschhilfe, Grau (BBS018) — Faltbares Design · Befestigung mit Saugnäpfen · Verstellbare Höhe. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Enten-Duschhilfe, Grau, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "Verstellbare Enten-Badehilfe, Rosa",
+      "description": "Verstellbare Enten-Badehilfe, Rosa. Merkmale: Verstellbare Höhe · Wasserablauf. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Verstellbare Höhe · Wasserablauf",
+      "seoTitle": "Verstellbare Enten-Badehilfe, Rosa (BBS019) | Baby Bath Ease",
+      "seoDescription": "Verstellbare Enten-Badehilfe, Rosa (BBS019) — Verstellbare Höhe · Wasserablauf. Großhandel / OEM / ODM.",
+      "keywords": "Verstellbare Enten-Badehilfe, Rosa, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "Baby-Badeturm, Violett",
+      "description": "Baby-Badeturm, Violett. Merkmale: Ständer. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Ständer",
+      "seoTitle": "Baby-Badeturm, Violett (BBS020) | Baby Bath Ease",
+      "seoDescription": "Baby-Badeturm, Violett (BBS020) — Ständer. Großhandel / OEM / ODM.",
+      "keywords": "Baby-Badeturm, Violett, Badehilfen und Badesitze, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "Faltbare Babybadewanne, Grau",
+      "description": "Faltbare Babybadewanne, Grau. Merkmale: Faltbares Design · Badeliege oder Netz · Platzsparende Aufbewahrung. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Badeliege oder Netz · Platzsparende Aufbewahrung",
+      "seoTitle": "Faltbare Babybadewanne, Grau (BBT001) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne, Grau (BBT001) — Faltbares Design · Badeliege oder Netz · Platzsparende Aufbewahrung. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne, Grau, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "Faltbare Babybadewanne, Rosa",
+      "description": "Faltbare Babybadewanne, Rosa. Merkmale: Faltbares Design · Temperaturhinweis · Weiches Polster. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Temperaturhinweis · Weiches Polster",
+      "seoTitle": "Faltbare Babybadewanne, Rosa (BBT002) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne, Rosa (BBT002) — Faltbares Design · Temperaturhinweis · Weiches Polster. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne, Rosa, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "Faltbare Babybadewanne mit Polster, Grau",
+      "description": "Faltbare Babybadewanne mit Polster, Grau. Merkmale: Faltbares Design · Temperaturhinweis · Verstellbare Höhe · Weiches Polster · Wasserablauf · Platzsparende Aufbewahrung. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Temperaturhinweis · Verstellbare Höhe · Weiches Polster",
+      "seoTitle": "Faltbare Babybadewanne mit Polster, Grau (BBT003) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne mit Polster, Grau (BBT003) — Faltbares Design · Temperaturhinweis · Verstellbare Höhe · Weiches Polster. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne mit Polster, Grau, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "Faltbare Babybadewanne, Haferfarben",
+      "description": "Faltbare Babybadewanne, Haferfarben. Merkmale: Faltbares Design · Temperaturhinweis · Badeliege oder Netz · Platzsparende Aufbewahrung. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Temperaturhinweis · Badeliege oder Netz · Platzsparende Aufbewahrung",
+      "seoTitle": "Faltbare Babybadewanne, Haferfarben (BBT005) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne, Haferfarben (BBT005) — Faltbares Design · Temperaturhinweis · Badeliege oder Netz · Platzsparende Aufbewahrung. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne, Haferfarben, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "4-in-1-Faltbadewanne, Grau",
+      "description": "4-in-1-Faltbadewanne, Grau. Merkmale: Faltbares Design · Temperaturhinweis · Wasserablauf · Platzsparende Aufbewahrung · Schwimmendes Design. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Temperaturhinweis · Wasserablauf · Platzsparende Aufbewahrung",
+      "seoTitle": "4-in-1-Faltbadewanne, Grau (BBT006) | Baby Bath Ease",
+      "seoDescription": "4-in-1-Faltbadewanne, Grau (BBT006) — Faltbares Design · Temperaturhinweis · Wasserablauf · Platzsparende Aufbewahrung. Großhandel / OEM / ODM.",
+      "keywords": "4-in-1-Faltbadewanne, Grau, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "Faltbare Babybadewanne",
+      "description": "Faltbare Babybadewanne. Merkmale: Faltbares Design · Wasserablauf. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Wasserablauf",
+      "seoTitle": "Faltbare Babybadewanne (BBT007) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne (BBT007) — Faltbares Design · Wasserablauf. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "Babybadewanne mit Faltständer, Rosa",
+      "description": "Babybadewanne mit Faltständer, Rosa. Merkmale: Faltbares Design · Rückenstütze · Wasserablauf · Ständer · Platzsparende Aufbewahrung. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Rückenstütze · Wasserablauf · Ständer",
+      "seoTitle": "Babybadewanne mit Faltständer, Rosa (BBT008) | Baby Bath Ease",
+      "seoDescription": "Babybadewanne mit Faltständer, Rosa (BBT008) — Faltbares Design · Rückenstütze · Wasserablauf · Ständer. Großhandel / OEM / ODM.",
+      "keywords": "Babybadewanne mit Faltständer, Rosa, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "3-Stufen-Babybadewanne, Grau",
+      "description": "3-Stufen-Babybadewanne, Grau. Merkmale: Wasserablauf · Verstellbare Positionen. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Wasserablauf · Verstellbare Positionen",
+      "seoTitle": "3-Stufen-Babybadewanne, Grau (BBT009) | Baby Bath Ease",
+      "seoDescription": "3-Stufen-Babybadewanne, Grau (BBT009) — Wasserablauf · Verstellbare Positionen. Großhandel / OEM / ODM.",
+      "keywords": "3-Stufen-Babybadewanne, Grau, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "4-in-1-Babybadewanne mit Liegepositionen",
+      "description": "4-in-1-Babybadewanne mit Liegepositionen. Merkmale: Verstellbare Positionen. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Verstellbare Positionen",
+      "seoTitle": "4-in-1-Babybadewanne mit Liegepositionen (BBT010) | Baby Bath Ease",
+      "seoDescription": "4-in-1-Babybadewanne mit Liegepositionen (BBT010) — Verstellbare Positionen. Großhandel / OEM / ODM.",
+      "keywords": "4-in-1-Babybadewanne mit Liegepositionen, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "Mitwachsende 3-in-1-Babybadewanne",
+      "description": "Mitwachsende 3-in-1-Babybadewanne. Merkmale: Wasserablauf · Badeliege oder Netz · Platzsparende Aufbewahrung · Verstellbare Positionen. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Wasserablauf · Badeliege oder Netz · Platzsparende Aufbewahrung · Verstellbare Positionen",
+      "seoTitle": "Mitwachsende 3-in-1-Babybadewanne (BBT011) | Baby Bath Ease",
+      "seoDescription": "Mitwachsende 3-in-1-Babybadewanne (BBT011) — Wasserablauf · Badeliege oder Netz · Platzsparende Aufbewahrung · Verstellbare Positionen. Großhandel / OEM / ODM.",
+      "keywords": "Mitwachsende 3-in-1-Babybadewanne, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "Baby-Spa-Badewannen-Set mit Regendusche",
+      "description": "Baby-Spa-Badewannen-Set mit Regendusche. Merkmale: Badeliege oder Netz · Duschzubehör. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badeliege oder Netz · Duschzubehör",
+      "seoTitle": "Baby-Spa-Badewannen-Set mit Regendusche (BBT012) | Baby Bath Ease",
+      "seoDescription": "Baby-Spa-Badewannen-Set mit Regendusche (BBT012) — Badeliege oder Netz · Duschzubehör. Großhandel / OEM / ODM.",
+      "keywords": "Baby-Spa-Badewannen-Set mit Regendusche, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "Faltbare Babybadewanne mit Spülbecher",
+      "description": "Faltbare Babybadewanne mit Spülbecher. Merkmale: Faltbares Design · Spülbecher. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Spülbecher",
+      "seoTitle": "Faltbare Babybadewanne mit Spülbecher (BBT013) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne mit Spülbecher (BBT013) — Faltbares Design · Spülbecher. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne mit Spülbecher, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "Faltbare Babybadewanne mit Ständer und Polster",
+      "description": "Faltbare Babybadewanne mit Ständer und Polster. Merkmale: Faltbares Design · Weiches Polster · Ständer. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Faltbares Design · Weiches Polster · Ständer",
+      "seoTitle": "Faltbare Babybadewanne mit Ständer und Polster (BBT014) | Baby Bath Ease",
+      "seoDescription": "Faltbare Babybadewanne mit Ständer und Polster (BBT014) — Faltbares Design · Weiches Polster · Ständer. Großhandel / OEM / ODM.",
+      "keywords": "Faltbare Babybadewanne mit Ständer und Polster, Babybadewannen, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "Wasserspritzender Wal",
+      "description": "Wasserspritzender Wal. Merkmale: Wasserspiel. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Wasserspiel",
+      "seoTitle": "Wasserspritzender Wal (BTOY001) | Baby Bath Ease",
+      "seoDescription": "Wasserspritzender Wal (BTOY001) — Wasserspiel. Großhandel / OEM / ODM.",
+      "keywords": "Wasserspritzender Wal, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "Leuchtender Wal-Badebrunnen",
+      "description": "Leuchtender Wal-Badebrunnen. Merkmale: Wasserspiel · Lichteffekte. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Wasserspiel · Lichteffekte",
+      "seoTitle": "Leuchtender Wal-Badebrunnen (BTOY002) | Baby Bath Ease",
+      "seoDescription": "Leuchtender Wal-Badebrunnen (BTOY002) — Wasserspiel · Lichteffekte. Großhandel / OEM / ODM.",
+      "keywords": "Leuchtender Wal-Badebrunnen, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "Wasserrohr-Badespielzeug",
+      "description": "Wasserrohr-Badespielzeug. Merkmale: Wasserspiel. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Wasserspiel",
+      "seoTitle": "Wasserrohr-Badespielzeug (BTOY003) | Baby Bath Ease",
+      "seoDescription": "Wasserrohr-Badespielzeug (BTOY003) — Wasserspiel. Großhandel / OEM / ODM.",
+      "keywords": "Wasserrohr-Badespielzeug, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "Pinguin-Baderutsche",
+      "description": "Pinguin-Baderutsche. Merkmale: Tierfiguren. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Tierfiguren",
+      "seoTitle": "Pinguin-Baderutsche (BTOY004) | Baby Bath Ease",
+      "seoDescription": "Pinguin-Baderutsche (BTOY004) — Tierfiguren. Großhandel / OEM / ODM.",
+      "keywords": "Pinguin-Baderutsche, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "Wasser-Rennbahn für die Badewanne",
+      "description": "Wasser-Rennbahn für die Badewanne. Merkmale: Wasserspiel. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Wasserspiel",
+      "seoTitle": "Wasser-Rennbahn für die Badewanne (BTOY005) | Baby Bath Ease",
+      "seoDescription": "Wasser-Rennbahn für die Badewanne (BTOY005) — Wasserspiel. Großhandel / OEM / ODM.",
+      "keywords": "Wasser-Rennbahn für die Badewanne, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "Schöpfspielzeug-Set für Kleinkinder",
+      "description": "Schöpfspielzeug-Set für Kleinkinder. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badespielzeug",
+      "seoTitle": "Schöpfspielzeug-Set für Kleinkinder (BTOY006) | Baby Bath Ease",
+      "seoDescription": "Schöpfspielzeug-Set für Kleinkinder (BTOY006) — Badespielzeug. Großhandel / OEM / ODM.",
+      "keywords": "Schöpfspielzeug-Set für Kleinkinder, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "Buntes Schöpfspielzeug-Set",
+      "description": "Buntes Schöpfspielzeug-Set. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badespielzeug",
+      "seoTitle": "Buntes Schöpfspielzeug-Set (BTOY007) | Baby Bath Ease",
+      "seoDescription": "Buntes Schöpfspielzeug-Set (BTOY007) — Badespielzeug. Großhandel / OEM / ODM.",
+      "keywords": "Buntes Schöpfspielzeug-Set, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "Badeeimer-Set mit Figuren",
+      "description": "Badeeimer-Set mit Figuren. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badespielzeug",
+      "seoTitle": "Badeeimer-Set mit Figuren (BTOY008) | Baby Bath Ease",
+      "seoDescription": "Badeeimer-Set mit Figuren (BTOY008) — Badespielzeug. Großhandel / OEM / ODM.",
+      "keywords": "Badeeimer-Set mit Figuren, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "Schwimmende Schildkröten",
+      "description": "Schwimmende Schildkröten. Merkmale: Schwimmendes Design. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schwimmendes Design",
+      "seoTitle": "Schwimmende Schildkröten (BTOY009) | Baby Bath Ease",
+      "seoDescription": "Schwimmende Schildkröten (BTOY009) — Schwimmendes Design. Großhandel / OEM / ODM.",
+      "keywords": "Schwimmende Schildkröten, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "Meerestier-Badespielzeug-Set",
+      "description": "Meerestier-Badespielzeug-Set. Merkmale: Schwimmendes Design · Tierfiguren. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schwimmendes Design · Tierfiguren",
+      "seoTitle": "Meerestier-Badespielzeug-Set (BTOY010) | Baby Bath Ease",
+      "seoDescription": "Meerestier-Badespielzeug-Set (BTOY010) — Schwimmendes Design · Tierfiguren. Großhandel / OEM / ODM.",
+      "keywords": "Meerestier-Badespielzeug-Set, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "Buntes Meerestier-Badespielzeug-Set",
+      "description": "Buntes Meerestier-Badespielzeug-Set. Merkmale: Schwimmendes Design · Tierfiguren. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schwimmendes Design · Tierfiguren",
+      "seoTitle": "Buntes Meerestier-Badespielzeug-Set (BTOY011) | Baby Bath Ease",
+      "seoDescription": "Buntes Meerestier-Badespielzeug-Set (BTOY011) — Schwimmendes Design · Tierfiguren. Großhandel / OEM / ODM.",
+      "keywords": "Buntes Meerestier-Badespielzeug-Set, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "Schwimmende Badebälle",
+      "description": "Schwimmende Badebälle. Merkmale: Schwimmendes Design · Tierfiguren. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schwimmendes Design · Tierfiguren",
+      "seoTitle": "Schwimmende Badebälle (BTOY012) | Baby Bath Ease",
+      "seoDescription": "Schwimmende Badebälle (BTOY012) — Schwimmendes Design · Tierfiguren. Großhandel / OEM / ODM.",
+      "keywords": "Schwimmende Badebälle, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "Stapelbecher-Badeset",
+      "description": "Stapelbecher-Badeset. Merkmale: Stapelbecher. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Stapelbecher",
+      "seoTitle": "Stapelbecher-Badeset (BTOY013) | Baby Bath Ease",
+      "seoDescription": "Stapelbecher-Badeset (BTOY013) — Stapelbecher. Großhandel / OEM / ODM.",
+      "keywords": "Stapelbecher-Badeset, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "Schaum-Badespielzeug-Set",
+      "description": "Schaum-Badespielzeug-Set. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badespielzeug",
+      "seoTitle": "Schaum-Badespielzeug-Set (BTOY014) | Baby Bath Ease",
+      "seoDescription": "Schaum-Badespielzeug-Set (BTOY014) — Badespielzeug. Großhandel / OEM / ODM.",
+      "keywords": "Schaum-Badespielzeug-Set, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "Saugnapf-Badespielzeug-Set",
+      "description": "Saugnapf-Badespielzeug-Set. Merkmale: Befestigung mit Saugnäpfen. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Befestigung mit Saugnäpfen",
+      "seoTitle": "Saugnapf-Badespielzeug-Set (BTOY015) | Baby Bath Ease",
+      "seoDescription": "Saugnapf-Badespielzeug-Set (BTOY015) — Befestigung mit Saugnäpfen. Großhandel / OEM / ODM.",
+      "keywords": "Saugnapf-Badespielzeug-Set, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "Magnetisches Angelspiel für die Badewanne",
+      "description": "Magnetisches Angelspiel für die Badewanne. Merkmale: Schwimmendes Design · Magnetisches Angelspiel. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Schwimmendes Design · Magnetisches Angelspiel",
+      "seoTitle": "Magnetisches Angelspiel für die Badewanne (BTOY016) | Baby Bath Ease",
+      "seoDescription": "Magnetisches Angelspiel für die Badewanne (BTOY016) — Schwimmendes Design · Magnetisches Angelspiel. Großhandel / OEM / ODM.",
+      "keywords": "Magnetisches Angelspiel für die Badewanne, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "Rettungsfahrzeug-Badespielzeug-Set",
+      "description": "Rettungsfahrzeug-Badespielzeug-Set. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Badespielzeug",
+      "seoTitle": "Rettungsfahrzeug-Badespielzeug-Set (BTOY017) | Baby Bath Ease",
+      "seoDescription": "Rettungsfahrzeug-Badespielzeug-Set (BTOY017) — Badespielzeug. Großhandel / OEM / ODM.",
+      "keywords": "Rettungsfahrzeug-Badespielzeug-Set, Badespielzeug, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "Baby-Badetuch",
+      "description": "Baby-Badetuch. Kontaktieren Sie unser Team zu diesem Modell, verfügbaren Optionen, Verpackung und Großhandelsmengen.",
+      "shortDescription": "Baby-Badetücher",
+      "seoTitle": "Baby-Badetuch (BTWL001) | Baby Bath Ease",
+      "seoDescription": "Baby-Badetuch (BTWL001) — Baby-Badetücher. Großhandel / OEM / ODM.",
+      "keywords": "Baby-Badetuch, Baby-Badetücher, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "OEM-/ODM-Hersteller für Babybadeprodukte | Baby Bath Ease",
+      "description": "Wir entwickeln und fertigen Babybadeprodukte für internationale Marken und Händler. Von der Idee bis zur Serienfertigung begleiten wir Ihr Projekt."
+    },
+    "products": {
+      "title": "Entdecken Sie unsere Babybadeprodukte | Baby Bath Ease",
+      "description": "Durchdachte Badelösungen für internationale Marken, Händler und Eigenmarken."
+    },
+    "about": {
+      "title": "Über uns | Baby Bath Ease",
+      "description": "Unser Familienunternehmen wurde 1982 von Kevin Kwok in Hongkong gegründet. Wir verfügen über mehr als 40 Jahre Erfahrung in der Entwicklung von Kunststoffprodukten und der Herstellung von Babybadeartikeln. Eric"
+    },
+    "contact": {
+      "title": "Kontakt | Baby Bath Ease",
+      "description": "Großhandel, Vertrieb oder OEM – wir antworten innerhalb von zwei Werktagen."
+    }
+  }
+}

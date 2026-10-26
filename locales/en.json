@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "FOUNDED",
+      "value": "1982",
+      "note": "In Hong Kong"
+    },
+    {
+      "label": "TWO GENERATIONS",
+      "value": "Family-led",
+      "note": "Kevin to Eric Kwok"
+    },
+    {
+      "label": "GLOBAL REACH",
+      "value": "50+ Countries",
+      "note": "Trusted worldwide"
+    },
+    {
+      "label": "PRODUCT QUALITY",
+      "value": "100% Qualified",
+      "note": "Safety first, always"
+    }
+  ],
+  "featureLabels": ["Foldable design","Suction-cup attachment","Temperature reference","Adjustable height","Back support","Soft cushion","Drainage","Rinse cup","Toy bar","Handle","Support stand","Bath sling or net","Wheels","Space-saving storage","Adjustable positions","Shower attachment","Floating design","Water play","Magnetic fishing","Stacking cups","Faucet protection","Changing table","Light effects","Animal figures"],
+  "colors": {"white":"White","grey":"Grey","blue":"Blue","pink":"Pink","green":"Green","purple":"Purple","khaki":"Khaki","peach":"Peach","black":"Black","yellow":"Yellow","oat":"Oat","peach + white":"Peach + White","gray":"Grey"},
+  "ui": {
+    "officePhone": "Office Phone",
+    "selectInquiry": "Select inquiry type",
+    "selectQuantity": "Select quantity range",
+    "quantityRanges": ["Under 500 units","500–2,000 units","2,000–10,000 units","Over 10,000 units"],
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Choose language",
+    "menu": "Menu",
+    "quote": "Request a Quote",
+    "download": "Download Catalogue",
+    "talk": "Talk to Our Team",
+    "all": "All Products",
+    "details": "View Details",
+    "categories": "Our Product Categories",
+    "tagline": "Your Ideas, Our Expertise",
+    "manufacturer": "OEM / ODM Baby Bath Manufacturer",
+    "heroTitle": "Safe Bath Time.",
+    "heroAccent": "Scalable Supply.",
+    "heroIntro": "We design and manufacture baby bath products for international brands and retailers. From concept to mass production, we help bring your ideas to life.",
+    "productsTitle": "Explore Our Baby Bath Collection",
+    "productsIntro": "Practical, thoughtfully designed bath solutions for international brands, retailers and private-label partners.",
+    "library": "PRODUCT LIBRARY",
+    "libraryTitle": "Made for happy bath time.",
+    "ctaTitle": "Looking for a tailored baby bath range?",
+    "ctaIntro": "Share your target market, product requirements and order quantity. We will prepare a tailored solution for your brand.",
+    "aboutTitle": "A Legacy of Care Since 1982.",
+    "aboutIntro": "Founded in Hong Kong by Kevin Kwok in 1982, our family business brings more than 40 years of experience in plastic product design and baby bath manufacturing. Eric Kwok continues this work with modern design and careful quality control, serving partners in more than 50 countries.",
+    "contactTitle": "Get in touch.",
+    "contactIntro": "Wholesale, distribution or OEM — tell us what you need and we will reply within 2 business days.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "phone": "Phone / WhatsApp",
+    "market": "Target market / country",
+    "message": "Message",
+    "inquiryType": "Inquiry type",
+    "quantity": "Estimated order quantity",
+    "wholesale": "Wholesale",
+    "sourcing": "Product sourcing",
+    "select": "Select",
+    "send": "Send inquiry",
+    "sending": "Sending…",
+    "success": "Thank you. Your inquiry has been received.",
+    "error": "Unable to send. Please check the fields and try again.",
+    "required": "Required fields",
+    "address": "Office address",
+    "response": "Response",
+    "responseTime": "Within 2 business days",
+    "rights": "All rights reserved.",
+    "overview": "Product overview",
+    "specifications": "Specifications",
+    "originalSpecs": "Original technical specifications (English)",
+    "gallery": "Gallery",
+    "videos": "Product videos",
+    "model": "Model",
+    "safety": "Always supervise babies continuously during bathing.",
+    "back": "Back to products",
+    "visit": "Visit our office in Shenzhen.",
+    "map": "Open in Google Maps",
+    "features": "Key features",
+    "color": "Color",
+    "size": "Size",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "years": "Years of experience",
+    "brands": "Global brands",
+    "capacity": "Monthly capacity",
+    "delivery": "On-time delivery",
+    "oemTitle": "Your OEM / ODM manufacturing partner",
+    "oemIntro": "From product design to mass production, we support customisation, packaging and quality control for your baby bath collection.",
+    "officePhotos": "Office photos",
+    "empty": "No products in this category.",
+    "productIntro": "Contact our team about this model, available options, packaging and wholesale quantities.",
+    "downloadEnglish": "PDF · English"
+  },
+  "categories": {
+    "1": "Baby Bathtubs",
+    "2": "Bath Stands & Seats",
+    "3": "Bath Toys",
+    "4": "Bath Accessories",
+    "5": "Baby Bath Towels"
+  },
+  "products": {
+    "BBA001": {
+      "name": "Rinse Cup Set",
+      "description": "Soft-edge rinse cups for gentle, controlled water flow.",
+      "shortDescription": "Soft-edge rinse cups for gentle, controlled water flow.",
+      "seoTitle": "Rinse Cup Set (BBA001) | Baby Bath Ease",
+      "seoDescription": "Soft-edge rinse cups for gentle, controlled water flow.",
+      "keywords": "Rinse Cup Set, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Moby Bath Rinse Cup, Grey",
+      "description": "Baby bath rinse cup with interior ridges, soft rubber lip, easy-grip handle, and 710 mL capacity.",
+      "shortDescription": "Baby bath rinse cup with interior ridges, soft rubber lip, easy-grip handle, and 710 mL capacity.",
+      "seoTitle": "Moby Bath Rinse Cup, Grey (BBA002) | Baby Bath Ease",
+      "seoDescription": "Baby bath rinse cup with interior ridges, soft rubber lip, easy-grip handle, and 710 mL capacity.",
+      "keywords": "Moby Bath Rinse Cup, Grey, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "Dolphin Bathtub Spout Guard",
+      "description": "Dolphin-shaped bathtub faucet spout guard with an adjustable securing strap.",
+      "shortDescription": "Dolphin-shaped bathtub faucet spout guard with an adjustable securing strap.",
+      "seoTitle": "Dolphin Bathtub Spout Guard (BBA003) | Baby Bath Ease",
+      "seoDescription": "Dolphin-shaped bathtub faucet spout guard with an adjustable securing strap.",
+      "keywords": "Dolphin Bathtub Spout Guard, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "Grey Whale Baby Bathtub Faucet Cover",
+      "description": "Grey whale-shaped silicone bathtub faucet cover for standard bathtub faucets.",
+      "shortDescription": "Grey whale-shaped silicone bathtub faucet cover for standard bathtub faucets.",
+      "seoTitle": "Grey Whale Baby Bathtub Faucet Cover (BBA004) | Baby Bath Ease",
+      "seoDescription": "Grey whale-shaped silicone bathtub faucet cover for standard bathtub faucets.",
+      "keywords": "Grey Whale Baby Bathtub Faucet Cover, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "Classic Duck Baby Bath Thermometer",
+      "description": "Floating duck bath and room thermometer with clock and temperature display.",
+      "shortDescription": "Floating duck bath and room thermometer with clock and temperature display.",
+      "seoTitle": "Classic Duck Baby Bath Thermometer (BBA005) | Baby Bath Ease",
+      "seoDescription": "Floating duck bath and room thermometer with clock and temperature display.",
+      "keywords": "Classic Duck Baby Bath Thermometer, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "Floating Turtle Baby Bath Thermometer",
+      "description": "Floating digital water thermometer with LCD display, three-color indicator, and automatic on/off.",
+      "shortDescription": "Floating digital water thermometer with LCD display, three-color indicator, and automatic on/off.",
+      "seoTitle": "Floating Turtle Baby Bath Thermometer (BBA006) | Baby Bath Ease",
+      "seoDescription": "Floating digital water thermometer with LCD display, three-color indicator, and automatic on/off.",
+      "keywords": "Floating Turtle Baby Bath Thermometer, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "Adjustable Baby Changing Table, Light Grey",
+      "description": "Portable folding baby changing table with adjustable height, storage, and lockable wheels.",
+      "shortDescription": "Portable folding baby changing table with adjustable height, storage, and lockable wheels.",
+      "seoTitle": "Adjustable Baby Changing Table, Light Grey (BBA007) | Baby Bath Ease",
+      "seoDescription": "Portable folding baby changing table with adjustable height, storage, and lockable wheels.",
+      "keywords": "Adjustable Baby Changing Table, Light Grey, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "2-in-1 Baby Changing Table with Bath Tub, Grey",
+      "description": "Portable folding baby changing table with bath tub, storage rack, and wheels.",
+      "shortDescription": "Portable folding baby changing table with bath tub, storage rack, and wheels.",
+      "seoTitle": "2-in-1 Baby Changing Table with Bath Tub, Grey (BBA008) | Baby Bath Ease",
+      "seoDescription": "Portable folding baby changing table with bath tub, storage rack, and wheels.",
+      "keywords": "2-in-1 Baby Changing Table with Bath Tub, Grey, Bath Accessories, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "Newborn Support for Baby Bath, White",
+      "description": "The Newborn Support is shaped to fit a babys natural body shape and to mimic the support of a steady arm during bath time. It is listed for use from 0 to 8 months. Use only under constant adult supervision.",
+      "shortDescription": "Ergonomic newborn support for, designed for babies from 0 to 8 months.",
+      "seoTitle": "Newborn Support for Baby Bath, White (BBS001) | Baby Bath Ease",
+      "seoDescription": "Ergonomic newborn support for, designed for babies from 0 to 8 months.",
+      "keywords": "Newborn Support for Baby Bath, White, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "Non-Slip Baby Bath Seat with Suction Cups",
+      "description": "Designed for babies aged 5–10 months, this green baby bath seat combines a surrounding handrail, a soft breathable cushion, and four suction cups for use on smooth bathtub or shower surfaces. The one-button handrail opens for placing or removing the child.",
+      "shortDescription": "Baby bath seat with a surrounding handrail, soft cushion, and four suction cups for smooth bathtub or shower surfaces.",
+      "seoTitle": "Non-Slip Baby Bath Seat with Suction Cups (BBS002) | Baby Bath Ease",
+      "seoDescription": "Baby bath seat with a surrounding handrail, soft cushion, and four suction cups for smooth bathtub or shower surfaces.",
+      "keywords": "Non-Slip Baby Bath Seat with Suction Cups, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "360° Baby Bath Seat with Suction Cups",
+      "description": "A 360° baby bath seat with extra-large non-slip suction cups for smooth surfaces, dual pressure lock clips, an openable safety arm, and a non-slip cushion. Available in Pink, Green, and Grey.",
+      "shortDescription": "360° baby bath seat with a non-slip cushion, suction cups, dual pressure lock clips, and an openable safety arm.",
+      "seoTitle": "360° Baby Bath Seat with Suction Cups (BBS003) | Baby Bath Ease",
+      "seoDescription": "360° baby bath seat with a non-slip cushion, suction cups, dual pressure lock clips, and an openable safety arm.",
+      "keywords": "360° Baby Bath Seat with Suction Cups, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "Adjustable 3-Point Suction Baby Bath Seat",
+      "description": "An adjustable baby bath seat with three-point suction cups, a high backrest, and adjustable arms for use in standard rectangular bathtubs.",
+      "shortDescription": "Adjustable baby bath seat with three-point suction cups, a high backrest, and adjustable arms for standard rectangular tubs.",
+      "seoTitle": "Adjustable 3-Point Suction Baby Bath Seat (BBS004) | Baby Bath Ease",
+      "seoDescription": "Adjustable baby bath seat with three-point suction cups, a high backrest, and adjustable arms for standard rectangular tubs.",
+      "keywords": "Adjustable 3-Point Suction Baby Bath Seat, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "Baby Bath Seat for Babies Sitting Up, Non-Slip Baby Bath Chair with Strong Suction Cups, Grey",
+      "description": "A gray baby bath seat for babies sitting up, with three suction cups, a pressure-lock buckle, lockable armrests, and a curved high backrest. Pull tabs are provided to release the suction bases. The roomy inner area is listed for babies aged 6–24 months; use only under constant adult supervision.",
+      "shortDescription": "baby bath seat with three suction cups, a pressure-lock buckle, lockable armrests, and a high backrest.",
+      "seoTitle": "Baby Bath Seat for Babies Sitting Up, Non-Slip Baby Bath Chair with Strong Suction Cups, Grey (BBS005) | Baby Bath Ease",
+      "seoDescription": "baby bath seat with three suction cups, a pressure-lock buckle, lockable armrests, and a high backrest.",
+      "keywords": "Baby Bath Seat for Babies Sitting Up, Non-Slip Baby Bath Chair with Strong Suction Cups, Grey, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "Baby Bath Seat with Temperature Monitor",
+      "description": "This baby bath seat combines a color-alert, real-time temperature display with a 360° guardrail and ergonomic backrest. A soft TPE seat cushion and four suction cups support a secure, comfortable bathing setup. Fits bathtubs, basins, and shower areas with a smooth, clean surface.",
+      "shortDescription": "Baby bath seat with real-time temperature display, 360° guardrail, soft TPE cushion, and suction-cup base.",
+      "seoTitle": "Baby Bath Seat with Temperature Monitor (BBS006) | Baby Bath Ease",
+      "seoDescription": "Baby bath seat with real-time temperature display, 360° guardrail, soft TPE cushion, and suction-cup base.",
+      "keywords": "Baby Bath Seat with Temperature Monitor, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "Baby Bath Seat for Babies 6 Months & Up, Temperature Alert Baby Bathtub Seat, Grey",
+      "description": "This grey bath seat is listed for babies 6 months and up who can sit upright independently. Its egg-shaped wraparound design includes a high backrest, one-touch opening front armrest, water temperature prompt card, and four suction cups for smooth, flat bathtub or bathroom-floor surfaces. Do not use suction cups on uneven, textured, rippled, non-slip, or massage surfaces. Use only under constant adult supervision.",
+      "shortDescription": "wraparound baby bath seat with a high backrest, temperature prompt card, and four suction cups for smooth flat surfaces.",
+      "seoTitle": "Baby Bath Seat for Babies 6 Months & Up, Temperature Alert Baby Bathtub Seat, Grey (BBS007) | Baby Bath Ease",
+      "seoDescription": "wraparound baby bath seat with a high backrest, temperature prompt card, and four suction cups for smooth flat surfaces.",
+      "keywords": "Baby Bath Seat for Babies 6 Months & Up, Temperature Alert Baby Bathtub Seat, Grey, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "Pink Adjustable Baby Bath Seat with Temperature Display",
+      "description": "A pink adjustable baby bath seat with an integrated temperature display, soft mesh cushion, opening guardrail, and four suction cups for placement on a smooth bathtub surface.",
+      "shortDescription": "Pink adjustable baby bath seat with a temperature display, soft mesh cushion, opening guardrail, and four suction cups.",
+      "seoTitle": "Pink Adjustable Baby Bath Seat with Temperature Display (BBS008) | Baby Bath Ease",
+      "seoDescription": "Pink adjustable baby bath seat with a temperature display, soft mesh cushion, opening guardrail, and four suction cups.",
+      "keywords": "Pink Adjustable Baby Bath Seat with Temperature Display, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "Baby Bath Seat Infant Bath Support Chair with Thermometer Sticker, Gray",
+      "description": "Designed for babies who can sit with assistance, this gray bath seat combines a high backrest, rounded edges, drainage holes, and an integrated thermometer sticker. The opening safety bar and four suction cups are intended for smooth bathtub surfaces. Use only under constant adult supervision.",
+      "shortDescription": "Baby bath seat with four suction cups, an opening safety bar, ergonomic backrest, and thermometer sticker.",
+      "seoTitle": "Baby Bath Seat Infant Bath Support Chair with Thermometer Sticker, Gray (BBS009) | Baby Bath Ease",
+      "seoDescription": "Baby bath seat with four suction cups, an opening safety bar, ergonomic backrest, and thermometer sticker.",
+      "keywords": "Baby Bath Seat Infant Bath Support Chair with Thermometer Sticker, Gray, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "Dinosaur Baby Bath Seat with Toy Bar",
+      "description": "A dinosaur-themed baby bath seat with a toy bar, 360° all-round protection, an anti-slip suction cup, an ergonomic design, and a soft mesh cushion. Available in Blue and Grey.",
+      "shortDescription": "Dinosaur baby bath seat with a toy bar, 360° all-round protection, anti-slip suction cup, and soft mesh cushion.",
+      "seoTitle": "Dinosaur Baby Bath Seat with Toy Bar (BBS010) | Baby Bath Ease",
+      "seoDescription": "Dinosaur baby bath seat with a toy bar, 360° all-round protection, anti-slip suction cup, and soft mesh cushion.",
+      "keywords": "Dinosaur Baby Bath Seat with Toy Bar, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "Adjustable Baby Bath Seat with 4-Position Reclining Backrest, Peach + White",
+      "description": "This Peach + White bath seat offers four lockable backrest positions from 110 to 160 degrees. It features a front-panel water-temperature display, adjustable side support wings, a height-adjustable safety bar, four suction cups with seal indicators, drainage holes, an extendable footrest, and a removable whale rinse cup. Use only under constant adult supervision.",
+      "shortDescription": "adjustable bath seat with four recline positions, water-temperature display, extendable footrest, and rinse cup.",
+      "seoTitle": "Adjustable Baby Bath Seat with 4-Position Reclining Backrest, Peach + White (BBS011) | Baby Bath Ease",
+      "seoDescription": "adjustable bath seat with four recline positions, water-temperature display, extendable footrest, and rinse cup.",
+      "keywords": "Adjustable Baby Bath Seat with 4-Position Reclining Backrest, Peach + White, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "Duck Adjustable Baby Shower Assistance Stand",
+      "description": "A duck-shaped baby shower assistance stand with nine adjustment positions, adjustable height and width, a shower-head holder, drainage holes, and an anti-slip base.",
+      "shortDescription": "Duck-shaped baby shower assistance stand with adjustable height and width, drainage, and an anti-slip base.",
+      "seoTitle": "Duck Adjustable Baby Shower Assistance Stand (BBS012) | Baby Bath Ease",
+      "seoDescription": "Duck-shaped baby shower assistance stand with adjustable height and width, drainage, and an anti-slip base.",
+      "keywords": "Duck Adjustable Baby Shower Assistance Stand, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "Adjustable Baby Shower Stand, Grey",
+      "description": "Grey baby shower stand with an ABS construction, non-slip base, wrap-around design, adjustable height controls, removable seat, and built-in shower holder. It supports seated or standing bathing routines.",
+      "shortDescription": "Grey baby shower stand with adjustable height and removable seat.",
+      "seoTitle": "Adjustable Baby Shower Stand, Grey (BBS013) | Baby Bath Ease",
+      "seoDescription": "Grey baby shower stand with adjustable height and removable seat.",
+      "keywords": "Adjustable Baby Shower Stand, Grey, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "Upgraded Adjustable Baby Bath Standing Support",
+      "description": "Features 9 height settings (14.1–20.6 inches), adjustable handle width (7.1–11.2 inches), anti-pinch silicone at key joints, an adjustable backrest, a showerhead holder and drainage holes. Available in Grey and Pink.",
+      "shortDescription": "Adjustable baby bath standing support with an adjustable backrest, designed for babies and toddlers ages 6–36 months.",
+      "seoTitle": "Upgraded Adjustable Baby Bath Standing Support (BBS014) | Baby Bath Ease",
+      "seoDescription": "Adjustable baby bath standing support with an adjustable backrest, designed for babies and toddlers ages 6–36 months.",
+      "keywords": "Upgraded Adjustable Baby Bath Standing Support, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "Adjustable Baby Bath Stand, Green",
+      "description": "baby bath stand in Classic Green Frog. Made with ABS+TPE, it features a triangular construction, a widened non-slip base with drainage holes, and an adjustable back support. The height adjusts across 10 positions from 15.75 to 21.65 in. Designed for babies 6–36 months.",
+      "shortDescription": "Adjustable-height baby bath stand with a non-slip base and back support.",
+      "seoTitle": "Adjustable Baby Bath Stand, Green (BBS015) | Baby Bath Ease",
+      "seoDescription": "Adjustable-height baby bath stand with a non-slip base and back support.",
+      "keywords": "Adjustable Baby Bath Stand, Green, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "Adjustable Kids Shower Stand, Khaki",
+      "description": "Khaki kids shower stand with a detachable seat for seated washing and a standing area. Its five-level height adjustment and three-layer structure support bath-time, dressing, and diaper-changing routines for children 8–36 months.",
+      "shortDescription": "Height-adjustable kids shower stand with a detachable seat.",
+      "seoTitle": "Adjustable Kids Shower Stand, Khaki (BBS016) | Baby Bath Ease",
+      "seoDescription": "Height-adjustable kids shower stand with a detachable seat.",
+      "keywords": "Adjustable Kids Shower Stand, Khaki, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "Sit & Stand Baby Shower Support",
+      "description": "Supports sitting and standing modes. Provides 10 adjustable height levels and an adjustable handle width. The base is listed as 16 × 17.7 inches and features a triangular structure, widened base, reinforced support bars and drainage holes.",
+      "shortDescription": "Foldable baby shower support with sit and stand modes, adjustable height and handle width.",
+      "seoTitle": "Sit & Stand Baby Shower Support (BBS017) | Baby Bath Ease",
+      "seoDescription": "Foldable baby shower support with sit and stand modes, adjustable height and handle width.",
+      "keywords": "Sit & Stand Baby Shower Support, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "Duck Foldable Baby Shower Stand, Grey",
+      "description": "Grey duck-shaped baby shower stand with adjustable height and angle. The foldable design includes suction cups for smooth, clean surfaces and a semi-automatic locking arm. Designed for infants and toddlers 8–36 months.",
+      "shortDescription": "Foldable, adjustable baby shower stand with suction cups for smooth surfaces.",
+      "seoTitle": "Duck Foldable Baby Shower Stand, Grey (BBS018) | Baby Bath Ease",
+      "seoDescription": "Foldable, adjustable baby shower stand with suction cups for smooth surfaces.",
+      "keywords": "Duck Foldable Baby Shower Stand, Grey, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "Duck Adjustable Baby Bath Standing Support, Pink",
+      "description": "Pink duck-themed baby bath standing support with adjustable height from 47–64 cm and handrail width from 25–35 cm. It is made from ABS plastic and silicone materials, includes an anti-slip pad and drainage holes, and is designed for infants and toddlers 8–36 months.",
+      "shortDescription": "Pink duck-themed adjustable baby bath standing support for ages 8–36 months.",
+      "seoTitle": "Duck Adjustable Baby Bath Standing Support, Pink (BBS019) | Baby Bath Ease",
+      "seoDescription": "Pink duck-themed adjustable baby bath standing support for ages 8–36 months.",
+      "keywords": "Duck Adjustable Baby Bath Standing Support, Pink, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "Purple Baby Hug Bath Tower",
+      "description": "An adjustable baby shower stand with a silicone non-slip design. The support frame can be adjusted for different age groups. Listed for use in a bathtub, shower or other locations, and described as lightweight and portable.",
+      "shortDescription": "Adjustable purple toddler shower stand support with a silicone non-slip design.",
+      "seoTitle": "Purple Baby Hug Bath Tower (BBS020) | Baby Bath Ease",
+      "seoDescription": "Adjustable purple toddler shower stand support with a silicone non-slip design.",
+      "keywords": "Purple Baby Hug Bath Tower, Bath Stands & Seats, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "Collapsible Baby Bathtub, Grey",
+      "description": "A grey collapsible baby bathtub for infants and toddlers. The product page lists a soft interior bath net, foldable construction for storage or travel, and suitability from birth through 18 months.",
+      "shortDescription": "Foldable grey baby bathtub with a soft interior bath net for newborn through 18 months.",
+      "seoTitle": "Collapsible Baby Bathtub, Grey (BBT001) | Baby Bath Ease",
+      "seoDescription": "Foldable grey baby bathtub with a soft interior bath net for newborn through 18 months.",
+      "keywords": "Collapsible Baby Bathtub, Grey, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "Collapsible Baby Bathtub, Pink",
+      "description": "A pink collapsible baby bathtub for newborn through 36 months. The product page lists a two-step double-folding design, real-time temperature sensor, detachable soft cushion, and four-corner base support.",
+      "shortDescription": "Foldable PP and TPE baby bathtub with real-time temperature monitoring and a detachable cushion.",
+      "seoTitle": "Collapsible Baby Bathtub, Pink (BBT002) | Baby Bath Ease",
+      "seoDescription": "Foldable PP and TPE baby bathtub with real-time temperature monitoring and a detachable cushion.",
+      "keywords": "Collapsible Baby Bathtub, Pink, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "Collapsible Baby Bathtub, Grey",
+      "description": "A grey JoyYum collapsible baby bathtub for newborn through 36 months. The product page lists PP and TPE construction, a soft mesh cushion with adjustable height, digital thermometer, easy-pull drain plugs, top hook, and storage mesh bag.",
+      "shortDescription": "Foldable PP and TPE baby bathtub with a soft cushion, digital thermometer, drain plugs, hanging hook, and storage mesh bag.",
+      "seoTitle": "Collapsible Baby Bathtub, Grey (BBT003) | Baby Bath Ease",
+      "seoDescription": "Foldable PP and TPE baby bathtub with a soft cushion, digital thermometer, drain plugs, hanging hook, and storage mesh bag.",
+      "keywords": "Collapsible Baby Bathtub, Grey, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "Foldable Baby Bathtub, Oat",
+      "description": "A foldable bathtub in Oat for newborn through 24 months. The product page lists a quick-drying padded sling that can be repositioned or removed for three bathing stages, plus a thermometer and removable tray.",
+      "shortDescription": "Foldable baby bathtub with a padded sling, three bathing stages, thermometer, removable tray, and compact storage profile.",
+      "seoTitle": "Foldable Baby Bathtub, Oat (BBT005) | Baby Bath Ease",
+      "seoDescription": "Foldable baby bathtub with a padded sling, three bathing stages, thermometer, removable tray, and compact storage profile.",
+      "keywords": "Foldable Baby Bathtub, Oat, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "4-in-1 Collapsible Baby Bathtub, Grey",
+      "description": "A grey 4-in-1 collapsible baby bathtub for newborn through toddler stages. The product page lists a repositionable bath basket, removable T-support, floating digital thermometer, dual drain plugs, and an integrated hanging hook for storage.",
+      "shortDescription": "Collapsible 4-in-1 baby bathtub with a repositionable bath basket, T-support, floating thermometer, dual drains, and hanging hook.",
+      "seoTitle": "4-in-1 Collapsible Baby Bathtub, Grey (BBT006) | Baby Bath Ease",
+      "seoDescription": "Collapsible 4-in-1 baby bathtub with a repositionable bath basket, T-support, floating thermometer, dual drains, and hanging hook.",
+      "keywords": "4-in-1 Collapsible Baby Bathtub, Grey, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "Folding Baby Bathtub",
+      "description": "Space-saving bathtub with secure fold and easy-drain plug.",
+      "shortDescription": "Space-saving bathtub with secure fold and easy-drain plug.",
+      "seoTitle": "Folding Baby Bathtub (BBT007) | Baby Bath Ease",
+      "seoDescription": "Space-saving bathtub with secure fold and easy-drain plug.",
+      "keywords": "Folding Baby Bathtub, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "Baby Bath and Folding Stand Bundle, Blossom Pink",
+      "description": "Blossom Pink baby bath bundle with a compatible folding bath stand. The bath includes a Bum Bump newborn support, soft foam backrest, and drain plug. The stand raises the bath to approximately 30 in / 76 cm and folds flat for storage.",
+      "shortDescription": "Newborn baby bath and folding stand bundle with foam backrest and drain plug.",
+      "seoTitle": "Baby Bath and Folding Stand Bundle, Blossom Pink (BBT008) | Baby Bath Ease",
+      "seoDescription": "Newborn baby bath and folding stand bundle with foam backrest and drain plug.",
+      "keywords": "Baby Bath and Folding Stand Bundle, Blossom Pink, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "3-Stage Baby Bathtub, Gray",
+      "description": "A gray Soak baby bathtub with three adjustable support positions for newborn through toddler use. The product page lists an adjustable bottom support bump, contoured back wall, non-slip foam, and a color-changing drain plug.",
+      "shortDescription": "Three-stage baby bathtub with adjustable support positions and a color-changing drain plug.",
+      "seoTitle": "3-Stage Baby Bathtub, Gray (BBT009) | Baby Bath Ease",
+      "seoDescription": "Three-stage baby bathtub with adjustable support positions and a color-changing drain plug.",
+      "keywords": "3-Stage Baby Bathtub, Gray, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "4-in-1 Reclining Baby Bathtub",
+      "description": "4-in-1 reclining baby bathtub provides four recline positions for newborn, infant, sitter, and toddler stages. The product page lists low-, mid-, and top-level reclines plus a built-in toddler seat on the opposite side.",
+      "shortDescription": "Four-position reclining baby bathtub for newborn through toddler use, with a built-in toddler seat.",
+      "seoTitle": "4-in-1 Reclining Baby Bathtub (BBT010) | Baby Bath Ease",
+      "seoDescription": "Four-position reclining baby bathtub for newborn through toddler use, with a built-in toddler seat.",
+      "keywords": "4-in-1 Reclining Baby Bathtub, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "3-in-1 Grow-with-Baby Bathtub",
+      "description": "A 3-N-1 bath tub that transitions from newborn to infant to toddler use. The product page lists a removable soft sling, padded layback area, storage space for bath supplies, single- and double-sink fit, and easy-release drain plug.",
+      "shortDescription": "Three-stage infant-to-toddler bath tub with a removable sling, padded recline area, storage space, and easy-release drain plug.",
+      "seoTitle": "3-in-1 Grow-with-Baby Bathtub (BBT011) | Baby Bath Ease",
+      "seoDescription": "Three-stage infant-to-toddler bath tub with a removable sling, padded recline area, storage space, and easy-release drain plug.",
+      "keywords": "3-in-1 Grow-with-Baby Bathtub, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "Rain Shower Baby Spa Bathtub Set",
+      "description": "Rain Shower Baby Spa bathtub set transitions from newborn to infant to toddler use. The product page lists a rotating shower arm, handheld shower head, fresh-water tank, built-in soft brush, quick-drying sling, and six AA battery requirement.",
+      "shortDescription": "Three-stage baby bathtub set with an infant sling, shower arm, handheld shower head, fresh-water tank, and built-in soft brush.",
+      "seoTitle": "Rain Shower Baby Spa Bathtub Set (BBT012) | Baby Bath Ease",
+      "seoDescription": "Three-stage baby bathtub set with an infant sling, shower arm, handheld shower head, fresh-water tank, and built-in soft brush.",
+      "keywords": "Rain Shower Baby Spa Bathtub Set, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "Foldable Baby Bathtub with Rinse Cup",
+      "description": "Collapsible portable baby bathtub with rinse cup for babies and toddlers 6 months to 5 years.",
+      "shortDescription": "Collapsible portable baby bathtub with rinse cup for babies and toddlers 6 months to 5 years.",
+      "seoTitle": "Foldable Baby Bathtub with Rinse Cup (BBT013) | Baby Bath Ease",
+      "seoDescription": "Collapsible portable baby bathtub with rinse cup for babies and toddlers 6 months to 5 years.",
+      "keywords": "Foldable Baby Bathtub with Rinse Cup, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "Collapsible Baby Bathtub with Stand and Soft Cushion",
+      "description": "Collapsible baby bathtub with stand and soft infant cushion for ages 0–36 months.",
+      "shortDescription": "Collapsible baby bathtub with stand and soft infant cushion for ages 0–36 months.",
+      "seoTitle": "Collapsible Baby Bathtub with Stand and Soft Cushion (BBT014) | Baby Bath Ease",
+      "seoDescription": "Collapsible baby bathtub with stand and soft infant cushion for ages 0–36 months.",
+      "keywords": "Collapsible Baby Bathtub with Stand and Soft Cushion, Baby Bathtubs, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "Water Spray Whale",
+      "description": "A soft blue water toy for interactive sensory play.",
+      "shortDescription": "A soft blue water toy for interactive sensory play.",
+      "seoTitle": "Water Spray Whale (BTOY001) | Baby Bath Ease",
+      "seoDescription": "A soft blue water toy for interactive sensory play.",
+      "keywords": "Water Spray Whale, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "Light-Up Whale Bath Fountain Toy",
+      "description": "A light-up whale bath fountain toy with water spray play.",
+      "shortDescription": "A light-up whale bath fountain toy with water spray play.",
+      "seoTitle": "Light-Up Whale Bath Fountain Toy (BTOY002) | Baby Bath Ease",
+      "seoDescription": "A light-up whale bath fountain toy with water spray play.",
+      "keywords": "Light-Up Whale Bath Fountain Toy, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "Waterworks Bath Toy",
+      "description": "A waterworks-style bath toy with connecting pipes and water wheels.",
+      "shortDescription": "A waterworks-style bath toy with connecting pipes and water wheels.",
+      "seoTitle": "Waterworks Bath Toy (BTOY003) | Baby Bath Ease",
+      "seoDescription": "A waterworks-style bath toy with connecting pipes and water wheels.",
+      "keywords": "Waterworks Bath Toy, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "Penguin Bath Slide Toy",
+      "description": "A penguin-themed bath slide toy with a rolling ball and animal figures.",
+      "shortDescription": "A penguin-themed bath slide toy with a rolling ball and animal figures.",
+      "seoTitle": "Penguin Bath Slide Toy (BTOY004) | Baby Bath Ease",
+      "seoDescription": "A penguin-themed bath slide toy with a rolling ball and animal figures.",
+      "keywords": "Penguin Bath Slide Toy, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "Water Racetrack Bath Toy",
+      "description": "A multi-level water racetrack bath toy with track sections and vehicles.",
+      "shortDescription": "A multi-level water racetrack bath toy with track sections and vehicles.",
+      "seoTitle": "Water Racetrack Bath Toy (BTOY005) | Baby Bath Ease",
+      "seoDescription": "A multi-level water racetrack bath toy with track sections and vehicles.",
+      "keywords": "Water Racetrack Bath Toy, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "Toddler Bath Toy Scoop Set",
+      "description": "A colorful toddler bath toy set with scoop, watering can, and sea-themed toys.",
+      "shortDescription": "A colorful toddler bath toy set with scoop, watering can, and sea-themed toys.",
+      "seoTitle": "Toddler Bath Toy Scoop Set (BTOY006) | Baby Bath Ease",
+      "seoDescription": "A colorful toddler bath toy set with scoop, watering can, and sea-themed toys.",
+      "keywords": "Toddler Bath Toy Scoop Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "Colorful Toddler Bath Toy Scoop Set",
+      "description": "A colorful toddler bath toy set with scoop, watering can, and sea-themed toys.",
+      "shortDescription": "A colorful toddler bath toy set with scoop, watering can, and sea-themed toys.",
+      "seoTitle": "Colorful Toddler Bath Toy Scoop Set (BTOY007) | Baby Bath Ease",
+      "seoDescription": "A colorful toddler bath toy set with scoop, watering can, and sea-themed toys.",
+      "keywords": "Colorful Toddler Bath Toy Scoop Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "Character Bath Bucket Set",
+      "description": "A themed bath bucket set with character figures.",
+      "shortDescription": "A themed bath bucket set with character figures.",
+      "seoTitle": "Character Bath Bucket Set (BTOY008) | Baby Bath Ease",
+      "seoDescription": "A themed bath bucket set with character figures.",
+      "keywords": "Character Bath Bucket Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "Floating Turtle Bath Toys",
+      "description": "A set of colorful floating turtle bath toys.",
+      "shortDescription": "A set of colorful floating turtle bath toys.",
+      "seoTitle": "Floating Turtle Bath Toys (BTOY009) | Baby Bath Ease",
+      "seoDescription": "A set of colorful floating turtle bath toys.",
+      "keywords": "Floating Turtle Bath Toys, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "Sea Animal Bath Toy Set",
+      "description": "A sea animal themed bath toy set with colorful floating characters.",
+      "shortDescription": "A sea animal themed bath toy set with colorful floating characters.",
+      "seoTitle": "Sea Animal Bath Toy Set (BTOY010) | Baby Bath Ease",
+      "seoDescription": "A sea animal themed bath toy set with colorful floating characters.",
+      "keywords": "Sea Animal Bath Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "Sea Animal Bath Toy Set",
+      "description": "A colorful sea animal bath toy set with squeezeable floating toys.",
+      "shortDescription": "A colorful sea animal bath toy set with squeezeable floating toys.",
+      "seoTitle": "Sea Animal Bath Toy Set (BTOY011) | Baby Bath Ease",
+      "seoDescription": "A colorful sea animal bath toy set with squeezeable floating toys.",
+      "keywords": "Sea Animal Bath Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "Floating Bath Ball Toy Set",
+      "description": "A set of clear floating bath balls with animal figures.",
+      "shortDescription": "A set of clear floating bath balls with animal figures.",
+      "seoTitle": "Floating Bath Ball Toy Set (BTOY012) | Baby Bath Ease",
+      "seoDescription": "A set of clear floating bath balls with animal figures.",
+      "keywords": "Floating Bath Ball Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "Stacking Cups Bath Toy Set",
+      "description": "A colorful stacking cups bath toy set.",
+      "shortDescription": "A colorful stacking cups bath toy set.",
+      "seoTitle": "Stacking Cups Bath Toy Set (BTOY013) | Baby Bath Ease",
+      "seoDescription": "A colorful stacking cups bath toy set.",
+      "keywords": "Stacking Cups Bath Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "Bath Foam Toy Set",
+      "description": "A colorful bath foam toy set with cup and character pieces.",
+      "shortDescription": "A colorful bath foam toy set with cup and character pieces.",
+      "seoTitle": "Bath Foam Toy Set (BTOY014) | Baby Bath Ease",
+      "seoDescription": "A colorful bath foam toy set with cup and character pieces.",
+      "keywords": "Bath Foam Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "Suction Cup Bath Toy Set",
+      "description": "A suction cup bath toy set with colorful character pieces.",
+      "shortDescription": "A suction cup bath toy set with colorful character pieces.",
+      "seoTitle": "Suction Cup Bath Toy Set (BTOY015) | Baby Bath Ease",
+      "seoDescription": "A suction cup bath toy set with colorful character pieces.",
+      "keywords": "Suction Cup Bath Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "Magnetic Fishing Bath Toy",
+      "description": "A magnetic fishing bath toy with a rod and floating characters.",
+      "shortDescription": "A magnetic fishing bath toy with a rod and floating characters.",
+      "seoTitle": "Magnetic Fishing Bath Toy (BTOY016) | Baby Bath Ease",
+      "seoDescription": "A magnetic fishing bath toy with a rod and floating characters.",
+      "keywords": "Magnetic Fishing Bath Toy, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "Rescue Vehicle Bath Toy Set",
+      "description": "A rescue vehicle themed bath toy set with boat, car, and helicopter toys.",
+      "shortDescription": "A rescue vehicle themed bath toy set with boat, car, and helicopter toys.",
+      "seoTitle": "Rescue Vehicle Bath Toy Set (BTOY017) | Baby Bath Ease",
+      "seoDescription": "A rescue vehicle themed bath toy set with boat, car, and helicopter toys.",
+      "keywords": "Rescue Vehicle Bath Toy Set, Bath Toys, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "Baby Bath Towel",
+      "description": "ABC ABC ",
+      "shortDescription": "abc",
+      "seoTitle": "Baby Bath Towel (BTWL001) | Baby Bath Ease",
+      "seoDescription": "abc",
+      "keywords": "Baby Bath Towel, Baby Bath Towels, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "OEM / ODM Baby Bath Manufacturer | Baby Bath Ease",
+      "description": "We design and manufacture baby bath products for international brands and retailers. From concept to mass production, we help bring your ideas to life."
+    },
+    "products": {
+      "title": "Explore Our Baby Bath Collection | Baby Bath Ease",
+      "description": "Practical, thoughtfully designed bath solutions for international brands, retailers and private-label partners."
+    },
+    "about": {
+      "title": "About | Baby Bath Ease",
+      "description": "Founded in Hong Kong by Kevin Kwok in 1982, our family business brings more than 40 years of experience in plastic product design and baby bath manufacturing. Eric Kwok continues this work with modern design an"
+    },
+    "contact": {
+      "title": "Contact | Baby Bath Ease",
+      "description": "Wholesale, distribution or OEM — tell us what you need and we will reply within 2 business days."
+    }
+  }
+}

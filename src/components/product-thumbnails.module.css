@@ -1,0 +1,22 @@
+.slot { position: relative; min-width: 0; min-height: 0; }
+/* Only the adjacent media column determines the gallery height. */
+.rail { position: absolute; inset: 0; display: flex; flex-direction: column; gap: 8px; overflow: hidden; }
+.arrow { flex: 0 0 30px; display: grid; place-items: center; padding: 0; border: 1px solid #cceaf7; border-radius: 8px; background: #edfaff; color: #138fc9; cursor: pointer; }
+.arrow:hover:not(:disabled) { background: #d7f2ff; }
+.arrow:disabled { opacity: .35; cursor: default; }
+.list { position: relative; display: flex; flex: 1; flex-direction: column; gap: 10px; min-height: 0; overflow-y: scroll; overflow-x: hidden; scrollbar-width: thin; scrollbar-color: #20ace9 #eaf8ff; scrollbar-gutter: stable; overscroll-behavior: contain; }
+.list::-webkit-scrollbar { width: 7px; height: 7px; }
+.list::-webkit-scrollbar-track { background: #eaf8ff; border-radius: 8px; }
+.list::-webkit-scrollbar-thumb { background: #20ace9; border-radius: 8px; }
+.thumbnail { position: relative; flex: 0 0 82px; width: 100%; border: 1px solid #eaf8ff; border-radius: 10px; overflow: hidden; background: #fff; cursor: pointer; }
+.thumbnail img { object-fit: cover; }
+.thumbnail[aria-pressed="true"] { border: 2px solid #20ace9; }
+.thumbnail:focus-visible, .arrow:focus-visible { outline: 2px solid #08255c; outline-offset: -3px; }
+@media (max-width: 760px) {
+  .slot { height: 86px; }
+  .rail { flex-direction: row; }
+  .arrow { flex-basis: 28px; }
+  .arrow svg { transform: rotate(-90deg); }
+  .list { flex-direction: row; min-width: 0; overflow-x: scroll; overflow-y: hidden; scrollbar-gutter: auto; }
+  .thumbnail { flex-basis: 68px; width: 68px; height: 68px; }
+}

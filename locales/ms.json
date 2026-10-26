@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "DITUBUHKAN",
+      "value": "1982",
+      "note": "Di Hong Kong"
+    },
+    {
+      "label": "DUA GENERASI",
+      "value": "Diterajui keluarga",
+      "note": "Daripada Kevin kepada Eric Kwok"
+    },
+    {
+      "label": "JANGKAUAN GLOBAL",
+      "value": "50+ Negara",
+      "note": "Dipercayai di seluruh dunia"
+    },
+    {
+      "label": "KUALITI PRODUK",
+      "value": "100% memenuhi piawaian",
+      "note": "Keselamatan sentiasa diutamakan"
+    }
+  ],
+  "featureLabels": ["Reka bentuk boleh lipat","Pemasangan cawan sedutan","Rujukan suhu","Ketinggian boleh laras","Sokongan belakang","Kusyen lembut","Saliran air","Cawan bilas","Palang mainan","Pemegang","Penyokong","Anduh atau jaring mandi","Roda","Penyimpanan kompak","Kedudukan boleh laras","Aksesori pancuran","Reka bentuk terapung","Permainan air","Memancing magnet","Cawan susun","Pelindung paip","Meja menukar lampin","Kesan cahaya","Patung haiwan"],
+  "colors": {"white":"Putih","grey":"Kelabu","blue":"Biru","pink":"Merah jambu","green":"Hijau","purple":"Ungu","khaki":"Khaki","peach":"Pic","black":"Hitam","yellow":"Kuning","oat":"Oat","peach + white":"Pic + Putih","gray":"Kelabu"},
+  "ui": {
+    "officePhone": "Telefon pejabat",
+    "selectInquiry": "Pilih jenis pertanyaan",
+    "selectQuantity": "Pilih julat kuantiti",
+    "quantityRanges": ["Bawah 500 unit","500–2,000 unit","2,000–10,000 unit","Lebih 10,000 unit"],
+    "home": "Utama",
+    "products": "Produk",
+    "about": "Tentang kami",
+    "contact": "Hubungi kami",
+    "language": "Pilih bahasa",
+    "menu": "Menu",
+    "quote": "Minta sebut harga",
+    "download": "Muat turun katalog",
+    "talk": "Hubungi pasukan kami",
+    "all": "Semua produk",
+    "details": "Lihat butiran",
+    "categories": "Kategori produk kami",
+    "tagline": "Idea anda, kepakaran kami",
+    "manufacturer": "Pengeluar produk mandian bayi OEM / ODM",
+    "heroTitle": "Mandian yang selamat.",
+    "heroAccent": "Pengeluaran berskala.",
+    "heroIntro": "Kami mereka bentuk dan mengeluarkan produk mandian bayi untuk jenama dan peruncit antarabangsa, daripada konsep hingga pengeluaran besar-besaran.",
+    "productsTitle": "Terokai koleksi mandian bayi kami",
+    "productsIntro": "Penyelesaian praktikal untuk jenama antarabangsa, peruncit dan rakan kongsi label persendirian.",
+    "library": "KATALOG PRODUK",
+    "libraryTitle": "Untuk waktu mandi yang ceria.",
+    "ctaTitle": "Mencari rangkaian mandian bayi tersuai?",
+    "ctaIntro": "Kongsikan pasaran sasaran, keperluan produk dan kuantiti pesanan anda. Kami akan menyediakan penyelesaian untuk jenama anda.",
+    "aboutTitle": "Tradisi penjagaan sejak 1982.",
+    "aboutIntro": "Ditubuhkan di Hong Kong oleh Kevin Kwok pada 1982, perniagaan keluarga kami mempunyai lebih 40 tahun pengalaman dalam reka bentuk produk plastik dan pembuatan produk mandian bayi. Eric Kwok meneruskan usaha ini dengan reka bentuk moden dan kawalan kualiti untuk rakan kongsi di lebih 50 negara.",
+    "contactTitle": "Hubungi kami.",
+    "contactIntro": "Borong, pengedaran atau OEM — kami membalas dalam dua hari bekerja.",
+    "name": "Nama",
+    "email": "E-mel",
+    "company": "Syarikat",
+    "phone": "Telefon / WhatsApp",
+    "market": "Pasaran sasaran / negara",
+    "message": "Mesej",
+    "inquiryType": "Jenis pertanyaan",
+    "quantity": "Anggaran kuantiti pesanan",
+    "wholesale": "Borong",
+    "sourcing": "Penyumberan produk",
+    "select": "Pilih",
+    "send": "Hantar pertanyaan",
+    "sending": "Sedang menghantar…",
+    "success": "Terima kasih. Pertanyaan anda telah diterima.",
+    "error": "Gagal menghantar. Semak medan dan cuba lagi.",
+    "required": "Medan wajib",
+    "address": "Alamat pejabat",
+    "response": "Maklum balas",
+    "responseTime": "Dalam dua hari bekerja",
+    "rights": "Hak cipta terpelihara.",
+    "overview": "Gambaran produk",
+    "specifications": "Spesifikasi",
+    "originalSpecs": "Spesifikasi teknikal asal (bahasa Inggeris)",
+    "gallery": "Galeri",
+    "videos": "Video produk",
+    "model": "Model",
+    "safety": "Sentiasa awasi bayi tanpa henti semasa mandi.",
+    "back": "Kembali ke produk",
+    "visit": "Lawati pejabat kami di Shenzhen.",
+    "map": "Buka dalam Google Maps",
+    "features": "Ciri utama",
+    "color": "Warna",
+    "size": "Saiz",
+    "close": "Tutup",
+    "previous": "Sebelumnya",
+    "next": "Seterusnya",
+    "years": "Tahun pengalaman",
+    "brands": "Jenama global",
+    "capacity": "Kapasiti bulanan",
+    "delivery": "Penghantaran tepat masa",
+    "oemTitle": "Rakan pembuatan OEM / ODM anda",
+    "oemIntro": "Daripada reka bentuk hingga pengeluaran, kami menyokong penyesuaian, pembungkusan dan kawalan kualiti untuk rangkaian anda.",
+    "officePhotos": "Foto pejabat",
+    "empty": "Tiada produk dalam kategori ini.",
+    "productIntro": "Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+    "downloadEnglish": "PDF · Bahasa Inggeris"
+  },
+  "categories": {
+    "1": "Tab mandi bayi",
+    "2": "Penyokong dan kerusi mandi",
+    "3": "Mainan mandi",
+    "4": "Aksesori mandi",
+    "5": "Tuala mandi bayi"
+  },
+  "products": {
+    "BBA001": {
+      "name": "Set cawan bilas",
+      "description": "Set cawan bilas. Ciri utama: Cawan bilas. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Cawan bilas",
+      "seoTitle": "Set cawan bilas (BBA001) | Baby Bath Ease",
+      "seoDescription": "Set cawan bilas (BBA001) — Cawan bilas. Borong / OEM / ODM.",
+      "keywords": "Set cawan bilas, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Cawan bilas Moby, kelabu",
+      "description": "Cawan bilas Moby, kelabu. Ciri utama: Cawan bilas · Pemegang. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Cawan bilas · Pemegang",
+      "seoTitle": "Cawan bilas Moby, kelabu (BBA002) | Baby Bath Ease",
+      "seoDescription": "Cawan bilas Moby, kelabu (BBA002) — Cawan bilas · Pemegang. Borong / OEM / ODM.",
+      "keywords": "Cawan bilas Moby, kelabu, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "Pelindung muncung paip lumba-lumba",
+      "description": "Pelindung muncung paip lumba-lumba. Ciri utama: Pelindung paip. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pelindung paip",
+      "seoTitle": "Pelindung muncung paip lumba-lumba (BBA003) | Baby Bath Ease",
+      "seoDescription": "Pelindung muncung paip lumba-lumba (BBA003) — Pelindung paip. Borong / OEM / ODM.",
+      "keywords": "Pelindung muncung paip lumba-lumba, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "Penutup paip paus kelabu",
+      "description": "Penutup paip paus kelabu. Ciri utama: Pelindung paip. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pelindung paip",
+      "seoTitle": "Penutup paip paus kelabu (BBA004) | Baby Bath Ease",
+      "seoDescription": "Penutup paip paus kelabu (BBA004) — Pelindung paip. Borong / OEM / ODM.",
+      "keywords": "Penutup paip paus kelabu, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "Termometer mandi itik",
+      "description": "Termometer mandi itik. Ciri utama: Rujukan suhu · Reka bentuk terapung. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Rujukan suhu · Reka bentuk terapung",
+      "seoTitle": "Termometer mandi itik (BBA005) | Baby Bath Ease",
+      "seoDescription": "Termometer mandi itik (BBA005) — Rujukan suhu · Reka bentuk terapung. Borong / OEM / ODM.",
+      "keywords": "Termometer mandi itik, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "Termometer mandi kura-kura terapung",
+      "description": "Termometer mandi kura-kura terapung. Ciri utama: Rujukan suhu · Reka bentuk terapung. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Rujukan suhu · Reka bentuk terapung",
+      "seoTitle": "Termometer mandi kura-kura terapung (BBA006) | Baby Bath Ease",
+      "seoDescription": "Termometer mandi kura-kura terapung (BBA006) — Rujukan suhu · Reka bentuk terapung. Borong / OEM / ODM.",
+      "keywords": "Termometer mandi kura-kura terapung, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "Meja menukar lampin boleh laras, kelabu muda",
+      "description": "Meja menukar lampin boleh laras, kelabu muda. Ciri utama: Reka bentuk boleh lipat · Ketinggian boleh laras · Roda · Penyimpanan kompak · Meja menukar lampin. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Ketinggian boleh laras · Roda · Penyimpanan kompak",
+      "seoTitle": "Meja menukar lampin boleh laras, kelabu muda (BBA007) | Baby Bath Ease",
+      "seoDescription": "Meja menukar lampin boleh laras, kelabu muda (BBA007) — Reka bentuk boleh lipat · Ketinggian boleh laras · Roda · Penyimpanan kompak. Borong / OEM / ODM.",
+      "keywords": "Meja menukar lampin boleh laras, kelabu muda, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "Meja menukar lampin 2 dalam 1 dengan tab mandi, kelabu",
+      "description": "Meja menukar lampin 2 dalam 1 dengan tab mandi, kelabu. Ciri utama: Reka bentuk boleh lipat · Roda · Penyimpanan kompak · Meja menukar lampin. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Roda · Penyimpanan kompak · Meja menukar lampin",
+      "seoTitle": "Meja menukar lampin 2 dalam 1 dengan tab mandi, kelabu (BBA008) | Baby Bath Ease",
+      "seoDescription": "Meja menukar lampin 2 dalam 1 dengan tab mandi, kelabu (BBA008) — Reka bentuk boleh lipat · Roda · Penyimpanan kompak · Meja menukar lampin. Borong / OEM / ODM.",
+      "keywords": "Meja menukar lampin 2 dalam 1 dengan tab mandi, kelabu, Aksesori mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "Sokongan mandi bayi baru lahir, putih",
+      "description": "Sokongan mandi bayi baru lahir, putih. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Penyokong dan kerusi mandi",
+      "seoTitle": "Sokongan mandi bayi baru lahir, putih (BBS001) | Baby Bath Ease",
+      "seoDescription": "Sokongan mandi bayi baru lahir, putih (BBS001) — Penyokong dan kerusi mandi. Borong / OEM / ODM.",
+      "keywords": "Sokongan mandi bayi baru lahir, putih, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "Kerusi mandi bayi antiegelincir dengan cawan sedutan",
+      "description": "Kerusi mandi bayi antiegelincir dengan cawan sedutan. Ciri utama: Pemasangan cawan sedutan · Kusyen lembut. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Kusyen lembut",
+      "seoTitle": "Kerusi mandi bayi antiegelincir dengan cawan sedutan (BBS002) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi bayi antiegelincir dengan cawan sedutan (BBS002) — Pemasangan cawan sedutan · Kusyen lembut. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi bayi antiegelincir dengan cawan sedutan, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "Kerusi mandi bayi 360° dengan cawan sedutan",
+      "description": "Kerusi mandi bayi 360° dengan cawan sedutan. Ciri utama: Pemasangan cawan sedutan · Kusyen lembut. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Kusyen lembut",
+      "seoTitle": "Kerusi mandi bayi 360° dengan cawan sedutan (BBS003) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi bayi 360° dengan cawan sedutan (BBS003) — Pemasangan cawan sedutan · Kusyen lembut. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi bayi 360° dengan cawan sedutan, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "Kerusi mandi boleh laras dengan tiga cawan sedutan",
+      "description": "Kerusi mandi boleh laras dengan tiga cawan sedutan. Ciri utama: Pemasangan cawan sedutan · Sokongan belakang. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Sokongan belakang",
+      "seoTitle": "Kerusi mandi boleh laras dengan tiga cawan sedutan (BBS004) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi boleh laras dengan tiga cawan sedutan (BBS004) — Pemasangan cawan sedutan · Sokongan belakang. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi boleh laras dengan tiga cawan sedutan, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "Kerusi mandi dengan cawan sedutan, kelabu",
+      "description": "Kerusi mandi dengan cawan sedutan, kelabu. Ciri utama: Pemasangan cawan sedutan · Sokongan belakang. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Sokongan belakang",
+      "seoTitle": "Kerusi mandi dengan cawan sedutan, kelabu (BBS005) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi dengan cawan sedutan, kelabu (BBS005) — Pemasangan cawan sedutan · Sokongan belakang. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi dengan cawan sedutan, kelabu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "Kerusi mandi bayi dengan paparan suhu",
+      "description": "Kerusi mandi bayi dengan paparan suhu. Ciri utama: Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang · Kusyen lembut. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang · Kusyen lembut",
+      "seoTitle": "Kerusi mandi bayi dengan paparan suhu (BBS006) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi bayi dengan paparan suhu (BBS006) — Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang · Kusyen lembut. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi bayi dengan paparan suhu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "Kerusi mandi dengan penunjuk suhu untuk 6 bulan ke atas, kelabu",
+      "description": "Kerusi mandi dengan penunjuk suhu untuk 6 bulan ke atas, kelabu. Ciri utama: Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang",
+      "seoTitle": "Kerusi mandi dengan penunjuk suhu untuk 6 bulan ke atas, kelabu (BBS007) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi dengan penunjuk suhu untuk 6 bulan ke atas, kelabu (BBS007) — Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi dengan penunjuk suhu untuk 6 bulan ke atas, kelabu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "Kerusi mandi boleh laras dengan paparan suhu, merah jambu",
+      "description": "Kerusi mandi boleh laras dengan paparan suhu, merah jambu. Ciri utama: Pemasangan cawan sedutan · Rujukan suhu · Kusyen lembut. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Rujukan suhu · Kusyen lembut",
+      "seoTitle": "Kerusi mandi boleh laras dengan paparan suhu, merah jambu (BBS008) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi boleh laras dengan paparan suhu, merah jambu (BBS008) — Pemasangan cawan sedutan · Rujukan suhu · Kusyen lembut. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi boleh laras dengan paparan suhu, merah jambu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "Kerusi mandi dengan pelekat termometer, kelabu",
+      "description": "Kerusi mandi dengan pelekat termometer, kelabu. Ciri utama: Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang · Saliran air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang · Saliran air",
+      "seoTitle": "Kerusi mandi dengan pelekat termometer, kelabu (BBS009) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi dengan pelekat termometer, kelabu (BBS009) — Pemasangan cawan sedutan · Rujukan suhu · Sokongan belakang · Saliran air. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi dengan pelekat termometer, kelabu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "Kerusi mandi dinosaur dengan palang mainan",
+      "description": "Kerusi mandi dinosaur dengan palang mainan. Ciri utama: Pemasangan cawan sedutan · Kusyen lembut · Palang mainan. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Kusyen lembut · Palang mainan",
+      "seoTitle": "Kerusi mandi dinosaur dengan palang mainan (BBS010) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi dinosaur dengan palang mainan (BBS010) — Pemasangan cawan sedutan · Kusyen lembut · Palang mainan. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi dinosaur dengan palang mainan, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "Kerusi mandi dengan sandaran empat kedudukan, pic dan putih",
+      "description": "Kerusi mandi dengan sandaran empat kedudukan, pic dan putih. Ciri utama: Pemasangan cawan sedutan · Rujukan suhu · Ketinggian boleh laras · Sokongan belakang · Saliran air · Cawan bilas · Kedudukan boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan · Rujukan suhu · Ketinggian boleh laras · Sokongan belakang",
+      "seoTitle": "Kerusi mandi dengan sandaran empat kedudukan, pic dan putih (BBS011) | Baby Bath Ease",
+      "seoDescription": "Kerusi mandi dengan sandaran empat kedudukan, pic dan putih (BBS011) — Pemasangan cawan sedutan · Rujukan suhu · Ketinggian boleh laras · Sokongan belakang. Borong / OEM / ODM.",
+      "keywords": "Kerusi mandi dengan sandaran empat kedudukan, pic dan putih, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "Penyokong pancuran itik boleh laras",
+      "description": "Penyokong pancuran itik boleh laras. Ciri utama: Ketinggian boleh laras · Saliran air · Kedudukan boleh laras · Aksesori pancuran. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Ketinggian boleh laras · Saliran air · Kedudukan boleh laras · Aksesori pancuran",
+      "seoTitle": "Penyokong pancuran itik boleh laras (BBS012) | Baby Bath Ease",
+      "seoDescription": "Penyokong pancuran itik boleh laras (BBS012) — Ketinggian boleh laras · Saliran air · Kedudukan boleh laras · Aksesori pancuran. Borong / OEM / ODM.",
+      "keywords": "Penyokong pancuran itik boleh laras, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "Penyokong pancuran bayi boleh laras, kelabu",
+      "description": "Penyokong pancuran bayi boleh laras, kelabu. Ciri utama: Ketinggian boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Ketinggian boleh laras",
+      "seoTitle": "Penyokong pancuran bayi boleh laras, kelabu (BBS013) | Baby Bath Ease",
+      "seoDescription": "Penyokong pancuran bayi boleh laras, kelabu (BBS013) — Ketinggian boleh laras. Borong / OEM / ODM.",
+      "keywords": "Penyokong pancuran bayi boleh laras, kelabu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "Penyokong mandi berdiri boleh laras dipertingkat",
+      "description": "Penyokong mandi berdiri boleh laras dipertingkat. Ciri utama: Sokongan belakang · Saliran air · Pemegang. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Sokongan belakang · Saliran air · Pemegang",
+      "seoTitle": "Penyokong mandi berdiri boleh laras dipertingkat (BBS014) | Baby Bath Ease",
+      "seoDescription": "Penyokong mandi berdiri boleh laras dipertingkat (BBS014) — Sokongan belakang · Saliran air · Pemegang. Borong / OEM / ODM.",
+      "keywords": "Penyokong mandi berdiri boleh laras dipertingkat, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "Penyokong mandi bayi boleh laras, hijau",
+      "description": "Penyokong mandi bayi boleh laras, hijau. Ciri utama: Ketinggian boleh laras · Sokongan belakang · Saliran air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Ketinggian boleh laras · Sokongan belakang · Saliran air",
+      "seoTitle": "Penyokong mandi bayi boleh laras, hijau (BBS015) | Baby Bath Ease",
+      "seoDescription": "Penyokong mandi bayi boleh laras, hijau (BBS015) — Ketinggian boleh laras · Sokongan belakang · Saliran air. Borong / OEM / ODM.",
+      "keywords": "Penyokong mandi bayi boleh laras, hijau, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "Penyokong pancuran kanak-kanak boleh laras, khaki",
+      "description": "Penyokong pancuran kanak-kanak boleh laras, khaki. Ciri utama: Ketinggian boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Ketinggian boleh laras",
+      "seoTitle": "Penyokong pancuran kanak-kanak boleh laras, khaki (BBS016) | Baby Bath Ease",
+      "seoDescription": "Penyokong pancuran kanak-kanak boleh laras, khaki (BBS016) — Ketinggian boleh laras. Borong / OEM / ODM.",
+      "keywords": "Penyokong pancuran kanak-kanak boleh laras, khaki, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "Sokongan pancuran bayi duduk dan berdiri",
+      "description": "Sokongan pancuran bayi duduk dan berdiri. Ciri utama: Reka bentuk boleh lipat · Ketinggian boleh laras · Saliran air · Pemegang. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Ketinggian boleh laras · Saliran air · Pemegang",
+      "seoTitle": "Sokongan pancuran bayi duduk dan berdiri (BBS017) | Baby Bath Ease",
+      "seoDescription": "Sokongan pancuran bayi duduk dan berdiri (BBS017) — Reka bentuk boleh lipat · Ketinggian boleh laras · Saliran air · Pemegang. Borong / OEM / ODM.",
+      "keywords": "Sokongan pancuran bayi duduk dan berdiri, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "Penyokong pancuran itik boleh lipat, kelabu",
+      "description": "Penyokong pancuran itik boleh lipat, kelabu. Ciri utama: Reka bentuk boleh lipat · Pemasangan cawan sedutan · Ketinggian boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Pemasangan cawan sedutan · Ketinggian boleh laras",
+      "seoTitle": "Penyokong pancuran itik boleh lipat, kelabu (BBS018) | Baby Bath Ease",
+      "seoDescription": "Penyokong pancuran itik boleh lipat, kelabu (BBS018) — Reka bentuk boleh lipat · Pemasangan cawan sedutan · Ketinggian boleh laras. Borong / OEM / ODM.",
+      "keywords": "Penyokong pancuran itik boleh lipat, kelabu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "Penyokong mandi itik boleh laras, merah jambu",
+      "description": "Penyokong mandi itik boleh laras, merah jambu. Ciri utama: Ketinggian boleh laras · Saliran air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Ketinggian boleh laras · Saliran air",
+      "seoTitle": "Penyokong mandi itik boleh laras, merah jambu (BBS019) | Baby Bath Ease",
+      "seoDescription": "Penyokong mandi itik boleh laras, merah jambu (BBS019) — Ketinggian boleh laras · Saliran air. Borong / OEM / ODM.",
+      "keywords": "Penyokong mandi itik boleh laras, merah jambu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "Menara mandian bayi, ungu",
+      "description": "Menara mandian bayi, ungu. Ciri utama: Penyokong. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Penyokong",
+      "seoTitle": "Menara mandian bayi, ungu (BBS020) | Baby Bath Ease",
+      "seoDescription": "Menara mandian bayi, ungu (BBS020) — Penyokong. Borong / OEM / ODM.",
+      "keywords": "Menara mandian bayi, ungu, Penyokong dan kerusi mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "Tab mandi bayi boleh lipat, kelabu",
+      "description": "Tab mandi bayi boleh lipat, kelabu. Ciri utama: Reka bentuk boleh lipat · Anduh atau jaring mandi · Penyimpanan kompak. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Anduh atau jaring mandi · Penyimpanan kompak",
+      "seoTitle": "Tab mandi bayi boleh lipat, kelabu (BBT001) | Baby Bath Ease",
+      "seoDescription": "Tab mandi bayi boleh lipat, kelabu (BBT001) — Reka bentuk boleh lipat · Anduh atau jaring mandi · Penyimpanan kompak. Borong / OEM / ODM.",
+      "keywords": "Tab mandi bayi boleh lipat, kelabu, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "Tab mandi bayi boleh lipat, merah jambu",
+      "description": "Tab mandi bayi boleh lipat, merah jambu. Ciri utama: Reka bentuk boleh lipat · Rujukan suhu · Kusyen lembut. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Rujukan suhu · Kusyen lembut",
+      "seoTitle": "Tab mandi bayi boleh lipat, merah jambu (BBT002) | Baby Bath Ease",
+      "seoDescription": "Tab mandi bayi boleh lipat, merah jambu (BBT002) — Reka bentuk boleh lipat · Rujukan suhu · Kusyen lembut. Borong / OEM / ODM.",
+      "keywords": "Tab mandi bayi boleh lipat, merah jambu, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "Tab mandi boleh lipat dengan kusyen, kelabu",
+      "description": "Tab mandi boleh lipat dengan kusyen, kelabu. Ciri utama: Reka bentuk boleh lipat · Rujukan suhu · Ketinggian boleh laras · Kusyen lembut · Saliran air · Penyimpanan kompak. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Rujukan suhu · Ketinggian boleh laras · Kusyen lembut",
+      "seoTitle": "Tab mandi boleh lipat dengan kusyen, kelabu (BBT003) | Baby Bath Ease",
+      "seoDescription": "Tab mandi boleh lipat dengan kusyen, kelabu (BBT003) — Reka bentuk boleh lipat · Rujukan suhu · Ketinggian boleh laras · Kusyen lembut. Borong / OEM / ODM.",
+      "keywords": "Tab mandi boleh lipat dengan kusyen, kelabu, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "Tab mandi bayi boleh lipat, warna oat",
+      "description": "Tab mandi bayi boleh lipat, warna oat. Ciri utama: Reka bentuk boleh lipat · Rujukan suhu · Anduh atau jaring mandi · Penyimpanan kompak. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Rujukan suhu · Anduh atau jaring mandi · Penyimpanan kompak",
+      "seoTitle": "Tab mandi bayi boleh lipat, warna oat (BBT005) | Baby Bath Ease",
+      "seoDescription": "Tab mandi bayi boleh lipat, warna oat (BBT005) — Reka bentuk boleh lipat · Rujukan suhu · Anduh atau jaring mandi · Penyimpanan kompak. Borong / OEM / ODM.",
+      "keywords": "Tab mandi bayi boleh lipat, warna oat, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "Tab mandi boleh lipat 4 dalam 1, kelabu",
+      "description": "Tab mandi boleh lipat 4 dalam 1, kelabu. Ciri utama: Reka bentuk boleh lipat · Rujukan suhu · Saliran air · Penyimpanan kompak · Reka bentuk terapung. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Rujukan suhu · Saliran air · Penyimpanan kompak",
+      "seoTitle": "Tab mandi boleh lipat 4 dalam 1, kelabu (BBT006) | Baby Bath Ease",
+      "seoDescription": "Tab mandi boleh lipat 4 dalam 1, kelabu (BBT006) — Reka bentuk boleh lipat · Rujukan suhu · Saliran air · Penyimpanan kompak. Borong / OEM / ODM.",
+      "keywords": "Tab mandi boleh lipat 4 dalam 1, kelabu, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "Tab mandi bayi boleh lipat",
+      "description": "Tab mandi bayi boleh lipat. Ciri utama: Reka bentuk boleh lipat · Saliran air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Saliran air",
+      "seoTitle": "Tab mandi bayi boleh lipat (BBT007) | Baby Bath Ease",
+      "seoDescription": "Tab mandi bayi boleh lipat (BBT007) — Reka bentuk boleh lipat · Saliran air. Borong / OEM / ODM.",
+      "keywords": "Tab mandi bayi boleh lipat, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "Tab mandi dengan penyokong lipat, merah jambu",
+      "description": "Tab mandi dengan penyokong lipat, merah jambu. Ciri utama: Reka bentuk boleh lipat · Sokongan belakang · Saliran air · Penyokong · Penyimpanan kompak. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Sokongan belakang · Saliran air · Penyokong",
+      "seoTitle": "Tab mandi dengan penyokong lipat, merah jambu (BBT008) | Baby Bath Ease",
+      "seoDescription": "Tab mandi dengan penyokong lipat, merah jambu (BBT008) — Reka bentuk boleh lipat · Sokongan belakang · Saliran air · Penyokong. Borong / OEM / ODM.",
+      "keywords": "Tab mandi dengan penyokong lipat, merah jambu, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "Tab mandi bayi tiga peringkat, kelabu",
+      "description": "Tab mandi bayi tiga peringkat, kelabu. Ciri utama: Saliran air · Kedudukan boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Saliran air · Kedudukan boleh laras",
+      "seoTitle": "Tab mandi bayi tiga peringkat, kelabu (BBT009) | Baby Bath Ease",
+      "seoDescription": "Tab mandi bayi tiga peringkat, kelabu (BBT009) — Saliran air · Kedudukan boleh laras. Borong / OEM / ODM.",
+      "keywords": "Tab mandi bayi tiga peringkat, kelabu, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "Tab mandi bersandar 4 dalam 1",
+      "description": "Tab mandi bersandar 4 dalam 1. Ciri utama: Kedudukan boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Kedudukan boleh laras",
+      "seoTitle": "Tab mandi bersandar 4 dalam 1 (BBT010) | Baby Bath Ease",
+      "seoDescription": "Tab mandi bersandar 4 dalam 1 (BBT010) — Kedudukan boleh laras. Borong / OEM / ODM.",
+      "keywords": "Tab mandi bersandar 4 dalam 1, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "Tab mandi membesar bersama bayi 3 dalam 1",
+      "description": "Tab mandi membesar bersama bayi 3 dalam 1. Ciri utama: Saliran air · Anduh atau jaring mandi · Penyimpanan kompak · Kedudukan boleh laras. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Saliran air · Anduh atau jaring mandi · Penyimpanan kompak · Kedudukan boleh laras",
+      "seoTitle": "Tab mandi membesar bersama bayi 3 dalam 1 (BBT011) | Baby Bath Ease",
+      "seoDescription": "Tab mandi membesar bersama bayi 3 dalam 1 (BBT011) — Saliran air · Anduh atau jaring mandi · Penyimpanan kompak · Kedudukan boleh laras. Borong / OEM / ODM.",
+      "keywords": "Tab mandi membesar bersama bayi 3 dalam 1, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "Set tab mandi spa bayi dengan pancuran hujan",
+      "description": "Set tab mandi spa bayi dengan pancuran hujan. Ciri utama: Anduh atau jaring mandi · Aksesori pancuran. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Anduh atau jaring mandi · Aksesori pancuran",
+      "seoTitle": "Set tab mandi spa bayi dengan pancuran hujan (BBT012) | Baby Bath Ease",
+      "seoDescription": "Set tab mandi spa bayi dengan pancuran hujan (BBT012) — Anduh atau jaring mandi · Aksesori pancuran. Borong / OEM / ODM.",
+      "keywords": "Set tab mandi spa bayi dengan pancuran hujan, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "Tab mandi boleh lipat dengan cawan bilas",
+      "description": "Tab mandi boleh lipat dengan cawan bilas. Ciri utama: Reka bentuk boleh lipat · Cawan bilas. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Cawan bilas",
+      "seoTitle": "Tab mandi boleh lipat dengan cawan bilas (BBT013) | Baby Bath Ease",
+      "seoDescription": "Tab mandi boleh lipat dengan cawan bilas (BBT013) — Reka bentuk boleh lipat · Cawan bilas. Borong / OEM / ODM.",
+      "keywords": "Tab mandi boleh lipat dengan cawan bilas, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "Tab mandi boleh lipat dengan penyokong dan kusyen",
+      "description": "Tab mandi boleh lipat dengan penyokong dan kusyen. Ciri utama: Reka bentuk boleh lipat · Kusyen lembut · Penyokong. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk boleh lipat · Kusyen lembut · Penyokong",
+      "seoTitle": "Tab mandi boleh lipat dengan penyokong dan kusyen (BBT014) | Baby Bath Ease",
+      "seoDescription": "Tab mandi boleh lipat dengan penyokong dan kusyen (BBT014) — Reka bentuk boleh lipat · Kusyen lembut · Penyokong. Borong / OEM / ODM.",
+      "keywords": "Tab mandi boleh lipat dengan penyokong dan kusyen, Tab mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "Paus penyembur air",
+      "description": "Paus penyembur air. Ciri utama: Permainan air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Permainan air",
+      "seoTitle": "Paus penyembur air (BTOY001) | Baby Bath Ease",
+      "seoDescription": "Paus penyembur air (BTOY001) — Permainan air. Borong / OEM / ODM.",
+      "keywords": "Paus penyembur air, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "Air pancut mandi paus bercahaya",
+      "description": "Air pancut mandi paus bercahaya. Ciri utama: Permainan air · Kesan cahaya. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Permainan air · Kesan cahaya",
+      "seoTitle": "Air pancut mandi paus bercahaya (BTOY002) | Baby Bath Ease",
+      "seoDescription": "Air pancut mandi paus bercahaya (BTOY002) — Permainan air · Kesan cahaya. Borong / OEM / ODM.",
+      "keywords": "Air pancut mandi paus bercahaya, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "Mainan paip air mandian",
+      "description": "Mainan paip air mandian. Ciri utama: Permainan air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Permainan air",
+      "seoTitle": "Mainan paip air mandian (BTOY003) | Baby Bath Ease",
+      "seoDescription": "Mainan paip air mandian (BTOY003) — Permainan air. Borong / OEM / ODM.",
+      "keywords": "Mainan paip air mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "Gelongsor mandi penguin",
+      "description": "Gelongsor mandi penguin. Ciri utama: Patung haiwan. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Patung haiwan",
+      "seoTitle": "Gelongsor mandi penguin (BTOY004) | Baby Bath Ease",
+      "seoDescription": "Gelongsor mandi penguin (BTOY004) — Patung haiwan. Borong / OEM / ODM.",
+      "keywords": "Gelongsor mandi penguin, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "Trek perlumbaan air mandian",
+      "description": "Trek perlumbaan air mandian. Ciri utama: Permainan air. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Permainan air",
+      "seoTitle": "Trek perlumbaan air mandian (BTOY005) | Baby Bath Ease",
+      "seoDescription": "Trek perlumbaan air mandian (BTOY005) — Permainan air. Borong / OEM / ODM.",
+      "keywords": "Trek perlumbaan air mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "Set mainan mandi dengan penyodok",
+      "description": "Set mainan mandi dengan penyodok. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Mainan mandi",
+      "seoTitle": "Set mainan mandi dengan penyodok (BTOY006) | Baby Bath Ease",
+      "seoDescription": "Set mainan mandi dengan penyodok (BTOY006) — Mainan mandi. Borong / OEM / ODM.",
+      "keywords": "Set mainan mandi dengan penyodok, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "Set mainan mandi penyodok berwarna-warni",
+      "description": "Set mainan mandi penyodok berwarna-warni. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Mainan mandi",
+      "seoTitle": "Set mainan mandi penyodok berwarna-warni (BTOY007) | Baby Bath Ease",
+      "seoDescription": "Set mainan mandi penyodok berwarna-warni (BTOY007) — Mainan mandi. Borong / OEM / ODM.",
+      "keywords": "Set mainan mandi penyodok berwarna-warni, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "Set baldi mandi dengan watak",
+      "description": "Set baldi mandi dengan watak. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Mainan mandi",
+      "seoTitle": "Set baldi mandi dengan watak (BTOY008) | Baby Bath Ease",
+      "seoDescription": "Set baldi mandi dengan watak (BTOY008) — Mainan mandi. Borong / OEM / ODM.",
+      "keywords": "Set baldi mandi dengan watak, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "Mainan kura-kura terapung",
+      "description": "Mainan kura-kura terapung. Ciri utama: Reka bentuk terapung. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk terapung",
+      "seoTitle": "Mainan kura-kura terapung (BTOY009) | Baby Bath Ease",
+      "seoDescription": "Mainan kura-kura terapung (BTOY009) — Reka bentuk terapung. Borong / OEM / ODM.",
+      "keywords": "Mainan kura-kura terapung, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "Set haiwan laut mandian",
+      "description": "Set haiwan laut mandian. Ciri utama: Reka bentuk terapung · Patung haiwan. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk terapung · Patung haiwan",
+      "seoTitle": "Set haiwan laut mandian (BTOY010) | Baby Bath Ease",
+      "seoDescription": "Set haiwan laut mandian (BTOY010) — Reka bentuk terapung · Patung haiwan. Borong / OEM / ODM.",
+      "keywords": "Set haiwan laut mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "Set haiwan laut mandian berwarna-warni",
+      "description": "Set haiwan laut mandian berwarna-warni. Ciri utama: Reka bentuk terapung · Patung haiwan. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk terapung · Patung haiwan",
+      "seoTitle": "Set haiwan laut mandian berwarna-warni (BTOY011) | Baby Bath Ease",
+      "seoDescription": "Set haiwan laut mandian berwarna-warni (BTOY011) — Reka bentuk terapung · Patung haiwan. Borong / OEM / ODM.",
+      "keywords": "Set haiwan laut mandian berwarna-warni, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "Set bola mandi terapung",
+      "description": "Set bola mandi terapung. Ciri utama: Reka bentuk terapung · Patung haiwan. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk terapung · Patung haiwan",
+      "seoTitle": "Set bola mandi terapung (BTOY012) | Baby Bath Ease",
+      "seoDescription": "Set bola mandi terapung (BTOY012) — Reka bentuk terapung · Patung haiwan. Borong / OEM / ODM.",
+      "keywords": "Set bola mandi terapung, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "Set cawan susun mandian",
+      "description": "Set cawan susun mandian. Ciri utama: Cawan susun. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Cawan susun",
+      "seoTitle": "Set cawan susun mandian (BTOY013) | Baby Bath Ease",
+      "seoDescription": "Set cawan susun mandian (BTOY013) — Cawan susun. Borong / OEM / ODM.",
+      "keywords": "Set cawan susun mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "Set mainan buih mandian",
+      "description": "Set mainan buih mandian. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Mainan mandi",
+      "seoTitle": "Set mainan buih mandian (BTOY014) | Baby Bath Ease",
+      "seoDescription": "Set mainan buih mandian (BTOY014) — Mainan mandi. Borong / OEM / ODM.",
+      "keywords": "Set mainan buih mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "Set mainan mandi cawan sedutan",
+      "description": "Set mainan mandi cawan sedutan. Ciri utama: Pemasangan cawan sedutan. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Pemasangan cawan sedutan",
+      "seoTitle": "Set mainan mandi cawan sedutan (BTOY015) | Baby Bath Ease",
+      "seoDescription": "Set mainan mandi cawan sedutan (BTOY015) — Pemasangan cawan sedutan. Borong / OEM / ODM.",
+      "keywords": "Set mainan mandi cawan sedutan, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "Mainan memancing magnet mandian",
+      "description": "Mainan memancing magnet mandian. Ciri utama: Reka bentuk terapung · Memancing magnet. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Reka bentuk terapung · Memancing magnet",
+      "seoTitle": "Mainan memancing magnet mandian (BTOY016) | Baby Bath Ease",
+      "seoDescription": "Mainan memancing magnet mandian (BTOY016) — Reka bentuk terapung · Memancing magnet. Borong / OEM / ODM.",
+      "keywords": "Mainan memancing magnet mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "Set kenderaan penyelamat mandian",
+      "description": "Set kenderaan penyelamat mandian. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Mainan mandi",
+      "seoTitle": "Set kenderaan penyelamat mandian (BTOY017) | Baby Bath Ease",
+      "seoDescription": "Set kenderaan penyelamat mandian (BTOY017) — Mainan mandi. Borong / OEM / ODM.",
+      "keywords": "Set kenderaan penyelamat mandian, Mainan mandi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "Tuala mandi bayi",
+      "description": "Tuala mandi bayi. Hubungi pasukan kami tentang model ini, pilihan yang tersedia, pembungkusan dan kuantiti borong.",
+      "shortDescription": "Tuala mandi bayi",
+      "seoTitle": "Tuala mandi bayi (BTWL001) | Baby Bath Ease",
+      "seoDescription": "Tuala mandi bayi (BTWL001) — Tuala mandi bayi. Borong / OEM / ODM.",
+      "keywords": "Tuala mandi bayi, Tuala mandi bayi, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Pengeluar produk mandian bayi OEM / ODM | Baby Bath Ease",
+      "description": "Kami mereka bentuk dan mengeluarkan produk mandian bayi untuk jenama dan peruncit antarabangsa, daripada konsep hingga pengeluaran besar-besaran."
+    },
+    "products": {
+      "title": "Terokai koleksi mandian bayi kami | Baby Bath Ease",
+      "description": "Penyelesaian praktikal untuk jenama antarabangsa, peruncit dan rakan kongsi label persendirian."
+    },
+    "about": {
+      "title": "Tentang kami | Baby Bath Ease",
+      "description": "Ditubuhkan di Hong Kong oleh Kevin Kwok pada 1982, perniagaan keluarga kami mempunyai lebih 40 tahun pengalaman dalam reka bentuk produk plastik dan pembuatan produk mandian bayi. Eric Kwok meneruskan usaha ini"
+    },
+    "contact": {
+      "title": "Hubungi kami | Baby Bath Ease",
+      "description": "Borong, pengedaran atau OEM — kami membalas dalam dua hari bekerja."
+    }
+  }
+}

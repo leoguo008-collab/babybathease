@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "創立年份",
+      "value": "1982",
+      "note": "創立於香港"
+    },
+    {
+      "label": "兩代傳承",
+      "value": "家族經營",
+      "note": "從 Kevin 到 Eric Kwok"
+    },
+    {
+      "label": "全球市場",
+      "value": "50+ 個國家",
+      "note": "深受全球客戶信賴"
+    },
+    {
+      "label": "產品品質",
+      "value": "100% 合格",
+      "note": "始終以安全為先"
+    }
+  ],
+  "featureLabels": ["可折疊設計","吸盤固定","溫度參考提示","高度可調","背部支撐","柔軟坐墊","排水設計","沖洗杯","玩具桿","握柄","支撐架","沐浴吊帶或網兜","滾輪","節省收納空間","位置可調","淋浴配件","漂浮設計","水上遊戲","磁力釣魚","疊疊杯","水龍頭防護","尿布更換台","燈光效果","動物造型"],
+  "colors": {"white":"白色","grey":"灰色","blue":"藍色","pink":"粉紅色","green":"綠色","purple":"紫色","khaki":"卡其色","peach":"蜜桃色","black":"黑色","yellow":"黃色","oat":"燕麥色","peach + white":"蜜桃色 + 白色","gray":"灰色"},
+  "ui": {
+    "officePhone": "辦公室電話",
+    "selectInquiry": "請選擇詢盤類型",
+    "selectQuantity": "請選擇數量範圍",
+    "quantityRanges": ["少於 500 件","500–2,000 件","2,000–10,000 件","超過 10,000 件"],
+    "home": "首頁",
+    "products": "產品",
+    "about": "關於我們",
+    "contact": "聯絡我們",
+    "language": "選擇語言",
+    "menu": "選單",
+    "quote": "索取報價",
+    "download": "下載產品目錄",
+    "talk": "聯絡我們的團隊",
+    "all": "所有產品",
+    "details": "查看詳情",
+    "categories": "產品分類",
+    "tagline": "您的創意，我們的專業",
+    "manufacturer": "OEM / ODM 嬰幼兒沐浴用品製造商",
+    "heroTitle": "安心沐浴時光。",
+    "heroAccent": "靈活規模化生產。",
+    "heroIntro": "我們為國際品牌及零售商設計和製造嬰幼兒沐浴用品，從產品構想到量產，協助您將創意付諸實現。",
+    "productsTitle": "探索嬰幼兒沐浴用品系列",
+    "productsIntro": "為國際品牌、零售商及自有品牌合作夥伴提供實用且貼心設計的沐浴方案。",
+    "library": "產品目錄",
+    "libraryTitle": "讓沐浴時光更愉快。",
+    "ctaTitle": "正在尋找客製化嬰幼兒沐浴系列？",
+    "ctaIntro": "告訴我們您的目標市場、產品需求及訂購數量，我們將為您的品牌準備合適的方案。",
+    "aboutTitle": "始於 1982 年的關懷傳承。",
+    "aboutIntro": "我們的家族企業由 Kevin Kwok 於 1982 年在香港創立，在塑膠產品設計及嬰幼兒沐浴用品製造方面擁有逾 40 年經驗。Eric Kwok 延續這份理念，以現代設計及細緻的品質管理，服務超過 50 個國家的合作夥伴。",
+    "contactTitle": "與我們聯絡。",
+    "contactIntro": "批發、經銷或 OEM 合作，我們會在兩個工作天內回覆。",
+    "name": "姓名",
+    "email": "電子郵件",
+    "company": "公司",
+    "phone": "電話 / WhatsApp",
+    "market": "目標市場 / 國家",
+    "message": "留言",
+    "inquiryType": "詢價類型",
+    "quantity": "預計訂購數量",
+    "wholesale": "批發",
+    "sourcing": "產品採購",
+    "select": "請選擇",
+    "send": "送出詢價",
+    "sending": "正在傳送…",
+    "success": "謝謝，已收到您的詢價。",
+    "error": "傳送失敗，請檢查欄位後重試。",
+    "required": "必填欄位",
+    "address": "辦公室地址",
+    "response": "回覆時間",
+    "responseTime": "兩個工作天內",
+    "rights": "版權所有。",
+    "overview": "產品介紹",
+    "specifications": "產品規格",
+    "originalSpecs": "原始技術規格（英文）",
+    "gallery": "圖片集",
+    "videos": "產品影片",
+    "model": "型號",
+    "safety": "沐浴期間，成人必須全程持續看護嬰幼兒。",
+    "back": "返回產品列表",
+    "visit": "歡迎到訪深圳辦公室。",
+    "map": "在 Google 地圖開啟",
+    "features": "產品特色",
+    "color": "顏色",
+    "size": "尺寸",
+    "close": "關閉",
+    "previous": "上一個",
+    "next": "下一個",
+    "years": "年經驗",
+    "brands": "國際品牌",
+    "capacity": "月產能",
+    "delivery": "準時交付",
+    "oemTitle": "您的 OEM / ODM 製造夥伴",
+    "oemIntro": "從設計到生產，我們為您的產品系列提供客製化、包裝及品質管理支援。",
+    "officePhotos": "辦公室照片",
+    "empty": "此分類暫無產品。",
+    "productIntro": "歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+    "downloadEnglish": "PDF · 英文"
+  },
+  "categories": {
+    "1": "嬰兒浴盆",
+    "2": "沐浴支架及座椅",
+    "3": "沐浴玩具",
+    "4": "沐浴配件",
+    "5": "嬰兒浴巾"
+  },
+  "products": {
+    "BBA001": {
+      "name": "沖洗杯套裝",
+      "description": "沖洗杯套裝. 產品特色: 沖洗杯. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沖洗杯",
+      "seoTitle": "沖洗杯套裝 (BBA001) | Baby Bath Ease",
+      "seoDescription": "沖洗杯套裝 (BBA001) — 沖洗杯. 批發 / OEM / ODM.",
+      "keywords": "沖洗杯套裝, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Moby 沖洗杯，灰色",
+      "description": "Moby 沖洗杯，灰色. 產品特色: 沖洗杯 · 握柄. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沖洗杯 · 握柄",
+      "seoTitle": "Moby 沖洗杯，灰色 (BBA002) | Baby Bath Ease",
+      "seoDescription": "Moby 沖洗杯，灰色 (BBA002) — 沖洗杯 · 握柄. 批發 / OEM / ODM.",
+      "keywords": "Moby 沖洗杯，灰色, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "海豚造型浴缸出水口保護套",
+      "description": "海豚造型浴缸出水口保護套. 產品特色: 水龍頭防護. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "水龍頭防護",
+      "seoTitle": "海豚造型浴缸出水口保護套 (BBA003) | Baby Bath Ease",
+      "seoDescription": "海豚造型浴缸出水口保護套 (BBA003) — 水龍頭防護. 批發 / OEM / ODM.",
+      "keywords": "海豚造型浴缸出水口保護套, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "灰色鯨魚水龍頭保護套",
+      "description": "灰色鯨魚水龍頭保護套. 產品特色: 水龍頭防護. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "水龍頭防護",
+      "seoTitle": "灰色鯨魚水龍頭保護套 (BBA004) | Baby Bath Ease",
+      "seoDescription": "灰色鯨魚水龍頭保護套 (BBA004) — 水龍頭防護. 批發 / OEM / ODM.",
+      "keywords": "灰色鯨魚水龍頭保護套, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "經典小鴨沐浴溫度計",
+      "description": "經典小鴨沐浴溫度計. 產品特色: 溫度參考提示 · 漂浮設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "溫度參考提示 · 漂浮設計",
+      "seoTitle": "經典小鴨沐浴溫度計 (BBA005) | Baby Bath Ease",
+      "seoDescription": "經典小鴨沐浴溫度計 (BBA005) — 溫度參考提示 · 漂浮設計. 批發 / OEM / ODM.",
+      "keywords": "經典小鴨沐浴溫度計, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "漂浮海龜沐浴溫度計",
+      "description": "漂浮海龜沐浴溫度計. 產品特色: 溫度參考提示 · 漂浮設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "溫度參考提示 · 漂浮設計",
+      "seoTitle": "漂浮海龜沐浴溫度計 (BBA006) | Baby Bath Ease",
+      "seoDescription": "漂浮海龜沐浴溫度計 (BBA006) — 溫度參考提示 · 漂浮設計. 批發 / OEM / ODM.",
+      "keywords": "漂浮海龜沐浴溫度計, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "可調式尿布更換台，淺灰色",
+      "description": "可調式尿布更換台，淺灰色. 產品特色: 可折疊設計 · 高度可調 · 滾輪 · 節省收納空間 · 尿布更換台. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 高度可調 · 滾輪 · 節省收納空間",
+      "seoTitle": "可調式尿布更換台，淺灰色 (BBA007) | Baby Bath Ease",
+      "seoDescription": "可調式尿布更換台，淺灰色 (BBA007) — 可折疊設計 · 高度可調 · 滾輪 · 節省收納空間. 批發 / OEM / ODM.",
+      "keywords": "可調式尿布更換台，淺灰色, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "二合一附浴盆尿布更換台，灰色",
+      "description": "二合一附浴盆尿布更換台，灰色. 產品特色: 可折疊設計 · 滾輪 · 節省收納空間 · 尿布更換台. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 滾輪 · 節省收納空間 · 尿布更換台",
+      "seoTitle": "二合一附浴盆尿布更換台，灰色 (BBA008) | Baby Bath Ease",
+      "seoDescription": "二合一附浴盆尿布更換台，灰色 (BBA008) — 可折疊設計 · 滾輪 · 節省收納空間 · 尿布更換台. 批發 / OEM / ODM.",
+      "keywords": "二合一附浴盆尿布更換台，灰色, 沐浴配件, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "新生兒沐浴支撐架，白色",
+      "description": "新生兒沐浴支撐架，白色. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴支架及座椅",
+      "seoTitle": "新生兒沐浴支撐架，白色 (BBS001) | Baby Bath Ease",
+      "seoDescription": "新生兒沐浴支撐架，白色 (BBS001) — 沐浴支架及座椅. 批發 / OEM / ODM.",
+      "keywords": "新生兒沐浴支撐架，白色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "附吸盤防滑嬰兒沐浴椅",
+      "description": "附吸盤防滑嬰兒沐浴椅. 產品特色: 吸盤固定 · 柔軟坐墊. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 柔軟坐墊",
+      "seoTitle": "附吸盤防滑嬰兒沐浴椅 (BBS002) | Baby Bath Ease",
+      "seoDescription": "附吸盤防滑嬰兒沐浴椅 (BBS002) — 吸盤固定 · 柔軟坐墊. 批發 / OEM / ODM.",
+      "keywords": "附吸盤防滑嬰兒沐浴椅, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "360° 吸盤式嬰兒沐浴椅",
+      "description": "360° 吸盤式嬰兒沐浴椅. 產品特色: 吸盤固定 · 柔軟坐墊. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 柔軟坐墊",
+      "seoTitle": "360° 吸盤式嬰兒沐浴椅 (BBS003) | Baby Bath Ease",
+      "seoDescription": "360° 吸盤式嬰兒沐浴椅 (BBS003) — 吸盤固定 · 柔軟坐墊. 批發 / OEM / ODM.",
+      "keywords": "360° 吸盤式嬰兒沐浴椅, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "可調式三點吸盤嬰兒沐浴椅",
+      "description": "可調式三點吸盤嬰兒沐浴椅. 產品特色: 吸盤固定 · 背部支撐. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 背部支撐",
+      "seoTitle": "可調式三點吸盤嬰兒沐浴椅 (BBS004) | Baby Bath Ease",
+      "seoDescription": "可調式三點吸盤嬰兒沐浴椅 (BBS004) — 吸盤固定 · 背部支撐. 批發 / OEM / ODM.",
+      "keywords": "可調式三點吸盤嬰兒沐浴椅, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "吸盤式嬰兒沐浴椅，灰色",
+      "description": "吸盤式嬰兒沐浴椅，灰色. 產品特色: 吸盤固定 · 背部支撐. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 背部支撐",
+      "seoTitle": "吸盤式嬰兒沐浴椅，灰色 (BBS005) | Baby Bath Ease",
+      "seoDescription": "吸盤式嬰兒沐浴椅，灰色 (BBS005) — 吸盤固定 · 背部支撐. 批發 / OEM / ODM.",
+      "keywords": "吸盤式嬰兒沐浴椅，灰色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "附溫度顯示嬰兒沐浴椅",
+      "description": "附溫度顯示嬰兒沐浴椅. 產品特色: 吸盤固定 · 溫度參考提示 · 背部支撐 · 柔軟坐墊. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 溫度參考提示 · 背部支撐 · 柔軟坐墊",
+      "seoTitle": "附溫度顯示嬰兒沐浴椅 (BBS006) | Baby Bath Ease",
+      "seoDescription": "附溫度顯示嬰兒沐浴椅 (BBS006) — 吸盤固定 · 溫度參考提示 · 背部支撐 · 柔軟坐墊. 批發 / OEM / ODM.",
+      "keywords": "附溫度顯示嬰兒沐浴椅, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "6 個月以上溫度提示沐浴椅，灰色",
+      "description": "6 個月以上溫度提示沐浴椅，灰色. 產品特色: 吸盤固定 · 溫度參考提示 · 背部支撐. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 溫度參考提示 · 背部支撐",
+      "seoTitle": "6 個月以上溫度提示沐浴椅，灰色 (BBS007) | Baby Bath Ease",
+      "seoDescription": "6 個月以上溫度提示沐浴椅，灰色 (BBS007) — 吸盤固定 · 溫度參考提示 · 背部支撐. 批發 / OEM / ODM.",
+      "keywords": "6 個月以上溫度提示沐浴椅，灰色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "可調式溫度顯示沐浴椅，粉紅色",
+      "description": "可調式溫度顯示沐浴椅，粉紅色. 產品特色: 吸盤固定 · 溫度參考提示 · 柔軟坐墊. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 溫度參考提示 · 柔軟坐墊",
+      "seoTitle": "可調式溫度顯示沐浴椅，粉紅色 (BBS008) | Baby Bath Ease",
+      "seoDescription": "可調式溫度顯示沐浴椅，粉紅色 (BBS008) — 吸盤固定 · 溫度參考提示 · 柔軟坐墊. 批發 / OEM / ODM.",
+      "keywords": "可調式溫度顯示沐浴椅，粉紅色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "附溫度貼紙沐浴椅，灰色",
+      "description": "附溫度貼紙沐浴椅，灰色. 產品特色: 吸盤固定 · 溫度參考提示 · 背部支撐 · 排水設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 溫度參考提示 · 背部支撐 · 排水設計",
+      "seoTitle": "附溫度貼紙沐浴椅，灰色 (BBS009) | Baby Bath Ease",
+      "seoDescription": "附溫度貼紙沐浴椅，灰色 (BBS009) — 吸盤固定 · 溫度參考提示 · 背部支撐 · 排水設計. 批發 / OEM / ODM.",
+      "keywords": "附溫度貼紙沐浴椅，灰色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "附玩具桿恐龍沐浴椅",
+      "description": "附玩具桿恐龍沐浴椅. 產品特色: 吸盤固定 · 柔軟坐墊 · 玩具桿. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 柔軟坐墊 · 玩具桿",
+      "seoTitle": "附玩具桿恐龍沐浴椅 (BBS010) | Baby Bath Ease",
+      "seoDescription": "附玩具桿恐龍沐浴椅 (BBS010) — 吸盤固定 · 柔軟坐墊 · 玩具桿. 批發 / OEM / ODM.",
+      "keywords": "附玩具桿恐龍沐浴椅, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "四段式可躺靠背沐浴椅，蜜桃色及白色",
+      "description": "四段式可躺靠背沐浴椅，蜜桃色及白色. 產品特色: 吸盤固定 · 溫度參考提示 · 高度可調 · 背部支撐 · 排水設計 · 沖洗杯 · 位置可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定 · 溫度參考提示 · 高度可調 · 背部支撐",
+      "seoTitle": "四段式可躺靠背沐浴椅，蜜桃色及白色 (BBS011) | Baby Bath Ease",
+      "seoDescription": "四段式可躺靠背沐浴椅，蜜桃色及白色 (BBS011) — 吸盤固定 · 溫度參考提示 · 高度可調 · 背部支撐. 批發 / OEM / ODM.",
+      "keywords": "四段式可躺靠背沐浴椅，蜜桃色及白色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "小鴨造型可調式淋浴輔助架",
+      "description": "小鴨造型可調式淋浴輔助架. 產品特色: 高度可調 · 排水設計 · 位置可調 · 淋浴配件. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "高度可調 · 排水設計 · 位置可調 · 淋浴配件",
+      "seoTitle": "小鴨造型可調式淋浴輔助架 (BBS012) | Baby Bath Ease",
+      "seoDescription": "小鴨造型可調式淋浴輔助架 (BBS012) — 高度可調 · 排水設計 · 位置可調 · 淋浴配件. 批發 / OEM / ODM.",
+      "keywords": "小鴨造型可調式淋浴輔助架, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "可調式嬰儿淋浴架，灰色",
+      "description": "可調式嬰儿淋浴架，灰色. 產品特色: 高度可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "高度可調",
+      "seoTitle": "可調式嬰儿淋浴架，灰色 (BBS013) | Baby Bath Ease",
+      "seoDescription": "可調式嬰儿淋浴架，灰色 (BBS013) — 高度可調. 批發 / OEM / ODM.",
+      "keywords": "可調式嬰儿淋浴架，灰色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "升級可調式站立沐浴輔助架",
+      "description": "升級可調式站立沐浴輔助架. 產品特色: 背部支撐 · 排水設計 · 握柄. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "背部支撐 · 排水設計 · 握柄",
+      "seoTitle": "升級可調式站立沐浴輔助架 (BBS014) | Baby Bath Ease",
+      "seoDescription": "升級可調式站立沐浴輔助架 (BBS014) — 背部支撐 · 排水設計 · 握柄. 批發 / OEM / ODM.",
+      "keywords": "升級可調式站立沐浴輔助架, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "可調式嬰兒沐浴架，綠色",
+      "description": "可調式嬰兒沐浴架，綠色. 產品特色: 高度可調 · 背部支撐 · 排水設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "高度可調 · 背部支撐 · 排水設計",
+      "seoTitle": "可調式嬰兒沐浴架，綠色 (BBS015) | Baby Bath Ease",
+      "seoDescription": "可調式嬰兒沐浴架，綠色 (BBS015) — 高度可調 · 背部支撐 · 排水設計. 批發 / OEM / ODM.",
+      "keywords": "可調式嬰兒沐浴架，綠色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "可調式兒童淋浴架，卡其色",
+      "description": "可調式兒童淋浴架，卡其色. 產品特色: 高度可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "高度可調",
+      "seoTitle": "可調式兒童淋浴架，卡其色 (BBS016) | Baby Bath Ease",
+      "seoDescription": "可調式兒童淋浴架，卡其色 (BBS016) — 高度可調. 批發 / OEM / ODM.",
+      "keywords": "可調式兒童淋浴架，卡其色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "坐站兩用嬰兒淋浴輔助架",
+      "description": "坐站兩用嬰兒淋浴輔助架. 產品特色: 可折疊設計 · 高度可調 · 排水設計 · 握柄. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 高度可調 · 排水設計 · 握柄",
+      "seoTitle": "坐站兩用嬰兒淋浴輔助架 (BBS017) | Baby Bath Ease",
+      "seoDescription": "坐站兩用嬰兒淋浴輔助架 (BBS017) — 可折疊設計 · 高度可調 · 排水設計 · 握柄. 批發 / OEM / ODM.",
+      "keywords": "坐站兩用嬰兒淋浴輔助架, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "小鴨造型折疊淋浴架，灰色",
+      "description": "小鴨造型折疊淋浴架，灰色. 產品特色: 可折疊設計 · 吸盤固定 · 高度可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 吸盤固定 · 高度可調",
+      "seoTitle": "小鴨造型折疊淋浴架，灰色 (BBS018) | Baby Bath Ease",
+      "seoDescription": "小鴨造型折疊淋浴架，灰色 (BBS018) — 可折疊設計 · 吸盤固定 · 高度可調. 批發 / OEM / ODM.",
+      "keywords": "小鴨造型折疊淋浴架，灰色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "小鴨造型可調式站立沐浴架，粉紅色",
+      "description": "小鴨造型可調式站立沐浴架，粉紅色. 產品特色: 高度可調 · 排水設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "高度可調 · 排水設計",
+      "seoTitle": "小鴨造型可調式站立沐浴架，粉紅色 (BBS019) | Baby Bath Ease",
+      "seoDescription": "小鴨造型可調式站立沐浴架，粉紅色 (BBS019) — 高度可調 · 排水設計. 批發 / OEM / ODM.",
+      "keywords": "小鴨造型可調式站立沐浴架，粉紅色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "嬰兒環抱沐浴塔，紫色",
+      "description": "嬰兒環抱沐浴塔，紫色. 產品特色: 支撐架. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "支撐架",
+      "seoTitle": "嬰兒環抱沐浴塔，紫色 (BBS020) | Baby Bath Ease",
+      "seoDescription": "嬰兒環抱沐浴塔，紫色 (BBS020) — 支撐架. 批發 / OEM / ODM.",
+      "keywords": "嬰兒環抱沐浴塔，紫色, 沐浴支架及座椅, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "折疊嬰兒浴盆，灰色",
+      "description": "折疊嬰兒浴盆，灰色. 產品特色: 可折疊設計 · 沐浴吊帶或網兜 · 節省收納空間. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 沐浴吊帶或網兜 · 節省收納空間",
+      "seoTitle": "折疊嬰兒浴盆，灰色 (BBT001) | Baby Bath Ease",
+      "seoDescription": "折疊嬰兒浴盆，灰色 (BBT001) — 可折疊設計 · 沐浴吊帶或網兜 · 節省收納空間. 批發 / OEM / ODM.",
+      "keywords": "折疊嬰兒浴盆，灰色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "折疊嬰兒浴盆，粉紅色",
+      "description": "折疊嬰兒浴盆，粉紅色. 產品特色: 可折疊設計 · 溫度參考提示 · 柔軟坐墊. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 溫度參考提示 · 柔軟坐墊",
+      "seoTitle": "折疊嬰兒浴盆，粉紅色 (BBT002) | Baby Bath Ease",
+      "seoDescription": "折疊嬰兒浴盆，粉紅色 (BBT002) — 可折疊設計 · 溫度參考提示 · 柔軟坐墊. 批發 / OEM / ODM.",
+      "keywords": "折疊嬰兒浴盆，粉紅色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "附軟墊折疊嬰兒浴盆，灰色",
+      "description": "附軟墊折疊嬰兒浴盆，灰色. 產品特色: 可折疊設計 · 溫度參考提示 · 高度可調 · 柔軟坐墊 · 排水設計 · 節省收納空間. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 溫度參考提示 · 高度可調 · 柔軟坐墊",
+      "seoTitle": "附軟墊折疊嬰兒浴盆，灰色 (BBT003) | Baby Bath Ease",
+      "seoDescription": "附軟墊折疊嬰兒浴盆，灰色 (BBT003) — 可折疊設計 · 溫度參考提示 · 高度可調 · 柔軟坐墊. 批發 / OEM / ODM.",
+      "keywords": "附軟墊折疊嬰兒浴盆，灰色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "折疊嬰兒浴盆，燕麥色",
+      "description": "折疊嬰兒浴盆，燕麥色. 產品特色: 可折疊設計 · 溫度參考提示 · 沐浴吊帶或網兜 · 節省收納空間. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 溫度參考提示 · 沐浴吊帶或網兜 · 節省收納空間",
+      "seoTitle": "折疊嬰兒浴盆，燕麥色 (BBT005) | Baby Bath Ease",
+      "seoDescription": "折疊嬰兒浴盆，燕麥色 (BBT005) — 可折疊設計 · 溫度參考提示 · 沐浴吊帶或網兜 · 節省收納空間. 批發 / OEM / ODM.",
+      "keywords": "折疊嬰兒浴盆，燕麥色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "四合一折疊嬰兒浴盆，灰色",
+      "description": "四合一折疊嬰兒浴盆，灰色. 產品特色: 可折疊設計 · 溫度參考提示 · 排水設計 · 節省收納空間 · 漂浮設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 溫度參考提示 · 排水設計 · 節省收納空間",
+      "seoTitle": "四合一折疊嬰兒浴盆，灰色 (BBT006) | Baby Bath Ease",
+      "seoDescription": "四合一折疊嬰兒浴盆，灰色 (BBT006) — 可折疊設計 · 溫度參考提示 · 排水設計 · 節省收納空間. 批發 / OEM / ODM.",
+      "keywords": "四合一折疊嬰兒浴盆，灰色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "折疊嬰兒浴盆",
+      "description": "折疊嬰兒浴盆. 產品特色: 可折疊設計 · 排水設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 排水設計",
+      "seoTitle": "折疊嬰兒浴盆 (BBT007) | Baby Bath Ease",
+      "seoDescription": "折疊嬰兒浴盆 (BBT007) — 可折疊設計 · 排水設計. 批發 / OEM / ODM.",
+      "keywords": "折疊嬰兒浴盆, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "附折疊支架嬰兒浴盆套裝，粉紅色",
+      "description": "附折疊支架嬰兒浴盆套裝，粉紅色. 產品特色: 可折疊設計 · 背部支撐 · 排水設計 · 支撐架 · 節省收納空間. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 背部支撐 · 排水設計 · 支撐架",
+      "seoTitle": "附折疊支架嬰兒浴盆套裝，粉紅色 (BBT008) | Baby Bath Ease",
+      "seoDescription": "附折疊支架嬰兒浴盆套裝，粉紅色 (BBT008) — 可折疊設計 · 背部支撐 · 排水設計 · 支撐架. 批發 / OEM / ODM.",
+      "keywords": "附折疊支架嬰兒浴盆套裝，粉紅色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "三階段嬰兒浴盆，灰色",
+      "description": "三階段嬰兒浴盆，灰色. 產品特色: 排水設計 · 位置可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "排水設計 · 位置可調",
+      "seoTitle": "三階段嬰兒浴盆，灰色 (BBT009) | Baby Bath Ease",
+      "seoDescription": "三階段嬰兒浴盆，灰色 (BBT009) — 排水設計 · 位置可調. 批發 / OEM / ODM.",
+      "keywords": "三階段嬰兒浴盆，灰色, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "四合一可躺式嬰兒浴盆",
+      "description": "四合一可躺式嬰兒浴盆. 產品特色: 位置可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "位置可調",
+      "seoTitle": "四合一可躺式嬰兒浴盆 (BBT010) | Baby Bath Ease",
+      "seoDescription": "四合一可躺式嬰兒浴盆 (BBT010) — 位置可調. 批發 / OEM / ODM.",
+      "keywords": "四合一可躺式嬰兒浴盆, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "三合一成長型嬰兒浴盆",
+      "description": "三合一成長型嬰兒浴盆. 產品特色: 排水設計 · 沐浴吊帶或網兜 · 節省收納空間 · 位置可調. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "排水設計 · 沐浴吊帶或網兜 · 節省收納空間 · 位置可調",
+      "seoTitle": "三合一成長型嬰兒浴盆 (BBT011) | Baby Bath Ease",
+      "seoDescription": "三合一成長型嬰兒浴盆 (BBT011) — 排水設計 · 沐浴吊帶或網兜 · 節省收納空間 · 位置可調. 批發 / OEM / ODM.",
+      "keywords": "三合一成長型嬰兒浴盆, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "雨淋式嬰兒 SPA 浴盆套裝",
+      "description": "雨淋式嬰兒 SPA 浴盆套裝. 產品特色: 沐浴吊帶或網兜 · 淋浴配件. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴吊帶或網兜 · 淋浴配件",
+      "seoTitle": "雨淋式嬰兒 SPA 浴盆套裝 (BBT012) | Baby Bath Ease",
+      "seoDescription": "雨淋式嬰兒 SPA 浴盆套裝 (BBT012) — 沐浴吊帶或網兜 · 淋浴配件. 批發 / OEM / ODM.",
+      "keywords": "雨淋式嬰兒 SPA 浴盆套裝, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "附沖洗杯折疊嬰兒浴盆",
+      "description": "附沖洗杯折疊嬰兒浴盆. 產品特色: 可折疊設計 · 沖洗杯. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 沖洗杯",
+      "seoTitle": "附沖洗杯折疊嬰兒浴盆 (BBT013) | Baby Bath Ease",
+      "seoDescription": "附沖洗杯折疊嬰兒浴盆 (BBT013) — 可折疊設計 · 沖洗杯. 批發 / OEM / ODM.",
+      "keywords": "附沖洗杯折疊嬰兒浴盆, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "附支架及軟墊折疊嬰兒浴盆",
+      "description": "附支架及軟墊折疊嬰兒浴盆. 產品特色: 可折疊設計 · 柔軟坐墊 · 支撐架. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "可折疊設計 · 柔軟坐墊 · 支撐架",
+      "seoTitle": "附支架及軟墊折疊嬰兒浴盆 (BBT014) | Baby Bath Ease",
+      "seoDescription": "附支架及軟墊折疊嬰兒浴盆 (BBT014) — 可折疊設計 · 柔軟坐墊 · 支撐架. 批發 / OEM / ODM.",
+      "keywords": "附支架及軟墊折疊嬰兒浴盆, 嬰兒浴盆, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "噴水鯨魚",
+      "description": "噴水鯨魚. 產品特色: 水上遊戲. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "水上遊戲",
+      "seoTitle": "噴水鯨魚 (BTOY001) | Baby Bath Ease",
+      "seoDescription": "噴水鯨魚 (BTOY001) — 水上遊戲. 批發 / OEM / ODM.",
+      "keywords": "噴水鯨魚, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "發光鯨魚噴泉沐浴玩具",
+      "description": "發光鯨魚噴泉沐浴玩具. 產品特色: 水上遊戲 · 燈光效果. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "水上遊戲 · 燈光效果",
+      "seoTitle": "發光鯨魚噴泉沐浴玩具 (BTOY002) | Baby Bath Ease",
+      "seoDescription": "發光鯨魚噴泉沐浴玩具 (BTOY002) — 水上遊戲 · 燈光效果. 批發 / OEM / ODM.",
+      "keywords": "發光鯨魚噴泉沐浴玩具, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "水管沐浴玩具",
+      "description": "水管沐浴玩具. 產品特色: 水上遊戲. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "水上遊戲",
+      "seoTitle": "水管沐浴玩具 (BTOY003) | Baby Bath Ease",
+      "seoDescription": "水管沐浴玩具 (BTOY003) — 水上遊戲. 批發 / OEM / ODM.",
+      "keywords": "水管沐浴玩具, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "企鵝沐浴滑梯玩具",
+      "description": "企鵝沐浴滑梯玩具. 產品特色: 動物造型. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "動物造型",
+      "seoTitle": "企鵝沐浴滑梯玩具 (BTOY004) | Baby Bath Ease",
+      "seoDescription": "企鵝沐浴滑梯玩具 (BTOY004) — 動物造型. 批發 / OEM / ODM.",
+      "keywords": "企鵝沐浴滑梯玩具, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "水上賽道沐浴玩具",
+      "description": "水上賽道沐浴玩具. 產品特色: 水上遊戲. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "水上遊戲",
+      "seoTitle": "水上賽道沐浴玩具 (BTOY005) | Baby Bath Ease",
+      "seoDescription": "水上賽道沐浴玩具 (BTOY005) — 水上遊戲. 批發 / OEM / ODM.",
+      "keywords": "水上賽道沐浴玩具, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "幼兒沐浴舀水玩具套裝",
+      "description": "幼兒沐浴舀水玩具套裝. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴玩具",
+      "seoTitle": "幼兒沐浴舀水玩具套裝 (BTOY006) | Baby Bath Ease",
+      "seoDescription": "幼兒沐浴舀水玩具套裝 (BTOY006) — 沐浴玩具. 批發 / OEM / ODM.",
+      "keywords": "幼兒沐浴舀水玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "繽紛幼兒舀水玩具套裝",
+      "description": "繽紛幼兒舀水玩具套裝. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴玩具",
+      "seoTitle": "繽紛幼兒舀水玩具套裝 (BTOY007) | Baby Bath Ease",
+      "seoDescription": "繽紛幼兒舀水玩具套裝 (BTOY007) — 沐浴玩具. 批發 / OEM / ODM.",
+      "keywords": "繽紛幼兒舀水玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "角色造型沐浴水桶套裝",
+      "description": "角色造型沐浴水桶套裝. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴玩具",
+      "seoTitle": "角色造型沐浴水桶套裝 (BTOY008) | Baby Bath Ease",
+      "seoDescription": "角色造型沐浴水桶套裝 (BTOY008) — 沐浴玩具. 批發 / OEM / ODM.",
+      "keywords": "角色造型沐浴水桶套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "漂浮海龜沐浴玩具",
+      "description": "漂浮海龜沐浴玩具. 產品特色: 漂浮設計. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "漂浮設計",
+      "seoTitle": "漂浮海龜沐浴玩具 (BTOY009) | Baby Bath Ease",
+      "seoDescription": "漂浮海龜沐浴玩具 (BTOY009) — 漂浮設計. 批發 / OEM / ODM.",
+      "keywords": "漂浮海龜沐浴玩具, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "海洋動物沐浴玩具套裝",
+      "description": "海洋動物沐浴玩具套裝. 產品特色: 漂浮設計 · 動物造型. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "漂浮設計 · 動物造型",
+      "seoTitle": "海洋動物沐浴玩具套裝 (BTOY010) | Baby Bath Ease",
+      "seoDescription": "海洋動物沐浴玩具套裝 (BTOY010) — 漂浮設計 · 動物造型. 批發 / OEM / ODM.",
+      "keywords": "海洋動物沐浴玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "繽紛海洋動物沐浴玩具套裝",
+      "description": "繽紛海洋動物沐浴玩具套裝. 產品特色: 漂浮設計 · 動物造型. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "漂浮設計 · 動物造型",
+      "seoTitle": "繽紛海洋動物沐浴玩具套裝 (BTOY011) | Baby Bath Ease",
+      "seoDescription": "繽紛海洋動物沐浴玩具套裝 (BTOY011) — 漂浮設計 · 動物造型. 批發 / OEM / ODM.",
+      "keywords": "繽紛海洋動物沐浴玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "漂浮沐浴球玩具套裝",
+      "description": "漂浮沐浴球玩具套裝. 產品特色: 漂浮設計 · 動物造型. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "漂浮設計 · 動物造型",
+      "seoTitle": "漂浮沐浴球玩具套裝 (BTOY012) | Baby Bath Ease",
+      "seoDescription": "漂浮沐浴球玩具套裝 (BTOY012) — 漂浮設計 · 動物造型. 批發 / OEM / ODM.",
+      "keywords": "漂浮沐浴球玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "疊疊杯沐浴玩具套裝",
+      "description": "疊疊杯沐浴玩具套裝. 產品特色: 疊疊杯. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "疊疊杯",
+      "seoTitle": "疊疊杯沐浴玩具套裝 (BTOY013) | Baby Bath Ease",
+      "seoDescription": "疊疊杯沐浴玩具套裝 (BTOY013) — 疊疊杯. 批發 / OEM / ODM.",
+      "keywords": "疊疊杯沐浴玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "泡棉沐浴玩具套裝",
+      "description": "泡棉沐浴玩具套裝. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴玩具",
+      "seoTitle": "泡棉沐浴玩具套裝 (BTOY014) | Baby Bath Ease",
+      "seoDescription": "泡棉沐浴玩具套裝 (BTOY014) — 沐浴玩具. 批發 / OEM / ODM.",
+      "keywords": "泡棉沐浴玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "吸盤沐浴玩具套裝",
+      "description": "吸盤沐浴玩具套裝. 產品特色: 吸盤固定. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "吸盤固定",
+      "seoTitle": "吸盤沐浴玩具套裝 (BTOY015) | Baby Bath Ease",
+      "seoDescription": "吸盤沐浴玩具套裝 (BTOY015) — 吸盤固定. 批發 / OEM / ODM.",
+      "keywords": "吸盤沐浴玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "磁力釣魚沐浴玩具",
+      "description": "磁力釣魚沐浴玩具. 產品特色: 漂浮設計 · 磁力釣魚. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "漂浮設計 · 磁力釣魚",
+      "seoTitle": "磁力釣魚沐浴玩具 (BTOY016) | Baby Bath Ease",
+      "seoDescription": "磁力釣魚沐浴玩具 (BTOY016) — 漂浮設計 · 磁力釣魚. 批發 / OEM / ODM.",
+      "keywords": "磁力釣魚沐浴玩具, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "救援交通工具沐浴玩具套裝",
+      "description": "救援交通工具沐浴玩具套裝. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "沐浴玩具",
+      "seoTitle": "救援交通工具沐浴玩具套裝 (BTOY017) | Baby Bath Ease",
+      "seoDescription": "救援交通工具沐浴玩具套裝 (BTOY017) — 沐浴玩具. 批發 / OEM / ODM.",
+      "keywords": "救援交通工具沐浴玩具套裝, 沐浴玩具, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "嬰兒浴巾",
+      "description": "嬰兒浴巾. 歡迎聯絡團隊，了解此型號的選項、包裝及批發訂購數量。",
+      "shortDescription": "嬰兒浴巾",
+      "seoTitle": "嬰兒浴巾 (BTWL001) | Baby Bath Ease",
+      "seoDescription": "嬰兒浴巾 (BTWL001) — 嬰兒浴巾. 批發 / OEM / ODM.",
+      "keywords": "嬰兒浴巾, 嬰兒浴巾, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "OEM / ODM 嬰幼兒沐浴用品製造商 | Baby Bath Ease",
+      "description": "我們為國際品牌及零售商設計和製造嬰幼兒沐浴用品，從產品構想到量產，協助您將創意付諸實現。"
+    },
+    "products": {
+      "title": "探索嬰幼兒沐浴用品系列 | Baby Bath Ease",
+      "description": "為國際品牌、零售商及自有品牌合作夥伴提供實用且貼心設計的沐浴方案。"
+    },
+    "about": {
+      "title": "關於我們 | Baby Bath Ease",
+      "description": "我們的家族企業由 Kevin Kwok 於 1982 年在香港創立，在塑膠產品設計及嬰幼兒沐浴用品製造方面擁有逾 40 年經驗。Eric Kwok 延續這份理念，以現代設計及細緻的品質管理，服務超過 50 個國家的合作夥伴。"
+    },
+    "contact": {
+      "title": "聯絡我們 | Baby Bath Ease",
+      "description": "批發、經銷或 OEM 合作，我們會在兩個工作天內回覆。"
+    }
+  }
+}

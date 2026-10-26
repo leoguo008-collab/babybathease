@@ -1,0 +1,22 @@
+.progressWrap{margin:14px 0 12px;display:grid;gap:7px}
+.progressText{display:flex;justify-content:space-between;align-items:center;color:#315a8a;font-size:13px}
+.progressText strong{color:#087eb8;font-variant-numeric:tabular-nums}
+.progressTrack{height:9px;overflow:hidden;border-radius:999px;background:#e5f0f6;box-shadow:inset 0 1px 2px #0c35601a}
+.progressTrack>span{display:block;height:100%;border-radius:inherit;background:linear-gradient(90deg,#24b4e8,#098dcb);transition:width .15s ease}
+.pendingGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(132px,1fr));gap:10px;margin:10px 0 14px}
+.pendingCard{min-width:0;overflow:hidden;border:1px solid #d4e7f1;border-radius:9px;background:#f6fbfe}
+.pendingCard video,.tsPreview{display:grid;width:100%;aspect-ratio:16/10;object-fit:cover;background:#0c315d;color:#fff;place-items:center}
+.tsPreview{font-size:18px;font-weight:900;letter-spacing:.12em}
+.pendingCard>span{display:block;padding:7px 8px;color:#315a8a;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pendingCard video{display:block}
+.successNotice,.errorNotice{margin:12px 0;padding:10px 12px;border-radius:8px;font-size:13px;font-weight:700}
+.successNotice{border:1px solid #b7e5d0;background:#effbf5;color:#176b45}
+.errorNotice{border:1px solid #f0c4c8;background:#fff4f4;color:#a22a36}
+.savedRow{display:grid;grid-template-columns:minmax(180px,240px) minmax(0,1fr) 42px;gap:12px;align-items:center;margin-top:12px;padding:10px;border:1px solid #d4e7f1;border-radius:10px;background:#f7fbfd}
+.savedPreview{overflow:hidden;border-radius:7px;background:#0b274b}
+.savedPreview video{display:block;width:100%;height:100%;object-fit:contain;background:#071b32}
+.savedDetails{min-width:0;display:grid;gap:6px}
+.savedDetails input{width:100%;border:1px solid #cfe1ec;border-radius:9px;padding:11px 12px;font:inherit;color:#08255c;background:#fff}
+.savedDetails small{color:#52739c;font-size:12px}
+.savedRow>button{height:42px;border:0;border-radius:8px;background:#fff0f1;color:#c43c4b;cursor:pointer}
+@media(max-width:640px){.savedRow{grid-template-columns:minmax(0,1fr) 40px}.savedPreview{grid-column:1/-1}.savedDetails{grid-column:1}.savedRow>button{grid-column:2;grid-row:2}}

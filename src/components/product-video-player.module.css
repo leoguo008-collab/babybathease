@@ -1,0 +1,5 @@
+.wrapper { width: 100%; min-width: 0; }
+.wrapper video { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: contain; background: #071c38; }
+.notice { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 10px; background: #eef8ff; color: #173760; font-size: 12px; line-height: 1.5; }
+.notice span { flex-basis: 100%; }
+.notice button, .notice a { cursor: pointer; border: 1px solid #90c6e7; border-radius: 6px; padding: 5px 8px; background: white; color: #07517f; font: inherit; }

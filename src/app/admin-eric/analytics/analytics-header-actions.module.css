@@ -1,0 +1,2 @@
+.actions{display:flex;align-items:center;gap:17px}.actions>svg{color:#20ace9;background:#e5f8ff;border-radius:16px;padding:12px;width:58px;height:58px}@media(max-width:650px){.actions>svg{display:none}}
+@media(max-width:680px){.actions{display:none}}

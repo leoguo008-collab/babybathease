@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "FONDATION",
+      "value": "1982",
+      "note": "À Hong Kong"
+    },
+    {
+      "label": "DEUX GÉNÉRATIONS",
+      "value": "Entreprise familiale",
+      "note": "De Kevin à Eric Kwok"
+    },
+    {
+      "label": "PRÉSENCE MONDIALE",
+      "value": "Plus de 50 pays",
+      "note": "La confiance à travers le monde"
+    },
+    {
+      "label": "QUALITÉ DES PRODUITS",
+      "value": "100 % conformes",
+      "note": "La sécurité avant tout"
+    }
+  ],
+  "featureLabels": ["Conception pliable","Fixation par ventouses","Repère de température","Hauteur réglable","Soutien du dos","Coussin souple","Évacuation de l’eau","Gobelet de rinçage","Barre de jeux","Poignée","Support","Hamac ou filet de bain","Roulettes","Rangement compact","Positions réglables","Accessoire de douche","Conception flottante","Jeu d’eau","Pêche magnétique","Gobelets empilables","Protection de robinet","Table à langer","Effets lumineux","Figurines animales"],
+  "colors": {"white":"Blanc","grey":"Gris","blue":"Bleu","pink":"Rose","green":"Vert","purple":"Violet","khaki":"Kaki","peach":"Pêche","black":"Noir","yellow":"Jaune","oat":"Avoine","peach + white":"Pêche + Blanc","gray":"Gris"},
+  "ui": {
+    "officePhone": "Téléphone du bureau",
+    "selectInquiry": "Sélectionnez le type de demande",
+    "selectQuantity": "Sélectionnez la quantité",
+    "quantityRanges": ["Moins de 500 unités","500–2 000 unités","2 000–10 000 unités","Plus de 10 000 unités"],
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À propos",
+    "contact": "Contact",
+    "language": "Choisir la langue",
+    "menu": "Menu",
+    "quote": "Demander un devis",
+    "download": "Télécharger le catalogue",
+    "talk": "Contacter notre équipe",
+    "all": "Tous les produits",
+    "details": "Voir les détails",
+    "categories": "Nos catégories de produits",
+    "tagline": "Vos idées, notre savoir-faire",
+    "manufacturer": "Fabricant de produits de bain pour bébé OEM / ODM",
+    "heroTitle": "Un bain en toute sérénité.",
+    "heroAccent": "Une production évolutive.",
+    "heroIntro": "Nous concevons et fabriquons des produits de bain pour bébé destinés aux marques et distributeurs internationaux. Du concept à la production, nous donnons vie à vos idées.",
+    "productsTitle": "Découvrez notre collection pour le bain de bébé",
+    "productsIntro": "Des solutions pratiques pour les marques internationales, les distributeurs et les projets de marque blanche.",
+    "library": "CATALOGUE PRODUITS",
+    "libraryTitle": "Pour des moments de bain heureux.",
+    "ctaTitle": "Une gamme de bain pour bébé sur mesure ?",
+    "ctaIntro": "Indiquez votre marché cible, vos besoins et la quantité souhaitée. Nous préparerons une solution adaptée à votre marque.",
+    "aboutTitle": "Une tradition de soin depuis 1982.",
+    "aboutIntro": "Fondée à Hong Kong par Kevin Kwok en 1982, notre entreprise familiale possède plus de 40 ans d’expérience dans la conception de produits en plastique et la fabrication d’articles de bain pour bébé. Eric Kwok poursuit cette activité avec des designs modernes et un contrôle qualité rigoureux pour des partenaires dans plus de 50 pays.",
+    "contactTitle": "Contactez-nous.",
+    "contactIntro": "Vente en gros, distribution ou OEM : nous répondons sous deux jours ouvrés.",
+    "name": "Nom",
+    "email": "E-mail",
+    "company": "Entreprise",
+    "phone": "Téléphone / WhatsApp",
+    "market": "Marché cible / pays",
+    "message": "Message",
+    "inquiryType": "Type de demande",
+    "quantity": "Quantité estimée",
+    "wholesale": "Vente en gros",
+    "sourcing": "Approvisionnement",
+    "select": "Sélectionner",
+    "send": "Envoyer la demande",
+    "sending": "Envoi en cours…",
+    "success": "Merci. Votre demande a bien été reçue.",
+    "error": "Échec de l’envoi. Vérifiez les champs et réessayez.",
+    "required": "Champs obligatoires",
+    "address": "Adresse du bureau",
+    "response": "Réponse",
+    "responseTime": "Sous deux jours ouvrés",
+    "rights": "Tous droits réservés.",
+    "overview": "Présentation du produit",
+    "specifications": "Caractéristiques",
+    "originalSpecs": "Caractéristiques techniques d’origine (anglais)",
+    "gallery": "Galerie",
+    "videos": "Vidéos du produit",
+    "model": "Modèle",
+    "safety": "Surveillez toujours les bébés sans interruption pendant le bain.",
+    "back": "Retour aux produits",
+    "visit": "Visitez notre bureau à Shenzhen.",
+    "map": "Ouvrir dans Google Maps",
+    "features": "Points forts",
+    "color": "Couleur",
+    "size": "Taille",
+    "close": "Fermer",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "years": "Années d’expérience",
+    "brands": "Marques internationales",
+    "capacity": "Capacité mensuelle",
+    "delivery": "Livraisons à temps",
+    "oemTitle": "Votre partenaire de fabrication OEM / ODM",
+    "oemIntro": "De la conception à la production, nous accompagnons la personnalisation, l’emballage et le contrôle qualité de votre gamme.",
+    "officePhotos": "Photos du bureau",
+    "empty": "Aucun produit dans cette catégorie.",
+    "productIntro": "Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+    "downloadEnglish": "PDF · Anglais"
+  },
+  "categories": {
+    "1": "Baignoires bébé",
+    "2": "Supports et sièges de bain",
+    "3": "Jouets de bain",
+    "4": "Accessoires de bain",
+    "5": "Serviettes bébé"
+  },
+  "products": {
+    "BBA001": {
+      "name": "Lot de gobelets de rinçage",
+      "description": "Lot de gobelets de rinçage. Points forts: Gobelet de rinçage. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Gobelet de rinçage",
+      "seoTitle": "Lot de gobelets de rinçage (BBA001) | Baby Bath Ease",
+      "seoDescription": "Lot de gobelets de rinçage (BBA001) — Gobelet de rinçage. Vente en gros / OEM / ODM.",
+      "keywords": "Lot de gobelets de rinçage, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Gobelet de rinçage Moby, gris",
+      "description": "Gobelet de rinçage Moby, gris. Points forts: Gobelet de rinçage · Poignée. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Gobelet de rinçage · Poignée",
+      "seoTitle": "Gobelet de rinçage Moby, gris (BBA002) | Baby Bath Ease",
+      "seoDescription": "Gobelet de rinçage Moby, gris (BBA002) — Gobelet de rinçage · Poignée. Vente en gros / OEM / ODM.",
+      "keywords": "Gobelet de rinçage Moby, gris, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "Protection de bec de baignoire dauphin",
+      "description": "Protection de bec de baignoire dauphin. Points forts: Protection de robinet. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Protection de robinet",
+      "seoTitle": "Protection de bec de baignoire dauphin (BBA003) | Baby Bath Ease",
+      "seoDescription": "Protection de bec de baignoire dauphin (BBA003) — Protection de robinet. Vente en gros / OEM / ODM.",
+      "keywords": "Protection de bec de baignoire dauphin, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "Protection de robinet baleine grise",
+      "description": "Protection de robinet baleine grise. Points forts: Protection de robinet. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Protection de robinet",
+      "seoTitle": "Protection de robinet baleine grise (BBA004) | Baby Bath Ease",
+      "seoDescription": "Protection de robinet baleine grise (BBA004) — Protection de robinet. Vente en gros / OEM / ODM.",
+      "keywords": "Protection de robinet baleine grise, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "Thermomètre de bain canard",
+      "description": "Thermomètre de bain canard. Points forts: Repère de température · Conception flottante. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Repère de température · Conception flottante",
+      "seoTitle": "Thermomètre de bain canard (BBA005) | Baby Bath Ease",
+      "seoDescription": "Thermomètre de bain canard (BBA005) — Repère de température · Conception flottante. Vente en gros / OEM / ODM.",
+      "keywords": "Thermomètre de bain canard, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "Thermomètre de bain tortue flottante",
+      "description": "Thermomètre de bain tortue flottante. Points forts: Repère de température · Conception flottante. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Repère de température · Conception flottante",
+      "seoTitle": "Thermomètre de bain tortue flottante (BBA006) | Baby Bath Ease",
+      "seoDescription": "Thermomètre de bain tortue flottante (BBA006) — Repère de température · Conception flottante. Vente en gros / OEM / ODM.",
+      "keywords": "Thermomètre de bain tortue flottante, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "Table à langer réglable, gris clair",
+      "description": "Table à langer réglable, gris clair. Points forts: Conception pliable · Hauteur réglable · Roulettes · Rangement compact · Table à langer. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Hauteur réglable · Roulettes · Rangement compact",
+      "seoTitle": "Table à langer réglable, gris clair (BBA007) | Baby Bath Ease",
+      "seoDescription": "Table à langer réglable, gris clair (BBA007) — Conception pliable · Hauteur réglable · Roulettes · Rangement compact. Vente en gros / OEM / ODM.",
+      "keywords": "Table à langer réglable, gris clair, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "Table à langer 2 en 1 avec baignoire, grise",
+      "description": "Table à langer 2 en 1 avec baignoire, grise. Points forts: Conception pliable · Roulettes · Rangement compact · Table à langer. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Roulettes · Rangement compact · Table à langer",
+      "seoTitle": "Table à langer 2 en 1 avec baignoire, grise (BBA008) | Baby Bath Ease",
+      "seoDescription": "Table à langer 2 en 1 avec baignoire, grise (BBA008) — Conception pliable · Roulettes · Rangement compact · Table à langer. Vente en gros / OEM / ODM.",
+      "keywords": "Table à langer 2 en 1 avec baignoire, grise, Accessoires de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "Support de bain pour nouveau-né, blanc",
+      "description": "Support de bain pour nouveau-né, blanc. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Supports et sièges de bain",
+      "seoTitle": "Support de bain pour nouveau-né, blanc (BBS001) | Baby Bath Ease",
+      "seoDescription": "Support de bain pour nouveau-né, blanc (BBS001) — Supports et sièges de bain. Vente en gros / OEM / ODM.",
+      "keywords": "Support de bain pour nouveau-né, blanc, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "Siège de bain antidérapant à ventouses",
+      "description": "Siège de bain antidérapant à ventouses. Points forts: Fixation par ventouses · Coussin souple. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Coussin souple",
+      "seoTitle": "Siège de bain antidérapant à ventouses (BBS002) | Baby Bath Ease",
+      "seoDescription": "Siège de bain antidérapant à ventouses (BBS002) — Fixation par ventouses · Coussin souple. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain antidérapant à ventouses, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "Siège de bain bébé 360° à ventouses",
+      "description": "Siège de bain bébé 360° à ventouses. Points forts: Fixation par ventouses · Coussin souple. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Coussin souple",
+      "seoTitle": "Siège de bain bébé 360° à ventouses (BBS003) | Baby Bath Ease",
+      "seoDescription": "Siège de bain bébé 360° à ventouses (BBS003) — Fixation par ventouses · Coussin souple. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain bébé 360° à ventouses, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "Siège de bain réglable à trois ventouses",
+      "description": "Siège de bain réglable à trois ventouses. Points forts: Fixation par ventouses · Soutien du dos. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Soutien du dos",
+      "seoTitle": "Siège de bain réglable à trois ventouses (BBS004) | Baby Bath Ease",
+      "seoDescription": "Siège de bain réglable à trois ventouses (BBS004) — Fixation par ventouses · Soutien du dos. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain réglable à trois ventouses, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "Siège de bain à ventouses, gris",
+      "description": "Siège de bain à ventouses, gris. Points forts: Fixation par ventouses · Soutien du dos. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Soutien du dos",
+      "seoTitle": "Siège de bain à ventouses, gris (BBS005) | Baby Bath Ease",
+      "seoDescription": "Siège de bain à ventouses, gris (BBS005) — Fixation par ventouses · Soutien du dos. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain à ventouses, gris, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "Siège de bain avec affichage de température",
+      "description": "Siège de bain avec affichage de température. Points forts: Fixation par ventouses · Repère de température · Soutien du dos · Coussin souple. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Repère de température · Soutien du dos · Coussin souple",
+      "seoTitle": "Siège de bain avec affichage de température (BBS006) | Baby Bath Ease",
+      "seoDescription": "Siège de bain avec affichage de température (BBS006) — Fixation par ventouses · Repère de température · Soutien du dos · Coussin souple. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain avec affichage de température, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "Siège de bain avec indicateur de température dès 6 mois, gris",
+      "description": "Siège de bain avec indicateur de température dès 6 mois, gris. Points forts: Fixation par ventouses · Repère de température · Soutien du dos. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Repère de température · Soutien du dos",
+      "seoTitle": "Siège de bain avec indicateur de température dès 6 mois, gris (BBS007) | Baby Bath Ease",
+      "seoDescription": "Siège de bain avec indicateur de température dès 6 mois, gris (BBS007) — Fixation par ventouses · Repère de température · Soutien du dos. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain avec indicateur de température dès 6 mois, gris, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "Siège de bain réglable avec affichage de température, rose",
+      "description": "Siège de bain réglable avec affichage de température, rose. Points forts: Fixation par ventouses · Repère de température · Coussin souple. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Repère de température · Coussin souple",
+      "seoTitle": "Siège de bain réglable avec affichage de température, rose (BBS008) | Baby Bath Ease",
+      "seoDescription": "Siège de bain réglable avec affichage de température, rose (BBS008) — Fixation par ventouses · Repère de température · Coussin souple. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain réglable avec affichage de température, rose, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "Siège de bain avec autocollant thermomètre, gris",
+      "description": "Siège de bain avec autocollant thermomètre, gris. Points forts: Fixation par ventouses · Repère de température · Soutien du dos · Évacuation de l’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Repère de température · Soutien du dos · Évacuation de l’eau",
+      "seoTitle": "Siège de bain avec autocollant thermomètre, gris (BBS009) | Baby Bath Ease",
+      "seoDescription": "Siège de bain avec autocollant thermomètre, gris (BBS009) — Fixation par ventouses · Repère de température · Soutien du dos · Évacuation de l’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain avec autocollant thermomètre, gris, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "Siège de bain dinosaure avec barre de jeux",
+      "description": "Siège de bain dinosaure avec barre de jeux. Points forts: Fixation par ventouses · Coussin souple · Barre de jeux. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Coussin souple · Barre de jeux",
+      "seoTitle": "Siège de bain dinosaure avec barre de jeux (BBS010) | Baby Bath Ease",
+      "seoDescription": "Siège de bain dinosaure avec barre de jeux (BBS010) — Fixation par ventouses · Coussin souple · Barre de jeux. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain dinosaure avec barre de jeux, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "Siège de bain avec dossier à quatre positions, pêche et blanc",
+      "description": "Siège de bain avec dossier à quatre positions, pêche et blanc. Points forts: Fixation par ventouses · Repère de température · Hauteur réglable · Soutien du dos · Évacuation de l’eau · Gobelet de rinçage · Positions réglables. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses · Repère de température · Hauteur réglable · Soutien du dos",
+      "seoTitle": "Siège de bain avec dossier à quatre positions, pêche et blanc (BBS011) | Baby Bath Ease",
+      "seoDescription": "Siège de bain avec dossier à quatre positions, pêche et blanc (BBS011) — Fixation par ventouses · Repère de température · Hauteur réglable · Soutien du dos. Vente en gros / OEM / ODM.",
+      "keywords": "Siège de bain avec dossier à quatre positions, pêche et blanc, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "Support de douche canard réglable",
+      "description": "Support de douche canard réglable. Points forts: Hauteur réglable · Évacuation de l’eau · Positions réglables · Accessoire de douche. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Hauteur réglable · Évacuation de l’eau · Positions réglables · Accessoire de douche",
+      "seoTitle": "Support de douche canard réglable (BBS012) | Baby Bath Ease",
+      "seoDescription": "Support de douche canard réglable (BBS012) — Hauteur réglable · Évacuation de l’eau · Positions réglables · Accessoire de douche. Vente en gros / OEM / ODM.",
+      "keywords": "Support de douche canard réglable, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "Support de douche bébé réglable, gris",
+      "description": "Support de douche bébé réglable, gris. Points forts: Hauteur réglable. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Hauteur réglable",
+      "seoTitle": "Support de douche bébé réglable, gris (BBS013) | Baby Bath Ease",
+      "seoDescription": "Support de douche bébé réglable, gris (BBS013) — Hauteur réglable. Vente en gros / OEM / ODM.",
+      "keywords": "Support de douche bébé réglable, gris, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "Support de bain debout réglable amélioré",
+      "description": "Support de bain debout réglable amélioré. Points forts: Soutien du dos · Évacuation de l’eau · Poignée. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Soutien du dos · Évacuation de l’eau · Poignée",
+      "seoTitle": "Support de bain debout réglable amélioré (BBS014) | Baby Bath Ease",
+      "seoDescription": "Support de bain debout réglable amélioré (BBS014) — Soutien du dos · Évacuation de l’eau · Poignée. Vente en gros / OEM / ODM.",
+      "keywords": "Support de bain debout réglable amélioré, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "Support de bain réglable, vert",
+      "description": "Support de bain réglable, vert. Points forts: Hauteur réglable · Soutien du dos · Évacuation de l’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Hauteur réglable · Soutien du dos · Évacuation de l’eau",
+      "seoTitle": "Support de bain réglable, vert (BBS015) | Baby Bath Ease",
+      "seoDescription": "Support de bain réglable, vert (BBS015) — Hauteur réglable · Soutien du dos · Évacuation de l’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Support de bain réglable, vert, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "Support de douche enfant réglable, kaki",
+      "description": "Support de douche enfant réglable, kaki. Points forts: Hauteur réglable. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Hauteur réglable",
+      "seoTitle": "Support de douche enfant réglable, kaki (BBS016) | Baby Bath Ease",
+      "seoDescription": "Support de douche enfant réglable, kaki (BBS016) — Hauteur réglable. Vente en gros / OEM / ODM.",
+      "keywords": "Support de douche enfant réglable, kaki, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "Support de douche bébé assis et debout",
+      "description": "Support de douche bébé assis et debout. Points forts: Conception pliable · Hauteur réglable · Évacuation de l’eau · Poignée. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Hauteur réglable · Évacuation de l’eau · Poignée",
+      "seoTitle": "Support de douche bébé assis et debout (BBS017) | Baby Bath Ease",
+      "seoDescription": "Support de douche bébé assis et debout (BBS017) — Conception pliable · Hauteur réglable · Évacuation de l’eau · Poignée. Vente en gros / OEM / ODM.",
+      "keywords": "Support de douche bébé assis et debout, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "Support de douche canard pliable, gris",
+      "description": "Support de douche canard pliable, gris. Points forts: Conception pliable · Fixation par ventouses · Hauteur réglable. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Fixation par ventouses · Hauteur réglable",
+      "seoTitle": "Support de douche canard pliable, gris (BBS018) | Baby Bath Ease",
+      "seoDescription": "Support de douche canard pliable, gris (BBS018) — Conception pliable · Fixation par ventouses · Hauteur réglable. Vente en gros / OEM / ODM.",
+      "keywords": "Support de douche canard pliable, gris, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "Support de bain canard réglable, rose",
+      "description": "Support de bain canard réglable, rose. Points forts: Hauteur réglable · Évacuation de l’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Hauteur réglable · Évacuation de l’eau",
+      "seoTitle": "Support de bain canard réglable, rose (BBS019) | Baby Bath Ease",
+      "seoDescription": "Support de bain canard réglable, rose (BBS019) — Hauteur réglable · Évacuation de l’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Support de bain canard réglable, rose, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "Tour de bain bébé, violette",
+      "description": "Tour de bain bébé, violette. Points forts: Support. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Support",
+      "seoTitle": "Tour de bain bébé, violette (BBS020) | Baby Bath Ease",
+      "seoDescription": "Tour de bain bébé, violette (BBS020) — Support. Vente en gros / OEM / ODM.",
+      "keywords": "Tour de bain bébé, violette, Supports et sièges de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "Baignoire bébé pliable, grise",
+      "description": "Baignoire bébé pliable, grise. Points forts: Conception pliable · Hamac ou filet de bain · Rangement compact. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Hamac ou filet de bain · Rangement compact",
+      "seoTitle": "Baignoire bébé pliable, grise (BBT001) | Baby Bath Ease",
+      "seoDescription": "Baignoire bébé pliable, grise (BBT001) — Conception pliable · Hamac ou filet de bain · Rangement compact. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire bébé pliable, grise, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "Baignoire bébé pliable, rose",
+      "description": "Baignoire bébé pliable, rose. Points forts: Conception pliable · Repère de température · Coussin souple. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Repère de température · Coussin souple",
+      "seoTitle": "Baignoire bébé pliable, rose (BBT002) | Baby Bath Ease",
+      "seoDescription": "Baignoire bébé pliable, rose (BBT002) — Conception pliable · Repère de température · Coussin souple. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire bébé pliable, rose, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "Baignoire pliable avec coussin, grise",
+      "description": "Baignoire pliable avec coussin, grise. Points forts: Conception pliable · Repère de température · Hauteur réglable · Coussin souple · Évacuation de l’eau · Rangement compact. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Repère de température · Hauteur réglable · Coussin souple",
+      "seoTitle": "Baignoire pliable avec coussin, grise (BBT003) | Baby Bath Ease",
+      "seoDescription": "Baignoire pliable avec coussin, grise (BBT003) — Conception pliable · Repère de température · Hauteur réglable · Coussin souple. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire pliable avec coussin, grise, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "Baignoire bébé pliable, avoine",
+      "description": "Baignoire bébé pliable, avoine. Points forts: Conception pliable · Repère de température · Hamac ou filet de bain · Rangement compact. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Repère de température · Hamac ou filet de bain · Rangement compact",
+      "seoTitle": "Baignoire bébé pliable, avoine (BBT005) | Baby Bath Ease",
+      "seoDescription": "Baignoire bébé pliable, avoine (BBT005) — Conception pliable · Repère de température · Hamac ou filet de bain · Rangement compact. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire bébé pliable, avoine, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "Baignoire pliable 4 en 1, grise",
+      "description": "Baignoire pliable 4 en 1, grise. Points forts: Conception pliable · Repère de température · Évacuation de l’eau · Rangement compact · Conception flottante. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Repère de température · Évacuation de l’eau · Rangement compact",
+      "seoTitle": "Baignoire pliable 4 en 1, grise (BBT006) | Baby Bath Ease",
+      "seoDescription": "Baignoire pliable 4 en 1, grise (BBT006) — Conception pliable · Repère de température · Évacuation de l’eau · Rangement compact. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire pliable 4 en 1, grise, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "Baignoire bébé pliable",
+      "description": "Baignoire bébé pliable. Points forts: Conception pliable · Évacuation de l’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Évacuation de l’eau",
+      "seoTitle": "Baignoire bébé pliable (BBT007) | Baby Bath Ease",
+      "seoDescription": "Baignoire bébé pliable (BBT007) — Conception pliable · Évacuation de l’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire bébé pliable, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "Baignoire avec support pliable, rose",
+      "description": "Baignoire avec support pliable, rose. Points forts: Conception pliable · Soutien du dos · Évacuation de l’eau · Support · Rangement compact. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Soutien du dos · Évacuation de l’eau · Support",
+      "seoTitle": "Baignoire avec support pliable, rose (BBT008) | Baby Bath Ease",
+      "seoDescription": "Baignoire avec support pliable, rose (BBT008) — Conception pliable · Soutien du dos · Évacuation de l’eau · Support. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire avec support pliable, rose, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "Baignoire bébé trois étapes, grise",
+      "description": "Baignoire bébé trois étapes, grise. Points forts: Évacuation de l’eau · Positions réglables. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Évacuation de l’eau · Positions réglables",
+      "seoTitle": "Baignoire bébé trois étapes, grise (BBT009) | Baby Bath Ease",
+      "seoDescription": "Baignoire bébé trois étapes, grise (BBT009) — Évacuation de l’eau · Positions réglables. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire bébé trois étapes, grise, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "Baignoire bébé inclinable 4 en 1",
+      "description": "Baignoire bébé inclinable 4 en 1. Points forts: Positions réglables. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Positions réglables",
+      "seoTitle": "Baignoire bébé inclinable 4 en 1 (BBT010) | Baby Bath Ease",
+      "seoDescription": "Baignoire bébé inclinable 4 en 1 (BBT010) — Positions réglables. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire bébé inclinable 4 en 1, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "Baignoire évolutive 3 en 1",
+      "description": "Baignoire évolutive 3 en 1. Points forts: Évacuation de l’eau · Hamac ou filet de bain · Rangement compact · Positions réglables. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Évacuation de l’eau · Hamac ou filet de bain · Rangement compact · Positions réglables",
+      "seoTitle": "Baignoire évolutive 3 en 1 (BBT011) | Baby Bath Ease",
+      "seoDescription": "Baignoire évolutive 3 en 1 (BBT011) — Évacuation de l’eau · Hamac ou filet de bain · Rangement compact · Positions réglables. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire évolutive 3 en 1, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "Ensemble baignoire spa bébé avec douche pluie",
+      "description": "Ensemble baignoire spa bébé avec douche pluie. Points forts: Hamac ou filet de bain · Accessoire de douche. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Hamac ou filet de bain · Accessoire de douche",
+      "seoTitle": "Ensemble baignoire spa bébé avec douche pluie (BBT012) | Baby Bath Ease",
+      "seoDescription": "Ensemble baignoire spa bébé avec douche pluie (BBT012) — Hamac ou filet de bain · Accessoire de douche. Vente en gros / OEM / ODM.",
+      "keywords": "Ensemble baignoire spa bébé avec douche pluie, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "Baignoire pliable avec gobelet de rinçage",
+      "description": "Baignoire pliable avec gobelet de rinçage. Points forts: Conception pliable · Gobelet de rinçage. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Gobelet de rinçage",
+      "seoTitle": "Baignoire pliable avec gobelet de rinçage (BBT013) | Baby Bath Ease",
+      "seoDescription": "Baignoire pliable avec gobelet de rinçage (BBT013) — Conception pliable · Gobelet de rinçage. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire pliable avec gobelet de rinçage, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "Baignoire pliable avec support et coussin",
+      "description": "Baignoire pliable avec support et coussin. Points forts: Conception pliable · Coussin souple · Support. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception pliable · Coussin souple · Support",
+      "seoTitle": "Baignoire pliable avec support et coussin (BBT014) | Baby Bath Ease",
+      "seoDescription": "Baignoire pliable avec support et coussin (BBT014) — Conception pliable · Coussin souple · Support. Vente en gros / OEM / ODM.",
+      "keywords": "Baignoire pliable avec support et coussin, Baignoires bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "Baleine à jet d’eau",
+      "description": "Baleine à jet d’eau. Points forts: Jeu d’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jeu d’eau",
+      "seoTitle": "Baleine à jet d’eau (BTOY001) | Baby Bath Ease",
+      "seoDescription": "Baleine à jet d’eau (BTOY001) — Jeu d’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Baleine à jet d’eau, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "Fontaine de bain baleine lumineuse",
+      "description": "Fontaine de bain baleine lumineuse. Points forts: Jeu d’eau · Effets lumineux. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jeu d’eau · Effets lumineux",
+      "seoTitle": "Fontaine de bain baleine lumineuse (BTOY002) | Baby Bath Ease",
+      "seoDescription": "Fontaine de bain baleine lumineuse (BTOY002) — Jeu d’eau · Effets lumineux. Vente en gros / OEM / ODM.",
+      "keywords": "Fontaine de bain baleine lumineuse, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "Jeu de tuyaux pour le bain",
+      "description": "Jeu de tuyaux pour le bain. Points forts: Jeu d’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jeu d’eau",
+      "seoTitle": "Jeu de tuyaux pour le bain (BTOY003) | Baby Bath Ease",
+      "seoDescription": "Jeu de tuyaux pour le bain (BTOY003) — Jeu d’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Jeu de tuyaux pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "Toboggan de bain pingouin",
+      "description": "Toboggan de bain pingouin. Points forts: Figurines animales. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Figurines animales",
+      "seoTitle": "Toboggan de bain pingouin (BTOY004) | Baby Bath Ease",
+      "seoDescription": "Toboggan de bain pingouin (BTOY004) — Figurines animales. Vente en gros / OEM / ODM.",
+      "keywords": "Toboggan de bain pingouin, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "Circuit aquatique pour le bain",
+      "description": "Circuit aquatique pour le bain. Points forts: Jeu d’eau. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jeu d’eau",
+      "seoTitle": "Circuit aquatique pour le bain (BTOY005) | Baby Bath Ease",
+      "seoDescription": "Circuit aquatique pour le bain (BTOY005) — Jeu d’eau. Vente en gros / OEM / ODM.",
+      "keywords": "Circuit aquatique pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "Lot de jouets de bain avec pelle",
+      "description": "Lot de jouets de bain avec pelle. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jouets de bain",
+      "seoTitle": "Lot de jouets de bain avec pelle (BTOY006) | Baby Bath Ease",
+      "seoDescription": "Lot de jouets de bain avec pelle (BTOY006) — Jouets de bain. Vente en gros / OEM / ODM.",
+      "keywords": "Lot de jouets de bain avec pelle, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "Lot coloré de jouets de bain avec pelle",
+      "description": "Lot coloré de jouets de bain avec pelle. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jouets de bain",
+      "seoTitle": "Lot coloré de jouets de bain avec pelle (BTOY007) | Baby Bath Ease",
+      "seoDescription": "Lot coloré de jouets de bain avec pelle (BTOY007) — Jouets de bain. Vente en gros / OEM / ODM.",
+      "keywords": "Lot coloré de jouets de bain avec pelle, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "Seaux de bain avec personnages",
+      "description": "Seaux de bain avec personnages. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jouets de bain",
+      "seoTitle": "Seaux de bain avec personnages (BTOY008) | Baby Bath Ease",
+      "seoDescription": "Seaux de bain avec personnages (BTOY008) — Jouets de bain. Vente en gros / OEM / ODM.",
+      "keywords": "Seaux de bain avec personnages, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "Tortues flottantes pour le bain",
+      "description": "Tortues flottantes pour le bain. Points forts: Conception flottante. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception flottante",
+      "seoTitle": "Tortues flottantes pour le bain (BTOY009) | Baby Bath Ease",
+      "seoDescription": "Tortues flottantes pour le bain (BTOY009) — Conception flottante. Vente en gros / OEM / ODM.",
+      "keywords": "Tortues flottantes pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "Lot d’animaux marins pour le bain",
+      "description": "Lot d’animaux marins pour le bain. Points forts: Conception flottante · Figurines animales. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception flottante · Figurines animales",
+      "seoTitle": "Lot d’animaux marins pour le bain (BTOY010) | Baby Bath Ease",
+      "seoDescription": "Lot d’animaux marins pour le bain (BTOY010) — Conception flottante · Figurines animales. Vente en gros / OEM / ODM.",
+      "keywords": "Lot d’animaux marins pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "Lot coloré d’animaux marins pour le bain",
+      "description": "Lot coloré d’animaux marins pour le bain. Points forts: Conception flottante · Figurines animales. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception flottante · Figurines animales",
+      "seoTitle": "Lot coloré d’animaux marins pour le bain (BTOY011) | Baby Bath Ease",
+      "seoDescription": "Lot coloré d’animaux marins pour le bain (BTOY011) — Conception flottante · Figurines animales. Vente en gros / OEM / ODM.",
+      "keywords": "Lot coloré d’animaux marins pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "Balles de bain flottantes",
+      "description": "Balles de bain flottantes. Points forts: Conception flottante · Figurines animales. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception flottante · Figurines animales",
+      "seoTitle": "Balles de bain flottantes (BTOY012) | Baby Bath Ease",
+      "seoDescription": "Balles de bain flottantes (BTOY012) — Conception flottante · Figurines animales. Vente en gros / OEM / ODM.",
+      "keywords": "Balles de bain flottantes, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "Gobelets empilables pour le bain",
+      "description": "Gobelets empilables pour le bain. Points forts: Gobelets empilables. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Gobelets empilables",
+      "seoTitle": "Gobelets empilables pour le bain (BTOY013) | Baby Bath Ease",
+      "seoDescription": "Gobelets empilables pour le bain (BTOY013) — Gobelets empilables. Vente en gros / OEM / ODM.",
+      "keywords": "Gobelets empilables pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "Lot de jouets de bain en mousse",
+      "description": "Lot de jouets de bain en mousse. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jouets de bain",
+      "seoTitle": "Lot de jouets de bain en mousse (BTOY014) | Baby Bath Ease",
+      "seoDescription": "Lot de jouets de bain en mousse (BTOY014) — Jouets de bain. Vente en gros / OEM / ODM.",
+      "keywords": "Lot de jouets de bain en mousse, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "Lot de jouets de bain à ventouses",
+      "description": "Lot de jouets de bain à ventouses. Points forts: Fixation par ventouses. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Fixation par ventouses",
+      "seoTitle": "Lot de jouets de bain à ventouses (BTOY015) | Baby Bath Ease",
+      "seoDescription": "Lot de jouets de bain à ventouses (BTOY015) — Fixation par ventouses. Vente en gros / OEM / ODM.",
+      "keywords": "Lot de jouets de bain à ventouses, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "Jeu de pêche magnétique pour le bain",
+      "description": "Jeu de pêche magnétique pour le bain. Points forts: Conception flottante · Pêche magnétique. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Conception flottante · Pêche magnétique",
+      "seoTitle": "Jeu de pêche magnétique pour le bain (BTOY016) | Baby Bath Ease",
+      "seoDescription": "Jeu de pêche magnétique pour le bain (BTOY016) — Conception flottante · Pêche magnétique. Vente en gros / OEM / ODM.",
+      "keywords": "Jeu de pêche magnétique pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "Lot de véhicules de secours pour le bain",
+      "description": "Lot de véhicules de secours pour le bain. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Jouets de bain",
+      "seoTitle": "Lot de véhicules de secours pour le bain (BTOY017) | Baby Bath Ease",
+      "seoDescription": "Lot de véhicules de secours pour le bain (BTOY017) — Jouets de bain. Vente en gros / OEM / ODM.",
+      "keywords": "Lot de véhicules de secours pour le bain, Jouets de bain, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "Serviette de bain bébé",
+      "description": "Serviette de bain bébé. Contactez notre équipe au sujet de ce modèle, de ses options, de son emballage et des quantités de gros.",
+      "shortDescription": "Serviettes bébé",
+      "seoTitle": "Serviette de bain bébé (BTWL001) | Baby Bath Ease",
+      "seoDescription": "Serviette de bain bébé (BTWL001) — Serviettes bébé. Vente en gros / OEM / ODM.",
+      "keywords": "Serviette de bain bébé, Serviettes bébé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Fabricant de produits de bain pour bébé OEM / ODM | Baby Bath Ease",
+      "description": "Nous concevons et fabriquons des produits de bain pour bébé destinés aux marques et distributeurs internationaux. Du concept à la production, nous donnons vie à vos idées."
+    },
+    "products": {
+      "title": "Découvrez notre collection pour le bain de bébé | Baby Bath Ease",
+      "description": "Des solutions pratiques pour les marques internationales, les distributeurs et les projets de marque blanche."
+    },
+    "about": {
+      "title": "À propos | Baby Bath Ease",
+      "description": "Fondée à Hong Kong par Kevin Kwok en 1982, notre entreprise familiale possède plus de 40 ans d’expérience dans la conception de produits en plastique et la fabrication d’articles de bain pour bébé. Eric Kwok po"
+    },
+    "contact": {
+      "title": "Contact | Baby Bath Ease",
+      "description": "Vente en gros, distribution ou OEM : nous répondons sous deux jours ouvrés."
+    }
+  }
+}

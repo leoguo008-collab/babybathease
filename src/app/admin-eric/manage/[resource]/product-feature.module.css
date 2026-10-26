@@ -1,0 +1,2 @@
+.row{display:grid;grid-template-columns:minmax(0,1fr) 40px;gap:10px;align-items:center;width:min(100%,980px);margin-top:10px}.row input{width:100%;min-height:44px;border:1px solid #cfe1ec;border-radius:9px;padding:12px;font:inherit;color:#08255c;background:#fff}.row button{height:42px;border:0;background:#fff0f1;color:#c43c4b;border-radius:8px;cursor:pointer}
+@media(max-width:780px){.row{width:100%;grid-template-columns:minmax(0,1fr) 38px}}

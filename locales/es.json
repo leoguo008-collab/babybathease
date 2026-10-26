@@ -1,0 +1,663 @@
+{
+  "aboutFacts": [
+    {
+      "label": "FUNDACIÓN",
+      "value": "1982",
+      "note": "En Hong Kong"
+    },
+    {
+      "label": "DOS GENERACIONES",
+      "value": "Empresa familiar",
+      "note": "De Kevin a Eric Kwok"
+    },
+    {
+      "label": "ALCANCE GLOBAL",
+      "value": "Más de 50 países",
+      "note": "Confianza en todo el mundo"
+    },
+    {
+      "label": "CALIDAD DEL PRODUCTO",
+      "value": "100 % conformes",
+      "note": "La seguridad siempre primero"
+    }
+  ],
+  "featureLabels": ["Diseño plegable","Fijación con ventosas","Referencia de temperatura","Altura regulable","Soporte para la espalda","Cojín suave","Desagüe","Vaso de enjuague","Barra de juguetes","Asa","Soporte","Hamaca o red de baño","Ruedas","Almacenamiento compacto","Posiciones regulables","Accesorio de ducha","Diseño flotante","Juego de agua","Pesca magnética","Vasos apilables","Protección de grifo","Cambiador","Efectos luminosos","Figuras de animales"],
+  "colors": {"white":"Blanco","grey":"Gris","blue":"Azul","pink":"Rosa","green":"Verde","purple":"Morado","khaki":"Caqui","peach":"Melocotón","black":"Negro","yellow":"Amarillo","oat":"Avena","peach + white":"Melocotón + Blanco","gray":"Gris"},
+  "ui": {
+    "officePhone": "Teléfono de oficina",
+    "selectInquiry": "Seleccione el tipo de consulta",
+    "selectQuantity": "Seleccione la cantidad",
+    "quantityRanges": ["Menos de 500 unidades","500–2.000 unidades","2.000–10.000 unidades","Más de 10.000 unidades"],
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "language": "Elegir idioma",
+    "menu": "Menú",
+    "quote": "Solicitar presupuesto",
+    "download": "Descargar catálogo",
+    "talk": "Contactar con el equipo",
+    "all": "Todos los productos",
+    "details": "Ver detalles",
+    "categories": "Nuestras categorías",
+    "tagline": "Sus ideas, nuestra experiencia",
+    "manufacturer": "Fabricante OEM / ODM de productos de baño para bebés",
+    "heroTitle": "Un baño seguro.",
+    "heroAccent": "Producción a escala.",
+    "heroIntro": "Diseñamos y fabricamos productos de baño para bebés para marcas y distribuidores internacionales. Acompañamos sus ideas desde el concepto hasta la producción.",
+    "productsTitle": "Descubra nuestra colección de baño para bebés",
+    "productsIntro": "Soluciones prácticas para marcas internacionales, distribuidores y proyectos de marca propia.",
+    "library": "CATÁLOGO DE PRODUCTOS",
+    "libraryTitle": "Para disfrutar de la hora del baño.",
+    "ctaTitle": "¿Busca una gama de baño para bebés a medida?",
+    "ctaIntro": "Cuéntenos su mercado objetivo, sus requisitos y la cantidad del pedido. Prepararemos una solución para su marca.",
+    "aboutTitle": "Cuidando desde 1982.",
+    "aboutIntro": "Fundada en Hong Kong por Kevin Kwok en 1982, nuestra empresa familiar cuenta con más de 40 años de experiencia en diseño de productos de plástico y fabricación de artículos de baño para bebés. Eric Kwok continúa esta labor con diseño moderno y control de calidad para socios en más de 50 países.",
+    "contactTitle": "Póngase en contacto.",
+    "contactIntro": "Venta al por mayor, distribución u OEM: respondemos en dos días laborables.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "company": "Empresa",
+    "phone": "Teléfono / WhatsApp",
+    "market": "Mercado objetivo / país",
+    "message": "Mensaje",
+    "inquiryType": "Tipo de consulta",
+    "quantity": "Cantidad estimada",
+    "wholesale": "Venta al por mayor",
+    "sourcing": "Abastecimiento de productos",
+    "select": "Seleccionar",
+    "send": "Enviar consulta",
+    "sending": "Enviando…",
+    "success": "Gracias. Hemos recibido su consulta.",
+    "error": "No se pudo enviar. Revise los campos e inténtelo de nuevo.",
+    "required": "Campos obligatorios",
+    "address": "Dirección de la oficina",
+    "response": "Respuesta",
+    "responseTime": "En dos días laborables",
+    "rights": "Todos los derechos reservados.",
+    "overview": "Descripción del producto",
+    "specifications": "Especificaciones",
+    "originalSpecs": "Especificaciones técnicas originales (inglés)",
+    "gallery": "Galería",
+    "videos": "Vídeos del producto",
+    "model": "Modelo",
+    "safety": "Supervise siempre y de forma continua a los bebés durante el baño.",
+    "back": "Volver a los productos",
+    "visit": "Visite nuestra oficina en Shenzhen.",
+    "map": "Abrir en Google Maps",
+    "features": "Características",
+    "color": "Color",
+    "size": "Tamaño",
+    "close": "Cerrar",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "years": "Años de experiencia",
+    "brands": "Marcas internacionales",
+    "capacity": "Capacidad mensual",
+    "delivery": "Entrega puntual",
+    "oemTitle": "Su socio de fabricación OEM / ODM",
+    "oemIntro": "Desde el diseño hasta la producción, ofrecemos personalización, embalaje y control de calidad para su gama.",
+    "officePhotos": "Fotos de la oficina",
+    "empty": "No hay productos en esta categoría.",
+    "productIntro": "Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+    "downloadEnglish": "PDF · Inglés"
+  },
+  "categories": {
+    "1": "Bañeras para bebé",
+    "2": "Soportes y asientos de baño",
+    "3": "Juguetes de baño",
+    "4": "Accesorios de baño",
+    "5": "Toallas para bebé"
+  },
+  "products": {
+    "BBA001": {
+      "name": "Juego de vasos de enjuague",
+      "description": "Juego de vasos de enjuague. Características: Vaso de enjuague. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Vaso de enjuague",
+      "seoTitle": "Juego de vasos de enjuague (BBA001) | Baby Bath Ease",
+      "seoDescription": "Juego de vasos de enjuague (BBA001) — Vaso de enjuague. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de vasos de enjuague, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA002": {
+      "name": "Vaso de enjuague Moby, gris",
+      "description": "Vaso de enjuague Moby, gris. Características: Vaso de enjuague · Asa. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Vaso de enjuague · Asa",
+      "seoTitle": "Vaso de enjuague Moby, gris (BBA002) | Baby Bath Ease",
+      "seoDescription": "Vaso de enjuague Moby, gris (BBA002) — Vaso de enjuague · Asa. Venta al por mayor / OEM / ODM.",
+      "keywords": "Vaso de enjuague Moby, gris, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA003": {
+      "name": "Protector de grifo de bañera delfín",
+      "description": "Protector de grifo de bañera delfín. Características: Protección de grifo. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Protección de grifo",
+      "seoTitle": "Protector de grifo de bañera delfín (BBA003) | Baby Bath Ease",
+      "seoDescription": "Protector de grifo de bañera delfín (BBA003) — Protección de grifo. Venta al por mayor / OEM / ODM.",
+      "keywords": "Protector de grifo de bañera delfín, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA004": {
+      "name": "Protector de grifo ballena gris",
+      "description": "Protector de grifo ballena gris. Características: Protección de grifo. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Protección de grifo",
+      "seoTitle": "Protector de grifo ballena gris (BBA004) | Baby Bath Ease",
+      "seoDescription": "Protector de grifo ballena gris (BBA004) — Protección de grifo. Venta al por mayor / OEM / ODM.",
+      "keywords": "Protector de grifo ballena gris, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA005": {
+      "name": "Termómetro de baño pato",
+      "description": "Termómetro de baño pato. Características: Referencia de temperatura · Diseño flotante. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Referencia de temperatura · Diseño flotante",
+      "seoTitle": "Termómetro de baño pato (BBA005) | Baby Bath Ease",
+      "seoDescription": "Termómetro de baño pato (BBA005) — Referencia de temperatura · Diseño flotante. Venta al por mayor / OEM / ODM.",
+      "keywords": "Termómetro de baño pato, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBA006": {
+      "name": "Termómetro de baño tortuga flotante",
+      "description": "Termómetro de baño tortuga flotante. Características: Referencia de temperatura · Diseño flotante. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Referencia de temperatura · Diseño flotante",
+      "seoTitle": "Termómetro de baño tortuga flotante (BBA006) | Baby Bath Ease",
+      "seoDescription": "Termómetro de baño tortuga flotante (BBA006) — Referencia de temperatura · Diseño flotante. Venta al por mayor / OEM / ODM.",
+      "keywords": "Termómetro de baño tortuga flotante, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBA007": {
+      "name": "Cambiador regulable, gris claro",
+      "description": "Cambiador regulable, gris claro. Características: Diseño plegable · Altura regulable · Ruedas · Almacenamiento compacto · Cambiador. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Altura regulable · Ruedas · Almacenamiento compacto",
+      "seoTitle": "Cambiador regulable, gris claro (BBA007) | Baby Bath Ease",
+      "seoDescription": "Cambiador regulable, gris claro (BBA007) — Diseño plegable · Altura regulable · Ruedas · Almacenamiento compacto. Venta al por mayor / OEM / ODM.",
+      "keywords": "Cambiador regulable, gris claro, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.772Z"
+    },
+    "BBA008": {
+      "name": "Cambiador 2 en 1 con bañera, gris",
+      "description": "Cambiador 2 en 1 con bañera, gris. Características: Diseño plegable · Ruedas · Almacenamiento compacto · Cambiador. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Ruedas · Almacenamiento compacto · Cambiador",
+      "seoTitle": "Cambiador 2 en 1 con bañera, gris (BBA008) | Baby Bath Ease",
+      "seoDescription": "Cambiador 2 en 1 con bañera, gris (BBA008) — Diseño plegable · Ruedas · Almacenamiento compacto · Cambiador. Venta al por mayor / OEM / ODM.",
+      "keywords": "Cambiador 2 en 1 con bañera, gris, Accesorios de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.704Z"
+    },
+    "BBS001": {
+      "name": "Soporte de baño para recién nacido, blanco",
+      "description": "Soporte de baño para recién nacido, blanco. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Soportes y asientos de baño",
+      "seoTitle": "Soporte de baño para recién nacido, blanco (BBS001) | Baby Bath Ease",
+      "seoDescription": "Soporte de baño para recién nacido, blanco (BBS001) — Soportes y asientos de baño. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de baño para recién nacido, blanco, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS002": {
+      "name": "Asiento de baño antideslizante con ventosas",
+      "description": "Asiento de baño antideslizante con ventosas. Características: Fijación con ventosas · Cojín suave. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Cojín suave",
+      "seoTitle": "Asiento de baño antideslizante con ventosas (BBS002) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño antideslizante con ventosas (BBS002) — Fijación con ventosas · Cojín suave. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño antideslizante con ventosas, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS003": {
+      "name": "Asiento de baño 360° con ventosas",
+      "description": "Asiento de baño 360° con ventosas. Características: Fijación con ventosas · Cojín suave. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Cojín suave",
+      "seoTitle": "Asiento de baño 360° con ventosas (BBS003) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño 360° con ventosas (BBS003) — Fijación con ventosas · Cojín suave. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño 360° con ventosas, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS004": {
+      "name": "Asiento de baño regulable con tres ventosas",
+      "description": "Asiento de baño regulable con tres ventosas. Características: Fijación con ventosas · Soporte para la espalda. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Soporte para la espalda",
+      "seoTitle": "Asiento de baño regulable con tres ventosas (BBS004) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño regulable con tres ventosas (BBS004) — Fijación con ventosas · Soporte para la espalda. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño regulable con tres ventosas, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS005": {
+      "name": "Asiento de baño con ventosas, gris",
+      "description": "Asiento de baño con ventosas, gris. Características: Fijación con ventosas · Soporte para la espalda. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Soporte para la espalda",
+      "seoTitle": "Asiento de baño con ventosas, gris (BBS005) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño con ventosas, gris (BBS005) — Fijación con ventosas · Soporte para la espalda. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño con ventosas, gris, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS006": {
+      "name": "Asiento de baño con pantalla de temperatura",
+      "description": "Asiento de baño con pantalla de temperatura. Características: Fijación con ventosas · Referencia de temperatura · Soporte para la espalda · Cojín suave. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Referencia de temperatura · Soporte para la espalda · Cojín suave",
+      "seoTitle": "Asiento de baño con pantalla de temperatura (BBS006) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño con pantalla de temperatura (BBS006) — Fijación con ventosas · Referencia de temperatura · Soporte para la espalda · Cojín suave. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño con pantalla de temperatura, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS007": {
+      "name": "Asiento de baño con indicador térmico desde 6 meses, gris",
+      "description": "Asiento de baño con indicador térmico desde 6 meses, gris. Características: Fijación con ventosas · Referencia de temperatura · Soporte para la espalda. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Referencia de temperatura · Soporte para la espalda",
+      "seoTitle": "Asiento de baño con indicador térmico desde 6 meses, gris (BBS007) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño con indicador térmico desde 6 meses, gris (BBS007) — Fijación con ventosas · Referencia de temperatura · Soporte para la espalda. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño con indicador térmico desde 6 meses, gris, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS008": {
+      "name": "Asiento regulable con pantalla de temperatura, rosa",
+      "description": "Asiento regulable con pantalla de temperatura, rosa. Características: Fijación con ventosas · Referencia de temperatura · Cojín suave. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Referencia de temperatura · Cojín suave",
+      "seoTitle": "Asiento regulable con pantalla de temperatura, rosa (BBS008) | Baby Bath Ease",
+      "seoDescription": "Asiento regulable con pantalla de temperatura, rosa (BBS008) — Fijación con ventosas · Referencia de temperatura · Cojín suave. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento regulable con pantalla de temperatura, rosa, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS009": {
+      "name": "Asiento de baño con pegatina termómetro, gris",
+      "description": "Asiento de baño con pegatina termómetro, gris. Características: Fijación con ventosas · Referencia de temperatura · Soporte para la espalda · Desagüe. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Referencia de temperatura · Soporte para la espalda · Desagüe",
+      "seoTitle": "Asiento de baño con pegatina termómetro, gris (BBS009) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño con pegatina termómetro, gris (BBS009) — Fijación con ventosas · Referencia de temperatura · Soporte para la espalda · Desagüe. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño con pegatina termómetro, gris, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS010": {
+      "name": "Asiento de baño dinosaurio con barra de juguetes",
+      "description": "Asiento de baño dinosaurio con barra de juguetes. Características: Fijación con ventosas · Cojín suave · Barra de juguetes. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Cojín suave · Barra de juguetes",
+      "seoTitle": "Asiento de baño dinosaurio con barra de juguetes (BBS010) | Baby Bath Ease",
+      "seoDescription": "Asiento de baño dinosaurio con barra de juguetes (BBS010) — Fijación con ventosas · Cojín suave · Barra de juguetes. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento de baño dinosaurio con barra de juguetes, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS011": {
+      "name": "Asiento con respaldo de cuatro posiciones, melocotón y blanco",
+      "description": "Asiento con respaldo de cuatro posiciones, melocotón y blanco. Características: Fijación con ventosas · Referencia de temperatura · Altura regulable · Soporte para la espalda · Desagüe · Vaso de enjuague · Posiciones regulables. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas · Referencia de temperatura · Altura regulable · Soporte para la espalda",
+      "seoTitle": "Asiento con respaldo de cuatro posiciones, melocotón y blanco (BBS011) | Baby Bath Ease",
+      "seoDescription": "Asiento con respaldo de cuatro posiciones, melocotón y blanco (BBS011) — Fijación con ventosas · Referencia de temperatura · Altura regulable · Soporte para la espalda. Venta al por mayor / OEM / ODM.",
+      "keywords": "Asiento con respaldo de cuatro posiciones, melocotón y blanco, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS012": {
+      "name": "Soporte de ducha pato regulable",
+      "description": "Soporte de ducha pato regulable. Características: Altura regulable · Desagüe · Posiciones regulables · Accesorio de ducha. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Altura regulable · Desagüe · Posiciones regulables · Accesorio de ducha",
+      "seoTitle": "Soporte de ducha pato regulable (BBS012) | Baby Bath Ease",
+      "seoDescription": "Soporte de ducha pato regulable (BBS012) — Altura regulable · Desagüe · Posiciones regulables · Accesorio de ducha. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de ducha pato regulable, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS013": {
+      "name": "Soporte de ducha regulable para bebé, gris",
+      "description": "Soporte de ducha regulable para bebé, gris. Características: Altura regulable. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Altura regulable",
+      "seoTitle": "Soporte de ducha regulable para bebé, gris (BBS013) | Baby Bath Ease",
+      "seoDescription": "Soporte de ducha regulable para bebé, gris (BBS013) — Altura regulable. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de ducha regulable para bebé, gris, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS014": {
+      "name": "Soporte de baño de pie regulable mejorado",
+      "description": "Soporte de baño de pie regulable mejorado. Características: Soporte para la espalda · Desagüe · Asa. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Soporte para la espalda · Desagüe · Asa",
+      "seoTitle": "Soporte de baño de pie regulable mejorado (BBS014) | Baby Bath Ease",
+      "seoDescription": "Soporte de baño de pie regulable mejorado (BBS014) — Soporte para la espalda · Desagüe · Asa. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de baño de pie regulable mejorado, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS015": {
+      "name": "Soporte de baño regulable, verde",
+      "description": "Soporte de baño regulable, verde. Características: Altura regulable · Soporte para la espalda · Desagüe. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Altura regulable · Soporte para la espalda · Desagüe",
+      "seoTitle": "Soporte de baño regulable, verde (BBS015) | Baby Bath Ease",
+      "seoDescription": "Soporte de baño regulable, verde (BBS015) — Altura regulable · Soporte para la espalda · Desagüe. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de baño regulable, verde, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBS016": {
+      "name": "Soporte de ducha infantil regulable, caqui",
+      "description": "Soporte de ducha infantil regulable, caqui. Características: Altura regulable. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Altura regulable",
+      "seoTitle": "Soporte de ducha infantil regulable, caqui (BBS016) | Baby Bath Ease",
+      "seoDescription": "Soporte de ducha infantil regulable, caqui (BBS016) — Altura regulable. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de ducha infantil regulable, caqui, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS017": {
+      "name": "Soporte de ducha para sentarse y ponerse de pie",
+      "description": "Soporte de ducha para sentarse y ponerse de pie. Características: Diseño plegable · Altura regulable · Desagüe · Asa. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Altura regulable · Desagüe · Asa",
+      "seoTitle": "Soporte de ducha para sentarse y ponerse de pie (BBS017) | Baby Bath Ease",
+      "seoDescription": "Soporte de ducha para sentarse y ponerse de pie (BBS017) — Diseño plegable · Altura regulable · Desagüe · Asa. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de ducha para sentarse y ponerse de pie, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS018": {
+      "name": "Soporte de ducha pato plegable, gris",
+      "description": "Soporte de ducha pato plegable, gris. Características: Diseño plegable · Fijación con ventosas · Altura regulable. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Fijación con ventosas · Altura regulable",
+      "seoTitle": "Soporte de ducha pato plegable, gris (BBS018) | Baby Bath Ease",
+      "seoDescription": "Soporte de ducha pato plegable, gris (BBS018) — Diseño plegable · Fijación con ventosas · Altura regulable. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de ducha pato plegable, gris, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS019": {
+      "name": "Soporte de baño pato regulable, rosa",
+      "description": "Soporte de baño pato regulable, rosa. Características: Altura regulable · Desagüe. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Altura regulable · Desagüe",
+      "seoTitle": "Soporte de baño pato regulable, rosa (BBS019) | Baby Bath Ease",
+      "seoDescription": "Soporte de baño pato regulable, rosa (BBS019) — Altura regulable · Desagüe. Venta al por mayor / OEM / ODM.",
+      "keywords": "Soporte de baño pato regulable, rosa, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBS020": {
+      "name": "Torre de baño para bebé, morada",
+      "description": "Torre de baño para bebé, morada. Características: Soporte. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Soporte",
+      "seoTitle": "Torre de baño para bebé, morada (BBS020) | Baby Bath Ease",
+      "seoDescription": "Torre de baño para bebé, morada (BBS020) — Soporte. Venta al por mayor / OEM / ODM.",
+      "keywords": "Torre de baño para bebé, morada, Soportes y asientos de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT001": {
+      "name": "Bañera plegable para bebé, gris",
+      "description": "Bañera plegable para bebé, gris. Características: Diseño plegable · Hamaca o red de baño · Almacenamiento compacto. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Hamaca o red de baño · Almacenamiento compacto",
+      "seoTitle": "Bañera plegable para bebé, gris (BBT001) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable para bebé, gris (BBT001) — Diseño plegable · Hamaca o red de baño · Almacenamiento compacto. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable para bebé, gris, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT002": {
+      "name": "Bañera plegable para bebé, rosa",
+      "description": "Bañera plegable para bebé, rosa. Características: Diseño plegable · Referencia de temperatura · Cojín suave. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Referencia de temperatura · Cojín suave",
+      "seoTitle": "Bañera plegable para bebé, rosa (BBT002) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable para bebé, rosa (BBT002) — Diseño plegable · Referencia de temperatura · Cojín suave. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable para bebé, rosa, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT003": {
+      "name": "Bañera plegable con cojín, gris",
+      "description": "Bañera plegable con cojín, gris. Características: Diseño plegable · Referencia de temperatura · Altura regulable · Cojín suave · Desagüe · Almacenamiento compacto. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Referencia de temperatura · Altura regulable · Cojín suave",
+      "seoTitle": "Bañera plegable con cojín, gris (BBT003) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable con cojín, gris (BBT003) — Diseño plegable · Referencia de temperatura · Altura regulable · Cojín suave. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable con cojín, gris, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT005": {
+      "name": "Bañera plegable para bebé, avena",
+      "description": "Bañera plegable para bebé, avena. Características: Diseño plegable · Referencia de temperatura · Hamaca o red de baño · Almacenamiento compacto. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Referencia de temperatura · Hamaca o red de baño · Almacenamiento compacto",
+      "seoTitle": "Bañera plegable para bebé, avena (BBT005) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable para bebé, avena (BBT005) — Diseño plegable · Referencia de temperatura · Hamaca o red de baño · Almacenamiento compacto. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable para bebé, avena, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT006": {
+      "name": "Bañera plegable 4 en 1, gris",
+      "description": "Bañera plegable 4 en 1, gris. Características: Diseño plegable · Referencia de temperatura · Desagüe · Almacenamiento compacto · Diseño flotante. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Referencia de temperatura · Desagüe · Almacenamiento compacto",
+      "seoTitle": "Bañera plegable 4 en 1, gris (BBT006) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable 4 en 1, gris (BBT006) — Diseño plegable · Referencia de temperatura · Desagüe · Almacenamiento compacto. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable 4 en 1, gris, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT007": {
+      "name": "Bañera plegable para bebé",
+      "description": "Bañera plegable para bebé. Características: Diseño plegable · Desagüe. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Desagüe",
+      "seoTitle": "Bañera plegable para bebé (BBT007) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable para bebé (BBT007) — Diseño plegable · Desagüe. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable para bebé, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BBT008": {
+      "name": "Bañera con soporte plegable, rosa",
+      "description": "Bañera con soporte plegable, rosa. Características: Diseño plegable · Soporte para la espalda · Desagüe · Soporte · Almacenamiento compacto. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Soporte para la espalda · Desagüe · Soporte",
+      "seoTitle": "Bañera con soporte plegable, rosa (BBT008) | Baby Bath Ease",
+      "seoDescription": "Bañera con soporte plegable, rosa (BBT008) — Diseño plegable · Soporte para la espalda · Desagüe · Soporte. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera con soporte plegable, rosa, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT009": {
+      "name": "Bañera para bebé de tres etapas, gris",
+      "description": "Bañera para bebé de tres etapas, gris. Características: Desagüe · Posiciones regulables. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Desagüe · Posiciones regulables",
+      "seoTitle": "Bañera para bebé de tres etapas, gris (BBT009) | Baby Bath Ease",
+      "seoDescription": "Bañera para bebé de tres etapas, gris (BBT009) — Desagüe · Posiciones regulables. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera para bebé de tres etapas, gris, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT010": {
+      "name": "Bañera reclinable 4 en 1",
+      "description": "Bañera reclinable 4 en 1. Características: Posiciones regulables. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Posiciones regulables",
+      "seoTitle": "Bañera reclinable 4 en 1 (BBT010) | Baby Bath Ease",
+      "seoDescription": "Bañera reclinable 4 en 1 (BBT010) — Posiciones regulables. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera reclinable 4 en 1, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT011": {
+      "name": "Bañera evolutiva 3 en 1",
+      "description": "Bañera evolutiva 3 en 1. Características: Desagüe · Hamaca o red de baño · Almacenamiento compacto · Posiciones regulables. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Desagüe · Hamaca o red de baño · Almacenamiento compacto · Posiciones regulables",
+      "seoTitle": "Bañera evolutiva 3 en 1 (BBT011) | Baby Bath Ease",
+      "seoDescription": "Bañera evolutiva 3 en 1 (BBT011) — Desagüe · Hamaca o red de baño · Almacenamiento compacto · Posiciones regulables. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera evolutiva 3 en 1, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT012": {
+      "name": "Conjunto de bañera spa con ducha de lluvia",
+      "description": "Conjunto de bañera spa con ducha de lluvia. Características: Hamaca o red de baño · Accesorio de ducha. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Hamaca o red de baño · Accesorio de ducha",
+      "seoTitle": "Conjunto de bañera spa con ducha de lluvia (BBT012) | Baby Bath Ease",
+      "seoDescription": "Conjunto de bañera spa con ducha de lluvia (BBT012) — Hamaca o red de baño · Accesorio de ducha. Venta al por mayor / OEM / ODM.",
+      "keywords": "Conjunto de bañera spa con ducha de lluvia, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BBT013": {
+      "name": "Bañera plegable con vaso de enjuague",
+      "description": "Bañera plegable con vaso de enjuague. Características: Diseño plegable · Vaso de enjuague. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Vaso de enjuague",
+      "seoTitle": "Bañera plegable con vaso de enjuague (BBT013) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable con vaso de enjuague (BBT013) — Diseño plegable · Vaso de enjuague. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable con vaso de enjuague, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T03:59:59.074Z"
+    },
+    "BBT014": {
+      "name": "Bañera plegable con soporte y cojín",
+      "description": "Bañera plegable con soporte y cojín. Características: Diseño plegable · Cojín suave · Soporte. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño plegable · Cojín suave · Soporte",
+      "seoTitle": "Bañera plegable con soporte y cojín (BBT014) | Baby Bath Ease",
+      "seoDescription": "Bañera plegable con soporte y cojín (BBT014) — Diseño plegable · Cojín suave · Soporte. Venta al por mayor / OEM / ODM.",
+      "keywords": "Bañera plegable con soporte y cojín, Bañeras para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-04T07:29:01.644Z"
+    },
+    "BTOY001": {
+      "name": "Ballena pulverizadora de agua",
+      "description": "Ballena pulverizadora de agua. Características: Juego de agua. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juego de agua",
+      "seoTitle": "Ballena pulverizadora de agua (BTOY001) | Baby Bath Ease",
+      "seoDescription": "Ballena pulverizadora de agua (BTOY001) — Juego de agua. Venta al por mayor / OEM / ODM.",
+      "keywords": "Ballena pulverizadora de agua, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY002": {
+      "name": "Fuente de baño ballena luminosa",
+      "description": "Fuente de baño ballena luminosa. Características: Juego de agua · Efectos luminosos. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juego de agua · Efectos luminosos",
+      "seoTitle": "Fuente de baño ballena luminosa (BTOY002) | Baby Bath Ease",
+      "seoDescription": "Fuente de baño ballena luminosa (BTOY002) — Juego de agua · Efectos luminosos. Venta al por mayor / OEM / ODM.",
+      "keywords": "Fuente de baño ballena luminosa, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY003": {
+      "name": "Juguete de tuberías para el baño",
+      "description": "Juguete de tuberías para el baño. Características: Juego de agua. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juego de agua",
+      "seoTitle": "Juguete de tuberías para el baño (BTOY003) | Baby Bath Ease",
+      "seoDescription": "Juguete de tuberías para el baño (BTOY003) — Juego de agua. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juguete de tuberías para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY004": {
+      "name": "Tobogán de baño pingüino",
+      "description": "Tobogán de baño pingüino. Características: Figuras de animales. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Figuras de animales",
+      "seoTitle": "Tobogán de baño pingüino (BTOY004) | Baby Bath Ease",
+      "seoDescription": "Tobogán de baño pingüino (BTOY004) — Figuras de animales. Venta al por mayor / OEM / ODM.",
+      "keywords": "Tobogán de baño pingüino, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY005": {
+      "name": "Circuito acuático de baño",
+      "description": "Circuito acuático de baño. Características: Juego de agua. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juego de agua",
+      "seoTitle": "Circuito acuático de baño (BTOY005) | Baby Bath Ease",
+      "seoDescription": "Circuito acuático de baño (BTOY005) — Juego de agua. Venta al por mayor / OEM / ODM.",
+      "keywords": "Circuito acuático de baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY006": {
+      "name": "Juego de juguetes con pala de baño",
+      "description": "Juego de juguetes con pala de baño. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juguetes de baño",
+      "seoTitle": "Juego de juguetes con pala de baño (BTOY006) | Baby Bath Ease",
+      "seoDescription": "Juego de juguetes con pala de baño (BTOY006) — Juguetes de baño. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de juguetes con pala de baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY007": {
+      "name": "Juego de juguetes de baño con pala de colores",
+      "description": "Juego de juguetes de baño con pala de colores. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juguetes de baño",
+      "seoTitle": "Juego de juguetes de baño con pala de colores (BTOY007) | Baby Bath Ease",
+      "seoDescription": "Juego de juguetes de baño con pala de colores (BTOY007) — Juguetes de baño. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de juguetes de baño con pala de colores, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY008": {
+      "name": "Cubos de baño con personajes",
+      "description": "Cubos de baño con personajes. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juguetes de baño",
+      "seoTitle": "Cubos de baño con personajes (BTOY008) | Baby Bath Ease",
+      "seoDescription": "Cubos de baño con personajes (BTOY008) — Juguetes de baño. Venta al por mayor / OEM / ODM.",
+      "keywords": "Cubos de baño con personajes, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T15:39:57.090Z"
+    },
+    "BTOY009": {
+      "name": "Tortugas flotantes para el baño",
+      "description": "Tortugas flotantes para el baño. Características: Diseño flotante. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño flotante",
+      "seoTitle": "Tortugas flotantes para el baño (BTOY009) | Baby Bath Ease",
+      "seoDescription": "Tortugas flotantes para el baño (BTOY009) — Diseño flotante. Venta al por mayor / OEM / ODM.",
+      "keywords": "Tortugas flotantes para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY010": {
+      "name": "Juego de animales marinos para el baño",
+      "description": "Juego de animales marinos para el baño. Características: Diseño flotante · Figuras de animales. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño flotante · Figuras de animales",
+      "seoTitle": "Juego de animales marinos para el baño (BTOY010) | Baby Bath Ease",
+      "seoDescription": "Juego de animales marinos para el baño (BTOY010) — Diseño flotante · Figuras de animales. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de animales marinos para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY011": {
+      "name": "Juego de animales marinos de colores",
+      "description": "Juego de animales marinos de colores. Características: Diseño flotante · Figuras de animales. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño flotante · Figuras de animales",
+      "seoTitle": "Juego de animales marinos de colores (BTOY011) | Baby Bath Ease",
+      "seoDescription": "Juego de animales marinos de colores (BTOY011) — Diseño flotante · Figuras de animales. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de animales marinos de colores, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY012": {
+      "name": "Pelotas flotantes de baño",
+      "description": "Pelotas flotantes de baño. Características: Diseño flotante · Figuras de animales. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño flotante · Figuras de animales",
+      "seoTitle": "Pelotas flotantes de baño (BTOY012) | Baby Bath Ease",
+      "seoDescription": "Pelotas flotantes de baño (BTOY012) — Diseño flotante · Figuras de animales. Venta al por mayor / OEM / ODM.",
+      "keywords": "Pelotas flotantes de baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY013": {
+      "name": "Vasos apilables para el baño",
+      "description": "Vasos apilables para el baño. Características: Vasos apilables. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Vasos apilables",
+      "seoTitle": "Vasos apilables para el baño (BTOY013) | Baby Bath Ease",
+      "seoDescription": "Vasos apilables para el baño (BTOY013) — Vasos apilables. Venta al por mayor / OEM / ODM.",
+      "keywords": "Vasos apilables para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY014": {
+      "name": "Juego de juguetes de espuma para el baño",
+      "description": "Juego de juguetes de espuma para el baño. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juguetes de baño",
+      "seoTitle": "Juego de juguetes de espuma para el baño (BTOY014) | Baby Bath Ease",
+      "seoDescription": "Juego de juguetes de espuma para el baño (BTOY014) — Juguetes de baño. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de juguetes de espuma para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY015": {
+      "name": "Juego de juguetes de baño con ventosas",
+      "description": "Juego de juguetes de baño con ventosas. Características: Fijación con ventosas. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Fijación con ventosas",
+      "seoTitle": "Juego de juguetes de baño con ventosas (BTOY015) | Baby Bath Ease",
+      "seoDescription": "Juego de juguetes de baño con ventosas (BTOY015) — Fijación con ventosas. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de juguetes de baño con ventosas, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY016": {
+      "name": "Juego de pesca magnética para el baño",
+      "description": "Juego de pesca magnética para el baño. Características: Diseño flotante · Pesca magnética. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Diseño flotante · Pesca magnética",
+      "seoTitle": "Juego de pesca magnética para el baño (BTOY016) | Baby Bath Ease",
+      "seoDescription": "Juego de pesca magnética para el baño (BTOY016) — Diseño flotante · Pesca magnética. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de pesca magnética para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTOY017": {
+      "name": "Juego de vehículos de rescate para el baño",
+      "description": "Juego de vehículos de rescate para el baño. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Juguetes de baño",
+      "seoTitle": "Juego de vehículos de rescate para el baño (BTOY017) | Baby Bath Ease",
+      "seoDescription": "Juego de vehículos de rescate para el baño (BTOY017) — Juguetes de baño. Venta al por mayor / OEM / ODM.",
+      "keywords": "Juego de vehículos de rescate para el baño, Juguetes de baño, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    },
+    "BTWL001": {
+      "name": "Toalla de baño para bebé",
+      "description": "Toalla de baño para bebé. Consulte a nuestro equipo sobre este modelo, las opciones, el embalaje y las cantidades al por mayor.",
+      "shortDescription": "Toallas para bebé",
+      "seoTitle": "Toalla de baño para bebé (BTWL001) | Baby Bath Ease",
+      "seoDescription": "Toalla de baño para bebé (BTWL001) — Toallas para bebé. Venta al por mayor / OEM / ODM.",
+      "keywords": "Toalla de baño para bebé, Toallas para bebé, OEM, ODM",
+      "sourceUpdatedAt": "2026-10-03T10:55:41.689Z"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Fabricante OEM / ODM de productos de baño para bebés | Baby Bath Ease",
+      "description": "Diseñamos y fabricamos productos de baño para bebés para marcas y distribuidores internacionales. Acompañamos sus ideas desde el concepto hasta la producción."
+    },
+    "products": {
+      "title": "Descubra nuestra colección de baño para bebés | Baby Bath Ease",
+      "description": "Soluciones prácticas para marcas internacionales, distribuidores y proyectos de marca propia."
+    },
+    "about": {
+      "title": "Nosotros | Baby Bath Ease",
+      "description": "Fundada en Hong Kong por Kevin Kwok en 1982, nuestra empresa familiar cuenta con más de 40 años de experiencia en diseño de productos de plástico y fabricación de artículos de baño para bebés. Eric Kwok continú"
+    },
+    "contact": {
+      "title": "Contacto | Baby Bath Ease",
+      "description": "Venta al por mayor, distribución u OEM: respondemos en dos días laborables."
+    }
+  }
+}
